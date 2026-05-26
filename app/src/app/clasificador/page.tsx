@@ -22,7 +22,7 @@ export default async function ClasificadorPage() {
               <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
               </svg>
-              Modo ML local activo — Agrega ANTHROPIC_API_KEY en Vercel para activar Claude IA
+              Modo ML local activo — Agrega ANTHROPIC_API_KEY en Vercel para activar el motor de IA
             </div>
           )}
           {hasApiKey && (
@@ -30,7 +30,7 @@ export default async function ClasificadorPage() {
               <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
                 <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z" clipRule="evenodd" />
               </svg>
-              Claude IA activo — Motor de clasificación de alta precisión
+              Motor de IA activo — Clasificación de alta precisión
             </div>
           )}
         </div>

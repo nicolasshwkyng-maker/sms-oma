@@ -239,7 +239,7 @@ Clasificación:
 - Indicadores SPI: ${r.indicadores_spi || 'N/A'}`)
     .join('\n\n---\n\n')
 
-  const prompt = `Eres un experto en Seguridad Operacional (SMS) de aviación de SATENA, aerolínea colombiana de aviación regional.
+  const prompt = `Eres un experto en Seguridad Operacional (SMS) de una Organización de Mantenimiento de Aeronaves (OMA).
 
 Analiza el siguiente reporte de mantenimiento y clasifícalo según los parámetros del SMS OMA.
 

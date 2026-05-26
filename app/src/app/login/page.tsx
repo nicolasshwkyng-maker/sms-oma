@@ -39,7 +39,7 @@ export default function LoginPage() {
             </svg>
           </div>
           <h1 className="text-2xl font-bold text-white">SMS OMA</h1>
-          <p className="text-brand-200 text-sm mt-1">Sistema de Gestión de Seguridad · SATENA</p>
+          <p className="text-brand-200 text-sm mt-1">Sistema de Gestión de Seguridad Operacional</p>
         </div>
 
         {/* Card */}
@@ -92,7 +92,7 @@ export default function LoginPage() {
         </div>
 
         <p className="text-center text-brand-300 text-xs mt-6">
-          SATENA OMA · Sistema de Reportes SMS · v1.0 · 2026
+          OMA · Sistema de Reportes SMS · v1.0 · 2026
         </p>
       </div>
     </div>

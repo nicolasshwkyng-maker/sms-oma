@@ -16,7 +16,7 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
           user === process.env.APP_USERNAME &&
           pass === process.env.APP_PASSWORD
         ) {
-          return { id: '1', name: 'SMS OMA', email: 'sms@satena.com' }
+          return { id: '1', name: 'SMS OMA', email: 'sms@oma.aero' }
         }
         return null
       },

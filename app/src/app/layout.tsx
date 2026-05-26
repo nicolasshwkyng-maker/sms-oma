@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'SMS OMA — Sistema de Gestión de Seguridad',
-  description: 'Clasificador predictivo y análisis de reportes SMS para la Organización de Mantenimiento de Aeronaves SATENA',
+  description: 'Clasificador predictivo y análisis de reportes del Sistema de Gestión de Seguridad Operacional',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

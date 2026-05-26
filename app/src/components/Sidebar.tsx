@@ -5,11 +5,10 @@ import { signOut } from 'next-auth/react'
 import { clsx } from 'clsx'
 
 const NAV = [
-  { href: '/dashboard',      label: 'Dashboard',        icon: 'M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6' },
-  { href: '/clasificador',   label: 'Clasificador IA',  icon: 'M9.813 15.904 9 18.75l-.813-2.846a4.5 4.5 0 0 0-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 0 0 3.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 0 0 3.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 0 0-3.09 3.09Z' },
-  { href: '/revision-2026',  label: 'Revisión 2026',    icon: 'M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z' },
+  { href: '/dashboard',      label: 'Dashboard',         icon: 'M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6' },
+  { href: '/clasificador',   label: 'Clasificador IA',   icon: 'M9.813 15.904 9 18.75l-.813-2.846a4.5 4.5 0 0 0-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 0 0 3.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 0 0 3.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 0 0-3.09 3.09Z' },
   { href: '/analisis',       label: 'Análisis Factores', icon: 'M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z' },
-  { href: '/base-datos',     label: 'Base de Datos',    icon: 'M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4' },
+  { href: '/base-datos',     label: 'Base de Datos',     icon: 'M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4' },
 ]
 
 export default function Sidebar() {
@@ -28,7 +27,7 @@ export default function Sidebar() {
           </div>
           <div>
             <p className="text-white font-bold text-sm leading-tight">SMS OMA</p>
-            <p className="text-brand-300 text-xs">SATENA</p>
+            <p className="text-brand-300 text-xs">Seguridad Operacional</p>
           </div>
         </div>
       </div>
@@ -54,7 +53,7 @@ export default function Sidebar() {
       {/* Footer */}
       <div className="px-3 py-4 border-t border-white/10">
         <div className="px-4 py-2 mb-2">
-          <p className="text-brand-300 text-xs font-medium">OMA · SATENA</p>
+          <p className="text-brand-300 text-xs font-medium">SMS OMA</p>
           <p className="text-brand-400 text-xs">v1.0 · 2026</p>
         </div>
         <button
