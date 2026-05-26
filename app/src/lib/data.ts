@@ -8,12 +8,12 @@ import matrizRaw     from '@/data/matriz_sms.json'
 import statsRaw      from '@/data/stats.json'
 import trainingRaw   from '@/data/training_data.json'
 
-export const allRecords    = bbddRaw      as SMSRecord[]
-export const corrections   = correctionsRaw as Correction[]
-export const ataLookup     = ataRaw       as ATAItem[]
-export const riskMatrix    = matrizRaw    as RiskMatrixItem[]
-export const stats         = statsRaw     as Stats
-export const trainingData  = trainingRaw  as TrainingRecord[]
+export const allRecords    = bbddRaw      as unknown as SMSRecord[]
+export const corrections   = correctionsRaw as unknown as Correction[]
+export const ataLookup     = ataRaw       as unknown as ATAItem[]
+export const riskMatrix    = matrizRaw    as unknown as RiskMatrixItem[]
+export const stats         = statsRaw     as unknown as Stats
+export const trainingData  = trainingRaw  as unknown as TrainingRecord[]
 
 export const records2026   = allRecords.filter(r => r.Year === 2026)
 export const recordsPre2026 = allRecords.filter(r => r.Year < 2026)
