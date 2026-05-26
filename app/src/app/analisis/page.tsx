@@ -43,7 +43,7 @@ export default async function AnalisisPage() {
     {
       titulo: 'Documentación Inapropiada (DOC)',
       count: df26.filter(r => r['Peligro Generico']?.includes('DOC')).length,
-      areas: [...new Set(df26.filter(r => r['Peligro Generico']?.includes('DOC')).map(r => r.Area_Generadora).filter(Boolean))].slice(0, 3).join(', '),
+      areas: Array.from(new Set(df26.filter(r => r['Peligro Generico']?.includes('DOC')).map(r => r.Area_Generadora).filter(Boolean))).slice(0, 3).join(', '),
       riesgo: 'Riesgo Medio - Alto',
       accion: 'Auditoría documental mensual + sistema centralizado de versiones + alertas de vencimiento',
       responsable: 'Biblioteca y Registros Técnicos / Ingeniería',
@@ -52,7 +52,7 @@ export default async function AnalisisPage() {
     {
       titulo: 'Operaciones Inadecuadas en Tierra (GH)',
       count: df26.filter(r => r['Peligro Generico']?.includes('GH')).length,
-      areas: [...new Set(df26.filter(r => r['Peligro Generico']?.includes('GH')).map(r => r.Area_Generadora).filter(Boolean))].slice(0, 3).join(', '),
+      areas: Array.from(new Set(df26.filter(r => r['Peligro Generico']?.includes('GH')).map(r => r.Area_Generadora).filter(Boolean))).slice(0, 3).join(', '),
       riesgo: 'Riesgo Alto - Extremo',
       accion: 'Comunicación formal a empresas de rampa + señalización reforzada + capacitación ground safety',
       responsable: 'Seguridad Operacional / Inspección y Calidad',
@@ -61,7 +61,7 @@ export default async function AnalisisPage() {
     {
       titulo: 'Mantenimiento Deficiente (MDA)',
       count: df26.filter(r => r['Peligro Generico']?.includes('MDA')).length,
-      areas: [...new Set(df26.filter(r => r['Peligro Generico']?.includes('MDA')).map(r => r.Area_Generadora).filter(Boolean))].slice(0, 3).join(', '),
+      areas: Array.from(new Set(df26.filter(r => r['Peligro Generico']?.includes('MDA')).map(r => r.Area_Generadora).filter(Boolean))).slice(0, 3).join(', '),
       riesgo: 'Riesgo Alto',
       accion: 'Seguimiento diario NRIs críticos + gestión proactiva cadena de suministro + auditoría tasa de cierre',
       responsable: 'Centro de Control Mantenimiento / Planeación',
@@ -70,7 +70,7 @@ export default async function AnalisisPage() {
     {
       titulo: 'Instalaciones del Hangar (HAN)',
       count: df26.filter(r => r['Peligro Generico']?.includes('HAN')).length,
-      areas: [...new Set(df26.filter(r => r['Peligro Generico']?.includes('HAN')).map(r => r.Area_Generadora).filter(Boolean))].slice(0, 3).join(', '),
+      areas: Array.from(new Set(df26.filter(r => r['Peligro Generico']?.includes('HAN')).map(r => r.Area_Generadora).filter(Boolean))).slice(0, 3).join(', '),
       riesgo: 'Riesgo Medio',
       accion: 'Inventario crítico de herramientas y equipamiento + plan de reposición trimestral + reporte semanal de deficiencias',
       responsable: 'Mantenimiento / Seguridad Operacional',
@@ -79,7 +79,7 @@ export default async function AnalisisPage() {
     {
       titulo: 'Procedimientos Incorrectos (PRO)',
       count: df26.filter(r => r['Peligro Generico']?.includes('PRO')).length,
-      areas: [...new Set(df26.filter(r => r['Peligro Generico']?.includes('PRO')).map(r => r.Area_Generadora).filter(Boolean))].slice(0, 3).join(', '),
+      areas: Array.from(new Set(df26.filter(r => r['Peligro Generico']?.includes('PRO')).map(r => r.Area_Generadora).filter(Boolean))).slice(0, 3).join(', '),
       riesgo: 'Riesgo Medio - Alto',
       accion: 'Check-list obligatorio de apertura de tarea + verificación de procedimiento antes de inicio + supervisión reforzada',
       responsable: 'Inspección y Calidad / Ingeniería',
@@ -88,7 +88,7 @@ export default async function AnalisisPage() {
     {
       titulo: 'FOD — Objetos Extraños',
       count: df26.filter(r => r['Peligro Generico']?.includes('FOD')).length,
-      areas: [...new Set(df26.filter(r => r['Peligro Generico']?.includes('FOD')).map(r => r.Area_Generadora).filter(Boolean))].slice(0, 3).join(', '),
+      areas: Array.from(new Set(df26.filter(r => r['Peligro Generico']?.includes('FOD')).map(r => r.Area_Generadora).filter(Boolean))).slice(0, 3).join(', '),
       riesgo: 'Riesgo Medio',
       accion: 'FOD Walk diario en hangar y rampa + protocolo de inspección post-mantenimiento + canecas en puntos estratégicos',
       responsable: 'Seguridad Operacional / Mantenimiento',
