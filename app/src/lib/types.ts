@@ -78,6 +78,13 @@ export interface TrainingRecord {
   year: number
 }
 
+export interface Barrier {
+  id: number
+  nombre: string
+  tipo: 'T' | 'R' | 'E' | 'O'
+  efectividad: number   // 0, 20, 50, 80, 100
+}
+
 export interface ClassificationResult {
   tipo_reporte: string
   peligro_generico: string
@@ -90,6 +97,18 @@ export interface ClassificationResult {
   indicadores_spi: string
   confidence: number
   method: 'claude-api' | 'ml-local' | 'rules'
+  // Extended ARMS analysis
+  severity_pcrp?: {
+    aeronave: string; personas: string; regulacion: string
+    reputacion: string; ambiente: string; peor: string
+  }
+  efectividad_global?: number          // 0-100 %
+  likelyhood_from_barriers?: string    // probability suggested by barriers
+  justificacion_severidad?: string
+  justificacion_probabilidad?: string
+  area_gestora?: string
+  responsable_sugerido?: string
+  plan_gestion?: string
 }
 
 export interface Stats {
