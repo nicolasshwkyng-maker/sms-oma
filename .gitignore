@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Output files (grandes, se regeneran con el script)
+output/*.xlsx
+
+# macOS
+.DS_Store

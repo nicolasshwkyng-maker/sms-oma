@@ -1,0 +1,84 @@
+{
+  "total_records": 270,
+  "by_year": {
+    "2023": 28,
+    "2024": 52,
+    "2025": 120,
+    "2026": 70
+  },
+  "by_peligro": {
+    "PRO - Procedimientos de mantenimiento incorrectos": 50,
+    "GH - Operaciones inadecuadas en tierra": 46,
+    "DOC - Documentación inapropiada": 43,
+    "MDA - Mantenimiento deficiente de aeronaves": 35,
+    "HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento": 23,
+    "HER - Uso de herramientas inapropiadas": 12,
+    "FOD - Foreing Object Debris/Damage": 11,
+    "DGA - Daños graves causados a una aeronave durante las actividades de mantenimiento": 5,
+    "ALM - Almacenamiento inadecuado de componentes": 3,
+    "FH - Factores humanos como; aspectos psicosociales e incapacidad evidente del personal técnico": 2,
+    "GAR - Requerimientos de garantía por servicios deficientes": 1
+  },
+  "by_area_2026": {
+    "Mantenimiento": 32,
+    "Ingeniería": 10,
+    "Inspección y Calidad": 7,
+    "Seguridad Operacional": 5,
+    "Centro de Control Mantenimiento": 4,
+    "Planeación y Programación": 4,
+    "Pilotos": 3,
+    "Biblioteca y Registros Técnicos": 2
+  },
+  "by_alarp_2026": {
+    "Riesgo Medio": 42,
+    "Riesgo Alto": 21,
+    "Riesgo Extremo": 4
+  },
+  "by_tipo_reporte": {
+    "Reactivo": 152,
+    "Proactivo": 112
+  },
+  "corrections_count": 120,
+  "corrections_by_field": {
+    "Indicadores SPI": 49,
+    "Conciencia del Error": 41,
+    "ATA_100": 10,
+    "ATA_100: ATA_Sign": 10,
+    "Peligro Generico": 10
+  },
+  "high_risk_2026": 25,
+  "peligros_options": [
+    "ALM - Almacenamiento inadecuado de componentes",
+    "DGA - Daños graves causados a una aeronave durante las actividades de mantenimiento",
+    "DOC - Documentación inapropiada",
+    "FH - Factores humanos como; aspectos psicosociales e incapacidad evidente del personal técnico",
+    "FOD - Foreing Object Debris/Damage",
+    "GAR - Requerimientos de garantía por servicios deficientes",
+    "GH - Operaciones inadecuadas en tierra",
+    "HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento",
+    "HER - Uso de herramientas inapropiadas",
+    "MDA - Mantenimiento deficiente de aeronaves",
+    "PRO - Procedimientos de mantenimiento incorrectos"
+  ],
+  "likelyhood_options": [
+    "Frecuente",
+    "Probable",
+    "Ocasional",
+    "Improbable",
+    "Sumamente Improbable"
+  ],
+  "severity_options": [
+    "Catastrofico",
+    "Peligroso",
+    "Importante",
+    "Leve",
+    "Insignificante"
+  ],
+  "spi_options": [
+    "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Daños graves causados a una aeronave durante las actividades de mantenimiento",
+    "Reclamación por garantías",
+    "Consulta de textos desactualizados",
+    "Incorrecto almacenaje de componentes aeronáuticos"
+  ]
+}

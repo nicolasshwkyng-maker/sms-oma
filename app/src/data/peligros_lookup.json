@@ -1,0 +1,2018 @@
+[
+  {
+    "code": "REG-01",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Regulador",
+    "example": "Falta de, deficiente o ineficaz legislación y/o reglamentación."
+  },
+  {
+    "code": "REG-02",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Regulador",
+    "example": "Falta de o ineficacia de la capacidad de investigación de accidentes."
+  },
+  {
+    "code": "REG-03",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Regulador",
+    "example": "Capacidad de supervisión inadecuada."
+  },
+  {
+    "code": "OMN-01",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Gestión",
+    "example": "Falta de designación del ejecutivo responsable. Compromiso limitado o falta de compromiso de la gerencia."
+  },
+  {
+    "code": "OMN-02",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Gestión",
+    "example": "Falta de o descripción incompleta de funciones, cualificaciones, responsabilidades y obligaciones."
+  },
+  {
+    "code": "OMN-03",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Gestión",
+    "example": "Limitación o falta de disponibilidad o planificación de recursos, incluido el personal."
+  },
+  {
+    "code": "OMN-04",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Gestión",
+    "example": "Falta de o políticas ineficaces."
+  },
+  {
+    "code": "OMN-05",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Gestión",
+    "example": "Procedimientos incorrectos o incompletos, incluidas las instrucciones."
+  },
+  {
+    "code": "OMN-06",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Gestión",
+    "example": "Falta de o deficientes relaciones laborales y de gestión."
+  },
+  {
+    "code": "OMN-07",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Gestión",
+    "example": "Falta de o ineficaz estructura organizacional."
+  },
+  {
+    "code": "OMN-08",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Gestión",
+    "example": "Deficiente cultura de seguridad organizacional."
+  },
+  {
+    "code": "OMN-09",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Gestión",
+    "example": "Falta de o ineficaces procesos de gestión de seguridad (incluyendo gestión de riesgos, garantía de seguridad, auditorías, capacitación y asignación de recursos)."
+  },
+  {
+    "code": "OMN-10",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Gestión",
+    "example": "Falta o procedimientos de auditoría ineficaces."
+  },
+  {
+    "code": "OMN-11",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Gestión",
+    "example": "Falta de o limitada asignación de recursos."
+  },
+  {
+    "code": "OMN-12",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Gestión",
+    "example": "Capacitación incorrecta, incompleta o falta de ella; transferencia de conocimiento y medios formales de comunicación de seguridad deficientes."
+  },
+  {
+    "code": "OMN-13",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Gestión",
+    "example": "Estructuras organizacionales no oficiales."
+  },
+  {
+    "code": "OMN-14",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Gestión",
+    "example": "Crecimiento, huelgas, recesión o dificultades financieras organizacionales."
+  },
+  {
+    "code": "OMN-15",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Gestión",
+    "example": "Fusiones o adquisiciones."
+  },
+  {
+    "code": "OMN-16",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Gestión",
+    "example": "Cambios, actualizaciones o nuevas herramientas, equipos, procesos o instalaciones."
+  },
+  {
+    "code": "OMN-17",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Gestión",
+    "example": "Procedimientos incorrectos o ineficaces de relevo de turno/tripulación."
+  },
+  {
+    "code": "OMN-18",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Gestión",
+    "example": "Cambios o rotación en la gerencia o empleados."
+  },
+  {
+    "code": "OMN-19",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Gestión",
+    "example": "Procesos informales (Procedimientos Operativos Estándar)."
+  },
+  {
+    "code": "OMN-20",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Gestión",
+    "example": "Falta de, deficientes o inapropiadas decisiones de adquisición de materiales/equipos."
+  },
+  {
+    "code": "OMN-21",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Gestión",
+    "example": "Falta de, deficiente contratación/asignación de personal."
+  },
+  {
+    "code": "OMN-22",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Gestión",
+    "example": "Falta de, o no cumple con, o no se ha desarrollado un plan de respuesta de emergencia adecuado."
+  },
+  {
+    "code": "ODP-01",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Doc., Procesos y Proc.",
+    "example": "Comunicación interna y externa incorrecta, deficiente o falta de ella, incluidas las barreras idiomáticas."
+  },
+  {
+    "code": "ODP-02",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Doc., Procesos y Proc.",
+    "example": "Falta de, desactualizados, incorrectos o incompletos manuales o procedimientos operativos (incluido mantenimiento)."
+  },
+  {
+    "code": "ODP-03",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Doc., Procesos y Proc.",
+    "example": "Falta de, incorrectas o incompletas descripciones de funciones del empleado."
+  },
+  {
+    "code": "ODP-04",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Doc., Procesos y Proc.",
+    "example": "Falta de, incorrectos, incompletos o complicados procesos de actualización de documentos."
+  },
+  {
+    "code": "ODP-05",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Doc., Procesos y Proc.",
+    "example": "Falta de, incorrectos o incompletos informes y registros."
+  },
+  {
+    "code": "ODP-06",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Doc., Procesos y Proc.",
+    "example": "Falta de, incorrecto o incompleto control de los documentos necesarios para el personal (licencias, habilitaciones y certificados)."
+  },
+  {
+    "code": "ODP-07",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Doc., Procesos y Proc.",
+    "example": "Ausencia de, o aplicación incompleta de los procedimientos y buenas prácticas de los manuales de la organización."
+  },
+  {
+    "code": "ODP-08",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Doc., Procesos y Proc.",
+    "example": "Falta de, o incumplimiento de, procedimientos que demuestren el cumplimiento de las normas bajo las cuales trabaja la organización."
+  },
+  {
+    "code": "ODP-09",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Doc., Procesos y Proc.",
+    "example": "Incumplimiento parcial o total de los requisitos aplicables a trabajos propios o subcontratados."
+  },
+  {
+    "code": "ODP-10",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Doc., Procesos y Proc.",
+    "example": "Falta de, o falta de mantenimiento de, la competencia del personal."
+  },
+  {
+    "code": "ODP-11",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Doc., Procesos y Proc.",
+    "example": "Falta de un contrato u orden de trabajo entre la organización de mantenimiento y el operador, que defina el alcance del trabajo a realizar y los trabajos solicitados y aceptados por el operador."
+  },
+  {
+    "code": "ODP-12",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Doc., Procesos y Proc.",
+    "example": "Falta de aprobación / aceptación de documentos por parte de la Autoridad de Aviación Civil (AAC)."
+  },
+  {
+    "code": "ODP-13",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Doc., Procesos y Proc.",
+    "example": "Falta de, o ausencia de, documentos de nombramiento del personal, de acuerdo con las funciones realizadas (alcance y limitaciones), dentro de la organización, firmados por el ejecutivo responsable o persona delegada."
+  },
+  {
+    "code": "ODP-14",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Doc., Procesos y Proc.",
+    "example": "Falta de, o incumplimiento del procedimiento correspondiente respecto a reparaciones mayores o modificaciones mayores."
+  },
+  {
+    "code": "OTR-01",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Capacitación",
+    "example": "Falta de, incorrecta o incompleta, impartición de capacitación (frecuencia, integridad, medidas de efectividad). Incluye factores humanos."
+  },
+  {
+    "code": "OTR-02",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Capacitación",
+    "example": "Falta o programa de capacitación ineficaz, incluida la gestión general del programa, planes de estudio, instrucción, instructores, evaluaciones del curso, programa de capacitación recurrente adecuado, programa de capacitación remedial adecuado y exámenes."
+  },
+  {
+    "code": "OTR-03",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Capacitación",
+    "example": "Falta de o ineficaces, procedimientos para calificar/capacitar, incluida la capacitación inicial, en el trabajo (OJT), instrucción/capacitación recurrente, tipo de instrucción/capacitación recibida, habilitaciones y certificaciones vigentes de un individuo."
+  },
+  {
+    "code": "OTR-04",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Capacitación",
+    "example": "Falta de, o ineficaz, cumplimiento del programa de capacitación en referencia a su preparación y control."
+  },
+  {
+    "code": "OTR-05",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Capacitación",
+    "example": "No se cumple el procedimiento que garantiza la calificación y competencia inicial y recurrente del personal en materias técnicas y reglamentarias."
+  },
+  {
+    "code": "OTR-06",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Capacitación",
+    "example": "Falta de, o inadecuado o inapropiado equipo (aerónave, dispositivo de entrenamiento en simulador de vuelo), material y ayudas de capacitación."
+  },
+  {
+    "code": "QAS-01",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Sistema de Garantía de Calidad",
+    "example": "Falta de, incumplimiento del programa de auditoría independiente y del Sistema de Gestión de la Seguridad (SMS)."
+  },
+  {
+    "code": "QAS-02",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Sistema de Garantía de Calidad",
+    "example": "Falta de, ausencia de, análisis de causa raíz y solución oportuna a los hallazgos detectados en las auditorías independientes y el SMS."
+  },
+  {
+    "code": "QAS-03",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Sistema de Garantía de Calidad",
+    "example": "Falta de, incompletos, registros de auditorías independientes y SMS que contengan al menos: informes de auditoría, acciones correctivas, evaluación de la efectividad de las acciones realizadas, análisis de cumplimiento, informes de retroalimentación."
+  },
+  {
+    "code": "QAS-04",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Sistema de Garantía de Calidad",
+    "example": "Falta de evidencia de procedimientos de monitorización que aseguren las buenas prácticas de la organización de mantenimiento."
+  },
+  {
+    "code": "QAS-05",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Sistema de Garantía de Calidad",
+    "example": "Falta de, incorrecta o incompleta, comunicación de los hallazgos al personal clave de la organización."
+  },
+  {
+    "code": "QAS-06",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Sistema de Garantía de Calidad",
+    "example": "Falta de, no adecuada, política de calidad."
+  },
+  {
+    "code": "QAS-07",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Sistema de Garantía de Calidad",
+    "example": "Falta de la política de calidad en el manual de la organización, firmado por el ejecutivo responsable."
+  },
+  {
+    "code": "QAS-08",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Sistema de Garantía de Calidad",
+    "example": "Auditorías de terceros: Falta de, o falta de conocimiento de, conocimiento técnico aeronáutico, seguridad operacional, técnicas de auditoría."
+  },
+  {
+    "code": "KOS-01",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Personal Clave",
+    "example": "Falta de, incorrecto, no adecuado, documento de nombramiento del ejecutivo responsable donde se establecen las funciones y responsabilidades del puesto."
+  },
+  {
+    "code": "KOS-02",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Personal Clave",
+    "example": "Falta de conocimiento de la normativa aplicable por parte del ejecutivo responsable y del personal clave."
+  },
+  {
+    "code": "KOS-03",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Personal Clave",
+    "example": "Falta de, incorrecto, no adecuado documento del personal clave donde se establecen las funciones, responsabilidades y competencia del puesto."
+  },
+  {
+    "code": "END-01",
+    "category": "Peligros Ambientales (ENV)",
+    "abbrev": "Ambiental",
+    "subcat": "Clima/Desastres Naturales",
+    "example": "Tormentas eléctricas y rayos."
+  },
+  {
+    "code": "END-02",
+    "category": "Peligros Ambientales (ENV)",
+    "abbrev": "Ambiental",
+    "subcat": "Clima/Desastres Naturales",
+    "example": "Granizo."
+  },
+  {
+    "code": "END-03",
+    "category": "Peligros Ambientales (ENV)",
+    "abbrev": "Ambiental",
+    "subcat": "Clima/Desastres Naturales",
+    "example": "Lluvia intensa."
+  },
+  {
+    "code": "END-04",
+    "category": "Peligros Ambientales (ENV)",
+    "abbrev": "Ambiental",
+    "subcat": "Clima/Desastres Naturales",
+    "example": "Niebla (visibilidad reducida)."
+  },
+  {
+    "code": "END-05",
+    "category": "Peligros Ambientales (ENV)",
+    "abbrev": "Ambiental",
+    "subcat": "Clima/Desastres Naturales",
+    "example": "Cizalladura de viento."
+  },
+  {
+    "code": "END-06",
+    "category": "Peligros Ambientales (ENV)",
+    "abbrev": "Ambiental",
+    "subcat": "Clima/Desastres Naturales",
+    "example": "Tormenta de arena."
+  },
+  {
+    "code": "END-07",
+    "category": "Peligros Ambientales (ENV)",
+    "abbrev": "Ambiental",
+    "subcat": "Clima/Desastres Naturales",
+    "example": "Tormentas de nieve o hielo."
+  },
+  {
+    "code": "END-08",
+    "category": "Peligros Ambientales (ENV)",
+    "abbrev": "Ambiental",
+    "subcat": "Clima/Desastres Naturales",
+    "example": "Vientos excesivos o cruzados."
+  },
+  {
+    "code": "END-09",
+    "category": "Peligros Ambientales (ENV)",
+    "abbrev": "Ambiental",
+    "subcat": "Clima/Desastres Naturales",
+    "example": "Huracán, tsunami o tornado."
+  },
+  {
+    "code": "END-10",
+    "category": "Peligros Ambientales (ENV)",
+    "abbrev": "Ambiental",
+    "subcat": "Clima/Desastres Naturales",
+    "example": "Inundaciones."
+  },
+  {
+    "code": "END-11",
+    "category": "Peligros Ambientales (ENV)",
+    "abbrev": "Ambiental",
+    "subcat": "Clima/Desastres Naturales",
+    "example": "Ceniza (incluyendo volcánica o de incendios forestales)."
+  },
+  {
+    "code": "END-12",
+    "category": "Peligros Ambientales (ENV)",
+    "abbrev": "Ambiental",
+    "subcat": "Clima/Desastres Naturales",
+    "example": "Terremoto."
+  },
+  {
+    "code": "END-13",
+    "category": "Peligros Ambientales (ENV)",
+    "abbrev": "Ambiental",
+    "subcat": "Clima/Desastres Naturales",
+    "example": "Temperaturas extremas."
+  },
+  {
+    "code": "END-14",
+    "category": "Peligros Ambientales (ENV)",
+    "abbrev": "Ambiental",
+    "subcat": "Clima/Desastres Naturales",
+    "example": "Condiciones de formación de hielo (Impacto en superficies de la aeronave)."
+  },
+  {
+    "code": "EGE-01",
+    "category": "Peligros Ambientales (ENV)",
+    "abbrev": "Ambiental",
+    "subcat": "Geografía",
+    "example": "Montañas o cuerpos de agua."
+  },
+  {
+    "code": "EGE-02",
+    "category": "Peligros Ambientales (ENV)",
+    "abbrev": "Ambiental",
+    "subcat": "Geografía",
+    "example": "Altitud en el aeródromo."
+  },
+  {
+    "code": "EWL-01",
+    "category": "Peligros Ambientales (ENV)",
+    "abbrev": "Ambiental",
+    "subcat": "Fauna Silvestre",
+    "example": "Fauna silvestre en el aeródromo."
+  },
+  {
+    "code": "EWL-02",
+    "category": "Peligros Ambientales (ENV)",
+    "abbrev": "Ambiental",
+    "subcat": "Fauna Silvestre",
+    "example": "Fauna silvestre voladora."
+  },
+  {
+    "code": "HSI-01",
+    "category": "Peligros Humanos (HUM)",
+    "abbrev": "Humano",
+    "subcat": "Incapacitación Súbita",
+    "example": "Ataque cardíaco, accidente cerebrovascular, cálculo renal, convulsión, epilepsia."
+  },
+  {
+    "code": "HDI-01",
+    "category": "Peligros Humanos (HUM)",
+    "abbrev": "Humano",
+    "subcat": "Incapacitación/Deficiencia Sutil",
+    "example": "Náuseas, diarrea, monóxido de carbono, medicación, fatiga."
+  },
+  {
+    "code": "HIL-01",
+    "category": "Peligros Humanos (HUM)",
+    "abbrev": "Humano",
+    "subcat": "Enfermedad",
+    "example": "Influenza, infección de las vías respiratorias superiores, infección urinaria."
+  },
+  {
+    "code": "HSL-01",
+    "category": "Peligros Humanos (HUM)",
+    "abbrev": "Humano",
+    "subcat": "Limitaciones Estáticas",
+    "example": "Visión al color, limitaciones del campo visual, limitaciones de movilidad, bolsa de colostomía, pérdida auditiva."
+  },
+  {
+    "code": "HSS-01",
+    "category": "Peligros Humanos (HUM)",
+    "abbrev": "Humano",
+    "subcat": "Estrés Autoimpuesto",
+    "example": "Fatiga (falta de sueño), abuso de alcohol y sustancias, medicamentos, complacencia."
+  },
+  {
+    "code": "HPS-01",
+    "category": "Peligros Humanos (HUM)",
+    "abbrev": "Humano",
+    "subcat": "Estrés Psicosocial",
+    "example": "Problemas financieros, nacimiento de un hijo, divorcio, duelo, plazos desafiantes, recursos inadecuados."
+  },
+  {
+    "code": "HTR-01",
+    "category": "Peligros Humanos (HUM)",
+    "abbrev": "Humano",
+    "subcat": "Trauma",
+    "example": "Lesión de la tripulación de cabina por turbulencia en vuelo, lesión causada al personal durante operaciones en tierra con la aeronave o manejo de equipaje."
+  },
+  {
+    "code": "HEO-01",
+    "category": "Peligros Humanos (HUM)",
+    "abbrev": "Humano",
+    "subcat": "Ambiental/Laboral",
+    "example": "Desfase horario (jet lag), taller de pintura, solventes, exposiciones químicas/biológicas, ruido, vibraciones, distracciones."
+  },
+  {
+    "code": "HMM-01",
+    "category": "Peligros Humanos (HUM)",
+    "abbrev": "Humano",
+    "subcat": "Fallos Latentes Hombre/Máquina/Proc.",
+    "example": "Factores humanos relacionados con el diseño, fabricación, mantenimiento y operaciones."
+  },
+  {
+    "code": "HCC-01",
+    "category": "Peligros Humanos (HUM)",
+    "abbrev": "Humano",
+    "subcat": "Capacidad Cognitiva",
+    "example": "Número excesivo de aeronaves en el área de un controlador; acciones variables de multitarea; sobresaturación de información digital."
+  },
+  {
+    "code": "TOF-01",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Instalaciones",
+    "example": "Sistemas de suministro de energía eléctrica defectuosos en el aeropuerto o ayudas a la navegación (radares, satélites, VOR, ADS-B, etc.)."
+  },
+  {
+    "code": "TOF-02",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Instalaciones",
+    "example": "Señalización e iluminación de aeródromo defectuosas, incorrectas o incompletas."
+  },
+  {
+    "code": "TOF-04",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Instalaciones",
+    "example": "Complejidad del sistema de calles de rodaje y pistas."
+  },
+  {
+    "code": "TOF-05",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Instalaciones",
+    "example": "Drenaje de aeródromo inadecuado."
+  },
+  {
+    "code": "TOF-06",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Instalaciones",
+    "example": "Equipos, radios, infraestructura o personal insuficientes."
+  },
+  {
+    "code": "TOF-07",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Instalaciones",
+    "example": "Falta de, limitado o tipo incorrecto de estacionamiento de aeronaves."
+  },
+  {
+    "code": "TOF-08",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Instalaciones",
+    "example": "HVAC deficiente (calefacción, ventilación y aire acondicionado)."
+  },
+  {
+    "code": "TOF-09",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Instalaciones",
+    "example": "Ambiente ruidoso."
+  },
+  {
+    "code": "TOF-10",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Instalaciones",
+    "example": "Falta de o iluminación deficiente."
+  },
+  {
+    "code": "TOF-11",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Instalaciones",
+    "example": "Instalaciones deficientes (espacio inadecuado, protección ambiental, áreas segregadas)."
+  },
+  {
+    "code": "TOF-12",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Instalaciones",
+    "example": "Instalaciones destinadas a ser restringidas sin protección, identificación o medidas de seguridad."
+  },
+  {
+    "code": "TOF-13",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Instalaciones",
+    "example": "Las instalaciones de equipos especiales no cumplen con las recomendaciones del fabricante del equipo (polvo, humedad, temperatura)."
+  },
+  {
+    "code": "TPP-01",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Preparación Prevuelo",
+    "example": "Falta de o verificación de aeronavegabilidad deficiente."
+  },
+  {
+    "code": "TPP-02",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Preparación Prevuelo",
+    "example": "Falta de o verificación deficiente de los equipos e instrumentos necesarios para un vuelo u operación particular."
+  },
+  {
+    "code": "TPP-03",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Preparación Prevuelo",
+    "example": "Falta de, incorrecta o incompleta verificación de las limitaciones de rendimiento de la aeronave."
+  },
+  {
+    "code": "TPP-04",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Preparación Prevuelo",
+    "example": "Falta de, incorrecta o incompleta planificación de vuelo."
+  },
+  {
+    "code": "TPP-05",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Preparación Prevuelo",
+    "example": "Procesos de repostaje de combustible deficientes."
+  },
+  {
+    "code": "TPP-06",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Preparación Prevuelo",
+    "example": "Falta de o despacho o liberación de aeronave deficiente."
+  },
+  {
+    "code": "TPP-07",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Preparación Prevuelo",
+    "example": "Falta de o liberación de mantenimiento deficiente."
+  },
+  {
+    "code": "TAL-01",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Carga de Aeronave",
+    "example": "Carga y distribución de carga incorrectas."
+  },
+  {
+    "code": "TAL-02",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Carga de Aeronave",
+    "example": "Transporte de materiales peligrosos impropio o no autorizado."
+  },
+  {
+    "code": "TAL-03",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Carga de Aeronave",
+    "example": "Estiba de carga y equipaje deficiente."
+  },
+  {
+    "code": "TAL-04",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Carga de Aeronave",
+    "example": "Información incorrecta sobre la carga o equipaje cargado."
+  },
+  {
+    "code": "TAL-05",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Carga de Aeronave",
+    "example": "Estiba impropia del equipaje de mano."
+  },
+  {
+    "code": "TAL-06",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Carga de Aeronave",
+    "example": "Cálculos de masa y balance incorrectos."
+  },
+  {
+    "code": "TFO-01",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Operaciones de Vuelo",
+    "example": "Uso de documentos obsoletos."
+  },
+  {
+    "code": "TFO-02",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Operaciones de Vuelo",
+    "example": "Ausencia de o manuales de tripulación de vuelo y cabina o cartas a bordo incorrectos."
+  },
+  {
+    "code": "TFO-03",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Operaciones de Vuelo",
+    "example": "Respuesta inadecuada a los cambios de ruta de vuelo."
+  },
+  {
+    "code": "TFO-04",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Operaciones de Vuelo",
+    "example": "Falta de, o deficiente gestión de recursos de la tripulación."
+  },
+  {
+    "code": "TFO-05",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Operaciones de Vuelo",
+    "example": "Falta de o seguimiento de vuelo deficiente."
+  },
+  {
+    "code": "TFO-06",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Operaciones de Vuelo",
+    "example": "Ejecución incorrecta de procedimientos en todas las fases del vuelo (incluyendo rodaje y estacionamiento)."
+  },
+  {
+    "code": "TFO-07",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Operaciones de Vuelo",
+    "example": "Procedimientos inadecuados o complicados."
+  },
+  {
+    "code": "TFO-08",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Operaciones de Vuelo",
+    "example": "Equipos e instrumentos necesarios para un vuelo u operación particular no disponibles o funcionando mal."
+  },
+  {
+    "code": "TFO-09",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Operaciones de Vuelo",
+    "example": "Falta de, o comunicación deficiente (ATC, plataforma, mantenimiento, operaciones de vuelo, cabina, despacho, etc.)."
+  },
+  {
+    "code": "TFO-10",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Operaciones de Vuelo",
+    "example": "Barreras idiomáticas (múltiples idiomas)."
+  },
+  {
+    "code": "TMF-01",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Instalaciones",
+    "example": "HVAC deficiente (calefacción, ventilación y aire acondicionado)."
+  },
+  {
+    "code": "TMF-02",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Instalaciones",
+    "example": "Ambiente de trabajo ruidoso."
+  },
+  {
+    "code": "TMF-03",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Instalaciones",
+    "example": "Falta de, o iluminación deficiente."
+  },
+  {
+    "code": "TMF-04",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Instalaciones",
+    "example": "Instalaciones deficientes (espacio, equipo o infraestructura inadecuados)."
+  },
+  {
+    "code": "TMF-05",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Instalaciones",
+    "example": "Instalaciones deficientes (espacio inadecuado, protección ambiental, áreas segregadas)."
+  },
+  {
+    "code": "TMF-06",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Instalaciones",
+    "example": "Instalaciones restringidas sin protección, identificación o medidas de seguridad."
+  },
+  {
+    "code": "TMF-07",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Instalaciones",
+    "example": "Las instalaciones de equipos especiales no cumplen con las recomendaciones del fabricante del equipo (polvo, humedad, temperatura)."
+  },
+  {
+    "code": "TMF-08",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Instalaciones",
+    "example": "Instalaciones deficientes de estaciones adicionales."
+  },
+  {
+    "code": "TMA-01",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Actividad de Mantenimiento",
+    "example": "Falta de, o liberación de mantenimiento deficiente."
+  },
+  {
+    "code": "TMA-02",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Actividad de Mantenimiento",
+    "example": "Falta de, o programas de mantenimiento deficientes (incluyendo datos de mantenimiento imprecisos o errores de transcripción al crear órdenes de trabajo)."
+  },
+  {
+    "code": "TMA-03",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Actividad de Mantenimiento",
+    "example": "SUPS (Partes Sospechosas No Aprobadas)."
+  },
+  {
+    "code": "TMA-04",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Actividad de Mantenimiento",
+    "example": "Movimiento de aeronave en mantenimiento / puesta en marcha."
+  },
+  {
+    "code": "TMA-05",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Actividad de Mantenimiento",
+    "example": "Falta de, o comunicación deficiente (ATC, plataforma, operaciones de vuelo, cabina, despacho, etc.)."
+  },
+  {
+    "code": "TMA-06",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Actividad de Mantenimiento",
+    "example": "Barreras idiomáticas en los equipos de mantenimiento (múltiples idiomas)."
+  },
+  {
+    "code": "TMA-07",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Actividad de Mantenimiento",
+    "example": "Control deficiente del mantenimiento externalizado (cualquier mantenimiento completado fuera de las instalaciones u organización de mantenimiento, incluido el mantenimiento de terceros)."
+  },
+  {
+    "code": "TMA-08",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Actividad de Mantenimiento",
+    "example": "Falta de, o procesos especializados inapropiados (incluyendo END, plateado, soldadura, reparaciones compuestas, etc.)."
+  },
+  {
+    "code": "TMA-09",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Actividad de Mantenimiento",
+    "example": "Falta de, o control de Directivas de Aeronavegabilidad (AD) inadecuado."
+  },
+  {
+    "code": "TMA-10",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Actividad de Mantenimiento",
+    "example": "Procedimientos ineficaces o falta de ellos para asegurar que los materiales, partes o conjuntos se trabajen o fabriquen mediante una serie de pasos precisamente controlados, y que sufran una transformación física, química o metalúrgica."
+  },
+  {
+    "code": "TMA-11",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Actividad de Mantenimiento",
+    "example": "Falta de, o programa de confiabilidad inadecuado."
+  },
+  {
+    "code": "TMA-12",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Actividad de Mantenimiento",
+    "example": "Falta de, o uso incorrecto de, datos de mantenimiento para la ejecución de modificaciones y/o reparaciones mayores."
+  },
+  {
+    "code": "TMA-13",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Actividad de Mantenimiento",
+    "example": "Falta de, o deficiente, cumplimiento del trabajo de mantenimiento (inspección, inspección en proceso, certificación de conformidad)."
+  },
+  {
+    "code": "TMA-14",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Actividad de Mantenimiento",
+    "example": "Ejecución y registros de inspecciones inadecuados, o falta de ellos (recepción de materiales y componentes, preliminar, daños ocultos, en proceso, final o cumplimiento de mantenimiento)."
+  },
+  {
+    "code": "TMA-15",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Actividad de Mantenimiento",
+    "example": "No se cumple, o existe un control deficiente, distribución, preservación de los registros de mantenimiento."
+  },
+  {
+    "code": "TMT-01",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Herramientas",
+    "example": "Falta de, o deficiente responsabilidad de la herramienta (incluida trazabilidad o registro), o falta o incumplimiento del programa de calibración aceptado por la AAC."
+  },
+  {
+    "code": "TMT-02",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Herramientas",
+    "example": "Falta de equipos, herramientas y equipos de seguridad inseguros o no confiables."
+  },
+  {
+    "code": "TMT-03",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Herramientas",
+    "example": "Disposición inapropiada de controles o pantallas."
+  },
+  {
+    "code": "TMT-04",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Herramientas",
+    "example": "Falta de, control deficiente de, o ausencia de, herramientas y equipos calibrados."
+  },
+  {
+    "code": "TMT-05",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Herramientas",
+    "example": "Uso inapropiado o incorrecto de herramientas para la tarea."
+  },
+  {
+    "code": "TMT-06",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Herramientas",
+    "example": "Falta de, o instrucciones inadecuadas para equipos, herramientas y equipos de seguridad."
+  },
+  {
+    "code": "TMT-07",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Herramientas",
+    "example": "La herramienta o equipo no está aprobado por el Estado de diseño, o la herramienta o equipo fabricado por la AMO no cumple con los estándares del Estado de diseño."
+  },
+  {
+    "code": "TMT-08",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Herramientas",
+    "example": "Falta de aceptación por parte de la AAC que emitió la certificación a una AMO, para una herramienta o equipo fabricado por esa organización."
+  },
+  {
+    "code": "TMM-01",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Mantenibilidad",
+    "example": "Diseño complejo (dificultad de aislamiento de fallas, múltiples conexiones similares, etc.)."
+  },
+  {
+    "code": "TMM-02",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Mantenibilidad",
+    "example": "Componente/área inaccesible."
+  },
+  {
+    "code": "TMM-03",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Mantenibilidad",
+    "example": "Variabilidad de la configuración de la aeronave (partes similares en diferentes modelos)."
+  },
+  {
+    "code": "TMD-01",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Datos de Mantenimiento",
+    "example": "Falta de, o desactualizados, o no aplicables, datos de mantenimiento."
+  },
+  {
+    "code": "TMD-02",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Datos de Mantenimiento",
+    "example": "Falta de, o inapropiado, procedimiento para la gestión de datos de mantenimiento que incluya las funciones y responsabilidades de la persona responsable de mantener los datos de mantenimiento."
+  },
+  {
+    "code": "TMD-03",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Datos de Mantenimiento",
+    "example": "Falta de, o inapropiado, procedimiento para modificar los datos de mantenimiento emitidos por el Estado de Diseño."
+  },
+  {
+    "code": "TMD-04",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Datos de Mantenimiento",
+    "example": "Error en la transcripción, o falta de control, o falta de protección que impida la alteración, de los datos de mantenimiento al sistema de formularios utilizados por la AMO para el trabajo a realizar."
+  },
+  {
+    "code": "TMD-05",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Datos de Mantenimiento",
+    "example": "Falta de disponibilidad, o integridad, o legibilidad, o actualización de los datos de mantenimiento."
+  },
+  {
+    "code": "CCM-01",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Liberación al Servicio",
+    "example": "Falta de documento de certificación por personal autorizado por la AMO."
+  },
+  {
+    "code": "CCM-02",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Liberación al Servicio",
+    "example": "Falta de datos en el documento de liberación de mantenimiento."
+  },
+  {
+    "code": "TRO-01",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones de Pista",
+    "example": "Construcción, vehículos y personas en el área de movimiento."
+  },
+  {
+    "code": "TRO-02",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones de Pista",
+    "example": "Diseño deficiente del aeródromo (pistas que se intersecan; despeje de obstáculos; calles de rodaje que cruzan pistas)."
+  },
+  {
+    "code": "TRO-03",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones de Pista",
+    "example": "Luces distractoras."
+  },
+  {
+    "code": "TRO-04",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones de Pista",
+    "example": "Falta de coordinación con el Control de Tránsito Aéreo (ATC)."
+  },
+  {
+    "code": "TRO-05",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones de Pista",
+    "example": "Emisión de Avisos a los Aviadores (NOTAM) incorrecta, inadecuada o falta de ella."
+  },
+  {
+    "code": "TRO-06",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones de Pista",
+    "example": "Haces de láser."
+  },
+  {
+    "code": "TRC-01",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Condición de Pista",
+    "example": "Condición deficiente o superficie de pista inapropiada."
+  },
+  {
+    "code": "TRC-02",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Condición de Pista",
+    "example": "Longitud de pista inadecuada."
+  },
+  {
+    "code": "TRC-03",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Condición de Pista",
+    "example": "Falta de, o áreas protegidas de pista inadecuadas."
+  },
+  {
+    "code": "TAO-01",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones en Plataforma",
+    "example": "Estela de reacción (Jet blast)."
+  },
+  {
+    "code": "TAO-02",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones en Plataforma",
+    "example": "Falta de, limitado o tipo incorrecto de estacionamiento de aeronaves."
+  },
+  {
+    "code": "TAO-03",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones en Plataforma",
+    "example": "Señalización con banderas (marshaling) incorrecta."
+  },
+  {
+    "code": "TAO-04",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones en Plataforma",
+    "example": "Falta de, o pilones de protección insuficientes alrededor de la aeronave."
+  },
+  {
+    "code": "TAO-05",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones en Plataforma",
+    "example": "Falta de, o calzos inadecuados cuando la aeronave estaciona."
+  },
+  {
+    "code": "TAO-06",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones en Plataforma",
+    "example": "Falta de, o control de objetos extraños (FOD) incorrecto."
+  },
+  {
+    "code": "TAO-07",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones en Plataforma",
+    "example": "Falta de, o procedimientos de sujeción en plataforma incorrectos."
+  },
+  {
+    "code": "TAO-08",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones en Plataforma",
+    "example": "Contención y limpieza de derrames de combustible o material peligroso incorrectas."
+  },
+  {
+    "code": "TAO-09",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones en Plataforma",
+    "example": "Procedimientos de repostaje de combustible deficientes."
+  },
+  {
+    "code": "TAV-01",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones de Vehículos",
+    "example": "Fallo del vehículo durante los servicios de aeródromo."
+  },
+  {
+    "code": "TAV-02",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones de Vehículos",
+    "example": "Condición mecánica deficiente."
+  },
+  {
+    "code": "TAV-03",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones de Vehículos",
+    "example": "Condición deficiente de la radio o del equipo de comunicaciones."
+  },
+  {
+    "code": "TAV-04",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones de Vehículos",
+    "example": "Derrames de aceite en la plataforma y/o en las áreas de pasajeros."
+  },
+  {
+    "code": "TAV-05",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones de Vehículos",
+    "example": "Falta de mantenimiento del vehículo."
+  },
+  {
+    "code": "TVA-06",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones de Vehículos",
+    "example": "Plan de respuesta de emergencia deficiente."
+  },
+  {
+    "code": "TAV-07",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones de Vehículos",
+    "example": "Conducción errática o que no cumple con los reglamentos de conducción en línea de vuelo."
+  },
+  {
+    "code": "TAV-08",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones de Vehículos",
+    "example": "Conducir demasiado rápido."
+  },
+  {
+    "code": "TAV-09",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones de Vehículos",
+    "example": "Estacionamiento incorrecto."
+  },
+  {
+    "code": "TAV-10",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones de Vehículos",
+    "example": "No poner calzos a los vehículos."
+  },
+  {
+    "code": "TAV-11",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones de Vehículos",
+    "example": "Dejar el motor en marcha mientras el vehículo está desatendido."
+  },
+  {
+    "code": "TAV-12",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones de Vehículos",
+    "example": "Falta de coordinación entre vehículos durante el servicio a la aeronave."
+  },
+  {
+    "code": "TAI-01",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Acción de Individuos",
+    "example": "Peatones en las áreas de plataforma."
+  },
+  {
+    "code": "TAI-02",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Acción de Individuos",
+    "example": "Ignorar las balizas de peligro de la aeronave."
+  },
+  {
+    "code": "TAI-03",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Acción de Individuos",
+    "example": "Verificación incorrecta alrededor de la aeronave durante la señalización de ingreso o salida."
+  },
+  {
+    "code": "TAI-04",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Acción de Individuos",
+    "example": "Malinterpretar el marcado de la plataforma."
+  },
+  {
+    "code": "TAI-05",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Acción de Individuos",
+    "example": "Fumar en la plataforma."
+  },
+  {
+    "code": "TAI-06",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Acción de Individuos",
+    "example": "El pasajero no sigue las instrucciones."
+  },
+  {
+    "code": "TAI-07",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Acción de Individuos",
+    "example": "Uso de teléfono celular dentro de los 15 metros de una operación de repostaje."
+  },
+  {
+    "code": "TAI-08",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Acción de Individuos",
+    "example": "Arrojar basura en la plataforma."
+  },
+  {
+    "code": "TAI-09",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Acción de Individuos",
+    "example": "Correr en la plataforma."
+  },
+  {
+    "code": "TAF-01",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Instalaciones",
+    "example": "Sistemas de suministro de energía eléctrica defectuosos en el aeropuerto o ayudas a la navegación (radares, satélites, VOR, ADS-B, etc.)."
+  },
+  {
+    "code": "TAF-02",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Instalaciones",
+    "example": "Señalización de aeródromo defectuosa, incorrecta o incompleta (especialmente en áreas de movimiento)."
+  },
+  {
+    "code": "TAF-03",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Instalaciones",
+    "example": "Iluminación de aeródromo defectuosa, incorrecta o incompleta (especialmente en áreas de movimiento)."
+  },
+  {
+    "code": "TAF-04",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Instalaciones",
+    "example": "Iluminación de aproximación defectuosa, incorrecta o incompleta."
+  },
+  {
+    "code": "TAF-05",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Instalaciones",
+    "example": "Condición deficiente o superficie de pista inapropiada."
+  },
+  {
+    "code": "TAF-06",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Instalaciones",
+    "example": "Condición deficiente o superficie de plataforma inapropiada."
+  },
+  {
+    "code": "TAF-07",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Instalaciones",
+    "example": "Complejidad del sistema de calles de rodaje y pistas."
+  },
+  {
+    "code": "TAF-08",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Instalaciones",
+    "example": "Drenaje de aeródromo o terreno inadecuado."
+  },
+  {
+    "code": "TAF-09",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Instalaciones",
+    "example": "Equipos, radios, infraestructura o personal insuficientes."
+  },
+  {
+    "code": "TAF-10",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Instalaciones",
+    "example": "Problemas que atraen fauna silvestre (hierba alta, proximidad de vertederos, cuerpos de agua cercanos)."
+  },
+  {
+    "code": "TAF-11",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Instalaciones",
+    "example": "Equipos de extinción de incendios inadecuados o inapropiados."
+  },
+  {
+    "code": "TAF-12",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Instalaciones",
+    "example": "Falta de o áreas de estacionamiento limitadas."
+  },
+  {
+    "code": "TAF-13",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Instalaciones",
+    "example": "Falta de equipos de protección de seguridad."
+  },
+  {
+    "code": "TTP-01",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Patrón de Tránsito",
+    "example": "Complejidad del tránsito (mezcla de tipos de aeronaves)."
+  },
+  {
+    "code": "TTP-02",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Patrón de Tránsito",
+    "example": "Exceso de aeronaves en el patrón o en un espacio aéreo dado."
+  },
+  {
+    "code": "TTP-03",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Patrón de Tránsito",
+    "example": "Diseño y flujo del patrón de tránsito ineficaz."
+  },
+  {
+    "code": "TTP-04",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Patrón de Tránsito",
+    "example": "Incursiones en pista por aeronaves o vehículos."
+  },
+  {
+    "code": "TTP-05",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Patrón de Tránsito",
+    "example": "Vuelos no autorizados que ingresan al patrón de tránsito."
+  },
+  {
+    "code": "TTP-06",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Patrón de Tránsito",
+    "example": "Procedimientos no autorizados por parte de aeronaves."
+  },
+  {
+    "code": "TTP-07",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Patrón de Tránsito",
+    "example": "Indicativos de llamada similares o confusos."
+  },
+  {
+    "code": "TTP-08",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Patrón de Tránsito",
+    "example": "Falta de o procedimientos deficientes para aeronaves en situación de emergencia."
+  },
+  {
+    "code": "TAS-01",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Espacio Aéreo",
+    "example": "Espacio aéreo insuficiente para el tránsito típico."
+  },
+  {
+    "code": "TAS-02",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Espacio Aéreo",
+    "example": "Espacio aéreo distribuido inadecuadamente."
+  },
+  {
+    "code": "TAS-03",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Espacio Aéreo",
+    "example": "Espacio aéreo combinado durante tránsito excesivo."
+  },
+  {
+    "code": "TAS-04",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Espacio Aéreo",
+    "example": "Etiquetado confuso de fixes o puntos de ruta."
+  },
+  {
+    "code": "TAS-05",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Espacio Aéreo",
+    "example": "Procedimientos instrumentales desarrollados incorrectamente."
+  },
+  {
+    "code": "TAS-06",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Espacio Aéreo",
+    "example": "Aeronaves que realizan incorrectamente los procedimientos de aproximación frustrada."
+  },
+  {
+    "code": "TAS-07",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Espacio Aéreo",
+    "example": "Intermezcla de criterios de procedimientos instrumentales de la OACI y nacionales."
+  },
+  {
+    "code": "TCA-01",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Acciones del Controlador",
+    "example": "Autorizaciones incompletas."
+  },
+  {
+    "code": "TCA-02",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Acciones del Controlador",
+    "example": "Identificación errónea de aeronaves o blancos (radar)."
+  },
+  {
+    "code": "TCA-03",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Acciones del Controlador",
+    "example": "Lectura incorrecta de las instrucciones de autorización."
+  },
+  {
+    "code": "TCA-04",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Acciones del Controlador",
+    "example": "Pérdida de separación entre aeronaves."
+  },
+  {
+    "code": "TCA-05",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Acciones del Controlador",
+    "example": "Pérdida de separación entre aeronaves y terreno u obstáculos."
+  },
+  {
+    "code": "TCA-06",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Acciones del Controlador",
+    "example": "Interpretación errónea de las intenciones del piloto."
+  },
+  {
+    "code": "TCA-07",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Acciones del Controlador",
+    "example": "Juicio incorrecto de las características de la aeronave."
+  },
+  {
+    "code": "TCO-01",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Comunicaciones",
+    "example": "Comunicaciones incorrectas, confusas o incompletas entre ATC y el personal del aeródromo."
+  },
+  {
+    "code": "TCO-02",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Comunicaciones",
+    "example": "Comunicaciones incorrectas, confusas o incompletas entre ATC y la aeronave."
+  },
+  {
+    "code": "TCO-03",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Comunicaciones",
+    "example": "Coordinación incorrecta, confusa o incompleta entre o dentro de las instalaciones de ATC."
+  },
+  {
+    "code": "TCO-04",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Comunicaciones",
+    "example": "Fallos o anomalías de radio/frecuencia."
+  },
+  {
+    "code": "TCO-05",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Comunicaciones",
+    "example": "Fallos o anomalías de las ayudas a la navegación (radares, satélites, VOR, ADS-B, etc.)."
+  },
+  {
+    "code": "TCO-06",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Comunicaciones",
+    "example": "Diferencias en la fraseología de Control de Tránsito Aéreo de la OACI y nacional."
+  },
+  {
+    "code": "TCO-07",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Comunicaciones",
+    "example": "No utilizar el lenguaje de aviación internacional estándar."
+  },
+  {
+    "code": "TCO-08",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Comunicaciones",
+    "example": "Barreras idiomáticas (múltiples idiomas)."
+  },
+  {
+    "code": "TCO-09",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Comunicaciones",
+    "example": "Falta de, o información aeronáutica errónea."
+  },
+  {
+    "code": "TNF-01",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Instalaciones",
+    "example": "Sistemas de suministro de energía eléctrica defectuosos en el aeropuerto o ayudas a la navegación (radares, satélites, VOR, ADS-B, etc.)."
+  },
+  {
+    "code": "TNF-02",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Instalaciones",
+    "example": "Señalización o iluminación de aeródromo defectuosas, incorrectas o incompletas."
+  },
+  {
+    "code": "TNF-03",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Instalaciones",
+    "example": "Iluminación de aproximación defectuosa, incorrecta o incompleta."
+  },
+  {
+    "code": "TNF-04",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Instalaciones",
+    "example": "Complejidad del sistema de calles de rodaje y pistas."
+  },
+  {
+    "code": "TNF-05",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Instalaciones",
+    "example": "Drenaje de aeródromo o terreno inadecuado."
+  },
+  {
+    "code": "TNF-06",
+    "category": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
+    "abbrev": "Técnico (ANS)",
+    "subcat": "Instalaciones",
+    "example": "Equipos, radios, infraestructura o personal insuficientes."
+  },
+  {
+    "code": "TRC-04",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Captura de Requisitos de Seguridad",
+    "example": "Incumplimiento de las normativas aplicables (por ejemplo, FAA 14 CFR parte 23, 25, 27, 29, 33)."
+  },
+  {
+    "code": "TRC-05",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Captura de Requisitos de Seguridad",
+    "example": "Evaluación de riesgos funcionales inadecuada."
+  },
+  {
+    "code": "TRC-06",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Captura de Requisitos de Seguridad",
+    "example": "Análisis de cargas estáticas y dinámicas estructurales inadecuado."
+  },
+  {
+    "code": "TRC-07",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Captura de Requisitos de Seguridad",
+    "example": "Evaluación Preliminar de Seguridad del Sistema inadecuada."
+  },
+  {
+    "code": "TRC-08",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Captura de Requisitos de Seguridad",
+    "example": "Análisis de causa común inadecuado."
+  },
+  {
+    "code": "TRV-01",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Validación de Requisitos de Seguridad",
+    "example": "Revisiones de diseño, análisis, pruebas en simulador, túnel de viento y pruebas de vuelo incompletas o ineficaces."
+  },
+  {
+    "code": "TRV-02",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Validación de Requisitos de Seguridad",
+    "example": "Análisis de cargas estructurales externas, internas y elementales ineficaz o incompleto."
+  },
+  {
+    "code": "TVE-01",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Verificación de Requisitos de Seguridad",
+    "example": "Verificación de cargas estructurales incompleta, como pruebas de carga estática, pruebas de vibración en tierra y pruebas de vuelo."
+  },
+  {
+    "code": "TVE-02",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Verificación de Requisitos de Seguridad",
+    "example": "Proceso de Evaluaciones de Seguridad del Sistema (SSA) inadecuado, incluida la falta de, o verificación incorrecta de, los efectos de fallos mediante pruebas de rendimiento ante fallos."
+  },
+  {
+    "code": "TVE-03",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Verificación de Requisitos de Seguridad",
+    "example": "Verificación inadecuada del software y del hardware complejo."
+  },
+  {
+    "code": "TAI-10",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Integración de Aeronave",
+    "example": "Trazabilidad de requisitos inadecuada."
+  },
+  {
+    "code": "TAI-11",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Integración de Aeronave",
+    "example": "Control de los requisitos de diseño inadecuado."
+  },
+  {
+    "code": "TAI-12",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Integración de Aeronave",
+    "example": "Verificación inadecuada de las funciones no intencionadas sistema/sistema y sistema/estructura e interferencias físicas, como falta de pruebas en banco/simulador/aeronave e inspecciones zonales inadecuadas."
+  },
+  {
+    "code": "TCS-01",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Seguridad Operacional Continua",
+    "example": "Métodos de monitorización en servicio ineficaces, como falta de reporte y seguimiento de fallos."
+  },
+  {
+    "code": "TCS-02",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Seguridad Operacional Continua",
+    "example": "Análisis de causa raíz, análisis de riesgos, desarrollo de acciones correctivas, validación de acciones correctivas e incorporación de acciones correctivas y lecciones aprendidas en el Proceso de Diseño inadecuados o nulos."
+  },
+  {
+    "code": "TDC-01",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Control de Diseño",
+    "example": "Falta de métodos para aprobar, controlar y documentar diseños iniciales y cambios de diseño."
+  },
+  {
+    "code": "TDC-02",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Control de Diseño",
+    "example": "Planificación e integración inadecuadas de los procedimientos de la instalación para mantener continuamente la integridad de los datos de diseño, planos, listas de partes y especificaciones necesarias para definir la configuración y las características de diseño del producto."
+  },
+  {
+    "code": "TMP-01",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Procesos de Fabricación",
+    "example": "Falta de procesos para el control de materiales, partes o conjuntos, cómo se aceptan, trabajan o fabrican, prueban, inspeccionan, almacenan y preparan para el envío."
+  },
+  {
+    "code": "TMP-02",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Procesos de Fabricación",
+    "example": "Problemas con procesos de fabricación especiales y funciones y operaciones específicas necesarias para la fabricación e inspección de partes y conjuntos (algunos ejemplos son mecanizado, remachado y ensamblaje)."
+  },
+  {
+    "code": "TMP-03",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Procesos de Fabricación",
+    "example": "Procedimientos ineficaces o falta de ellos para asegurar que los materiales, partes o conjuntos se trabajen o fabriquen mediante una serie de pasos precisamente controlados, y que sufran una transformación física, química o metalúrgica (algunos ejemplos son tratamiento térmico, soldadura fuerte, soldadura y procesamiento de materiales compuestos)."
+  },
+  {
+    "code": "TMP-04",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Procesos de Fabricación",
+    "example": "Métodos inadecuados utilizados para aceptar y proteger materias primas, partes, subconjuntos, conjuntos y productos terminados durante la recepción, fabricación, inspección, prueba, almacenamiento y preparación para el envío."
+  },
+  {
+    "code": "TMP-05",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Procesos de Fabricación",
+    "example": "Determinación de Aeronavegabilidad inadecuada, que es la función que proporciona la evaluación de productos/partes de productos terminados, y la documentación relacionada, para determinar la conformidad con los datos de diseño aprobados y su condición para una operación segura."
+  },
+  {
+    "code": "TMC-01",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Controles de Fabricación",
+    "example": "Métodos ineficaces que son utilizados por el Titular de la Aprobación de Producción para controlar la calidad del producto mediante métodos estadísticos, y que pueden utilizarse para la mejora continua y/o la aceptación del producto. El Control Estadístico de Calidad incluye técnicas como el muestreo estadístico, PRE-control y el control estadístico de procesos."
+  },
+  {
+    "code": "TMC-02",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Controles de Fabricación",
+    "example": "Control ineficaz de los dispositivos de medición de precisión (por ejemplo, herramientas, balanzas, calibres, accesorios, instrumentos y máquinas de medición automatizadas) utilizados en la fabricación, procesamiento especial, inspección, prueba de partes detalladas, conjuntos y productos terminados para determinar la conformidad con el diseño aprobado."
+  },
+  {
+    "code": "TMC-03",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Controles de Fabricación",
+    "example": "Falta de funciones que proporcionen pruebas estáticas, destructivas y funcionales de productos/partes de productos de producción para asegurar la conformidad con el diseño aprobado."
+  },
+  {
+    "code": "TMC-04",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Controles de Fabricación",
+    "example": "Métodos ineficaces de control, evaluación y disposición de cualquier producto/parte del mismo que no se conforme con el diseño aprobado."
+  },
+  {
+    "code": "TSC-01",
+    "category": "Peligros Técnicos – Diseño y Fabricación (TECH)",
+    "abbrev": "Técnico (Diseño y Fab.)",
+    "subcat": "Control de Proveedores",
+    "example": "Métodos ineficaces mediante los cuales la instalación de producción asegura que los materiales, partes y servicios del proveedor se ajustan al diseño aprobado. El término \"proveedor\" incluye a los distribuidores."
+  },
+  {
+    "code": "TMF-09",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Fallas Técnicas Recurrentes",
+    "example": "Fallas recurrentes no resueltas en sistemas de aeronaves (vibraciones, fugas, componentes defectuosos)"
+  },
+  {
+    "code": "TMF-10",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Instalación de Componentes/Accesorios/Equipo Emergencia",
+    "example": "Instalación incorrecta o configuración errónea de componentes y sistemas"
+  },
+  {
+    "code": "TMF-11",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Trabajos Incompletos",
+    "example": "Trabajos de mantenimiento parcialmente ejecutados o no culminados adecuadamente"
+  },
+  {
+    "code": "OEP-01",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Equipos de Protección Personal",
+    "example": "Falta de uso o disponibilidad de EPP en áreas operativas y de mantenimiento"
+  },
+  {
+    "code": "OPR-02",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Procedimientos RII",
+    "example": "Incumplimiento de procedimientos para Ítems de Inspección Requerida (RII)"
+  },
+  {
+    "code": "OCS-03",
+    "category": "Peligros Organizacionales (ORG)",
+    "abbrev": "Organizacional",
+    "subcat": "Configuración de Sistemas",
+    "example": "Configuraciones incorrectas o inadecuadas de sistemas de aeronaves"
+  },
+  {
+    "code": "HCS-01",
+    "category": "Peligros Humanos (HUM)",
+    "abbrev": "Humano",
+    "subcat": "Conciencia Situacional",
+    "example": "Falta de atención al entorno y consecuencias de las acciones durante mantenimiento"
+  },
+  {
+    "code": "TOE-01",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones Externas",
+    "example": "Operaciones de aeronaves o vehículos externos que afectan la seguridad operacional"
+  },
+  {
+    "code": "HCS-02",
+    "category": "Peligros Humanos (HUM)",
+    "abbrev": "Humano",
+    "subcat": "Conciencia Situacional",
+    "example": "Incorrecta, ineficaz o falta de conocimiento en la,  manipulacion de los equipos dispuestos en la cabina del piloto"
+  },
+  {
+    "code": "TMF-12",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Mant.)",
+    "subcat": "Instalación de Componentes/Accesorios/Equipo Emergencia",
+    "example": "Novedades con control de vencimientos de Componentes/Accesorios/Equipo Emergencia."
+  },
+  {
+    "code": "TAO-10",
+    "category": "Peligros Técnicos – Aeródromos (TECH)",
+    "abbrev": "Técnico (Aeród.)",
+    "subcat": "Operaciones en Plataforma",
+    "example": "Prueba de motores sin asegurar el área."
+  },
+  {
+    "code": "TPP-08",
+    "category": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
+    "abbrev": "Técnico (Op. Aérea)",
+    "subcat": "Preparación Prevuelo",
+    "example": "Falta de ajuste a las compuertas externas (bahía sistema HyD, DC, AC, etc.)"
+  }
+]

@@ -1,0 +1,350 @@
+[
+  {
+    "code": "ATA_00",
+    "sign": "General"
+  },
+  {
+    "code": "ATA_01",
+    "sign": "Maintenance Policy"
+  },
+  {
+    "code": "ATA_02",
+    "sign": "Operations"
+  },
+  {
+    "code": "ATA_03",
+    "sign": "Support"
+  },
+  {
+    "code": "ATA_04",
+    "sign": "Airworthiness Limitations"
+  },
+  {
+    "code": "ATA_05",
+    "sign": "Time Limits/Maintenance Checks"
+  },
+  {
+    "code": "ATA_06",
+    "sign": "Dimensions And Areas"
+  },
+  {
+    "code": "ATA_07",
+    "sign": "Lifting And Shoring"
+  },
+  {
+    "code": "ATA_08",
+    "sign": "Leveling And Weighing"
+  },
+  {
+    "code": "ATA_09",
+    "sign": "Towing And Taxiing"
+  },
+  {
+    "code": "ATA_10",
+    "sign": "Parking, Mooring, Storage And Return To Service"
+  },
+  {
+    "code": "ATA_11",
+    "sign": "Placards And Markings"
+  },
+  {
+    "code": "ATA_12",
+    "sign": "Servicing"
+  },
+  {
+    "code": "ATA_13",
+    "sign": "Hardware And General Tools"
+  },
+  {
+    "code": "ATA_15",
+    "sign": "Aircrew Information"
+  },
+  {
+    "code": "ATA_16",
+    "sign": "Change Of Role"
+  },
+  {
+    "code": "ATA_18",
+    "sign": "Vibration And Noise Analysis (Helicopter Only)"
+  },
+  {
+    "code": "ATA_20",
+    "sign": "Standard Practices- Airframe"
+  },
+  {
+    "code": "ATA_21",
+    "sign": "Air Conditioning"
+  },
+  {
+    "code": "ATA_22",
+    "sign": "Auto Flight"
+  },
+  {
+    "code": "ATA_23",
+    "sign": "Communication"
+  },
+  {
+    "code": "ATA_24",
+    "sign": "Electrical Power"
+  },
+  {
+    "code": "ATA_25",
+    "sign": "Equipment /Furnishings"
+  },
+  {
+    "code": "ATA_26",
+    "sign": "Fire Protection"
+  },
+  {
+    "code": "ATA_27",
+    "sign": "Flight Controls"
+  },
+  {
+    "code": "ATA_28",
+    "sign": "Fuel"
+  },
+  {
+    "code": "ATA_29",
+    "sign": "Hydraulic Power"
+  },
+  {
+    "code": "ATA_30",
+    "sign": "Ice And Rain Protection"
+  },
+  {
+    "code": "ATA_31",
+    "sign": "Indicating / Recording System"
+  },
+  {
+    "code": "ATA_32",
+    "sign": "Landing Gear"
+  },
+  {
+    "code": "ATA_33",
+    "sign": "Lights"
+  },
+  {
+    "code": "ATA_34",
+    "sign": "Navigation"
+  },
+  {
+    "code": "ATA_35",
+    "sign": "Oxygen"
+  },
+  {
+    "code": "ATA_36",
+    "sign": "Pneumatic"
+  },
+  {
+    "code": "ATA_37",
+    "sign": "Vacuum"
+  },
+  {
+    "code": "ATA_38",
+    "sign": "Water / Waste"
+  },
+  {
+    "code": "ATA_39",
+    "sign": "Electrical - Electronic Panels And Multipurpose Components"
+  },
+  {
+    "code": "ATA_40",
+    "sign": "Multisystem"
+  },
+  {
+    "code": "ATA_41",
+    "sign": "Water Ballast"
+  },
+  {
+    "code": "ATA_42",
+    "sign": "Integrated Modular Avionics"
+  },
+  {
+    "code": "ATA_44",
+    "sign": "Cabin Systems"
+  },
+  {
+    "code": "ATA_45",
+    "sign": "Onboard Maintenance Systems (Oms)"
+  },
+  {
+    "code": "ATA_46",
+    "sign": "Information Systems"
+  },
+  {
+    "code": "ATA_47",
+    "sign": "Inert Gas System"
+  },
+  {
+    "code": "ATA_48",
+    "sign": "In Flight Fuel Dispensing"
+  },
+  {
+    "code": "ATA_49",
+    "sign": "Airborne Auxiliary Power"
+  },
+  {
+    "code": "ATA_50",
+    "sign": "Cargo And Accessory Compartments"
+  },
+  {
+    "code": "ATA_51",
+    "sign": "Standard Practices And Structures - General"
+  },
+  {
+    "code": "ATA_52",
+    "sign": "Doors"
+  },
+  {
+    "code": "ATA_53",
+    "sign": "Fuselage"
+  },
+  {
+    "code": "ATA_54",
+    "sign": "Nacelles/Pylons"
+  },
+  {
+    "code": "ATA_55",
+    "sign": "Stabilizers"
+  },
+  {
+    "code": "ATA_56",
+    "sign": "Windows"
+  },
+  {
+    "code": "ATA_57",
+    "sign": "Wings"
+  },
+  {
+    "code": "ATA_60",
+    "sign": "Standard Practices - Prop./Rotor"
+  },
+  {
+    "code": "ATA_61",
+    "sign": "Propellers/ Propulsors"
+  },
+  {
+    "code": "ATA_62",
+    "sign": "Main Rotor(S)"
+  },
+  {
+    "code": "ATA_63",
+    "sign": "Main Rotor Drive(S)"
+  },
+  {
+    "code": "ATA_64",
+    "sign": "Tail Rotor"
+  },
+  {
+    "code": "ATA_65",
+    "sign": "Tail Rotor Drive"
+  },
+  {
+    "code": "ATA_66",
+    "sign": "Folding Blades/Pylon"
+  },
+  {
+    "code": "ATA_67",
+    "sign": "Rotors Flight Control"
+  },
+  {
+    "code": "ATA_71",
+    "sign": "Power Plant"
+  },
+  {
+    "code": "ATA_72",
+    "sign": "Engine"
+  },
+  {
+    "code": "ATA_73",
+    "sign": "Engine - Fuel And Control"
+  },
+  {
+    "code": "ATA_74",
+    "sign": "Ignition"
+  },
+  {
+    "code": "ATA_75",
+    "sign": "Bleed Air"
+  },
+  {
+    "code": "ATA_76",
+    "sign": "Engine Controls"
+  },
+  {
+    "code": "ATA_77",
+    "sign": "Engine Indicating"
+  },
+  {
+    "code": "ATA_78",
+    "sign": "Exhaust"
+  },
+  {
+    "code": "ATA_79",
+    "sign": "Oil"
+  },
+  {
+    "code": "ATA_80",
+    "sign": "Starting"
+  },
+  {
+    "code": "ATA_81",
+    "sign": "Turbines (Reciprocating Engines)"
+  },
+  {
+    "code": "ATA_82",
+    "sign": "Water Injection"
+  },
+  {
+    "code": "ATA_83",
+    "sign": "Accessory Gear Box (Engine Driven)"
+  },
+  {
+    "code": "ATA_84",
+    "sign": "Propulsion Augmentation"
+  },
+  {
+    "code": "ATA_91",
+    "sign": "Charts"
+  },
+  {
+    "code": "ATA_92",
+    "sign": "Electrical Power Multiplexing"
+  },
+  {
+    "code": "ATA_93",
+    "sign": "Surveillance"
+  },
+  {
+    "code": "ATA_94",
+    "sign": "Weapon System"
+  },
+  {
+    "code": "ATA_95",
+    "sign": "Crew Escape And Safety"
+  },
+  {
+    "code": "ATA_96",
+    "sign": "Missiles, Drones And Telemetry"
+  },
+  {
+    "code": "ATA_97",
+    "sign": "Wiring Reporting"
+  },
+  {
+    "code": "ATA_98",
+    "sign": "Meteorological And Atmospheric Research"
+  },
+  {
+    "code": "ATA_99",
+    "sign": "Electronic Warfare System"
+  },
+  {
+    "code": "ATA_72R",
+    "sign": "Engine - Reciprocating"
+  },
+  {
+    "code": "ATA_72T",
+    "sign": "Engine - Turbine/Turboprop, Ducted Fan/Unducted Fan"
+  }
+]

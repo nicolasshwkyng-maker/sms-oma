@@ -1,0 +1,202 @@
+[
+  {
+    "riskInd": 2500.0,
+    "severity": "Catastrofico",
+    "likelyhood": "Frecuente",
+    "alarp": "Riesgo Extremo",
+    "factor12": 500.0,
+    "factor13": 5.0
+  },
+  {
+    "riskInd": 1500.0,
+    "severity": "Catastrofico",
+    "likelyhood": "Probable",
+    "alarp": "Riesgo Extremo",
+    "factor12": 500.0,
+    "factor13": 3.0
+  },
+  {
+    "riskInd": 1250.0,
+    "severity": "Peligroso",
+    "likelyhood": "Frecuente",
+    "alarp": "Riesgo Extremo",
+    "factor12": 250.0,
+    "factor13": 5.0
+  },
+  {
+    "riskInd": 750.0,
+    "severity": "Peligroso",
+    "likelyhood": "Probable",
+    "alarp": "Riesgo Extremo",
+    "factor12": 250.0,
+    "factor13": 3.0
+  },
+  {
+    "riskInd": 501.0,
+    "severity": "Catastrofico",
+    "likelyhood": "Ocasional",
+    "alarp": "Riesgo Extremo",
+    "factor12": 500.0,
+    "factor13": 1.0
+  },
+  {
+    "riskInd": 500.0,
+    "severity": "Importante",
+    "likelyhood": "Frecuente",
+    "alarp": "Riesgo Extremo",
+    "factor12": 100.0,
+    "factor13": 5.0
+  },
+  {
+    "riskInd": 300.0,
+    "severity": "Importante",
+    "likelyhood": "Probable",
+    "alarp": "Riesgo Alto",
+    "factor12": 100.0,
+    "factor13": 3.0
+  },
+  {
+    "riskInd": 252.0,
+    "severity": "Catastrofico",
+    "likelyhood": "Improbable",
+    "alarp": "Riesgo Alto",
+    "factor12": 500.0,
+    "factor13": 0.5
+  },
+  {
+    "riskInd": 251.0,
+    "severity": "Peligroso",
+    "likelyhood": "Ocasional",
+    "alarp": "Riesgo Alto",
+    "factor12": 250.0,
+    "factor13": 1.0
+  },
+  {
+    "riskInd": 250.0,
+    "severity": "Leve",
+    "likelyhood": "Frecuente",
+    "alarp": "Riesgo Alto",
+    "factor12": 50.0,
+    "factor13": 5.0
+  },
+  {
+    "riskInd": 150.0,
+    "severity": "Leve",
+    "likelyhood": "Probable",
+    "alarp": "Riesgo Medio",
+    "factor12": 50.0,
+    "factor13": 3.0
+  },
+  {
+    "riskInd": 125.0,
+    "severity": "Peligroso",
+    "likelyhood": "Improbable",
+    "alarp": "Riesgo Medio",
+    "factor12": 250.0,
+    "factor13": 0.5
+  },
+  {
+    "riskInd": 101.0,
+    "severity": "Catastrofico",
+    "likelyhood": "Sumamente Improbable",
+    "alarp": "Riesgo Medio",
+    "factor12": 500.0,
+    "factor13": 0.2
+  },
+  {
+    "riskInd": 100.0,
+    "severity": "Importante",
+    "likelyhood": "Ocasional",
+    "alarp": "Riesgo Medio",
+    "factor12": 100.0,
+    "factor13": 1.0
+  },
+  {
+    "riskInd": 52.0,
+    "severity": "Peligroso",
+    "likelyhood": "Sumamente Improbable",
+    "alarp": "Riesgo Medio",
+    "factor12": 250.0,
+    "factor13": 0.2
+  },
+  {
+    "riskInd": 51.0,
+    "severity": "Importante",
+    "likelyhood": "Improbable",
+    "alarp": "Riesgo Medio",
+    "factor12": 100.0,
+    "factor13": 0.5
+  },
+  {
+    "riskInd": 50.0,
+    "severity": "Leve",
+    "likelyhood": "Ocasional",
+    "alarp": "Riesgo Medio",
+    "factor12": 50.0,
+    "factor13": 1.0
+  },
+  {
+    "riskInd": 25.0,
+    "severity": "Leve",
+    "likelyhood": "Improbable",
+    "alarp": "Riesgo Medio",
+    "factor12": 50.0,
+    "factor13": 0.5
+  },
+  {
+    "riskInd": 20.0,
+    "severity": "Importante",
+    "likelyhood": "Sumamente Improbable",
+    "alarp": "Riesgo Medio",
+    "factor12": 100.0,
+    "factor13": 0.2
+  },
+  {
+    "riskInd": 10.0,
+    "severity": "Leve",
+    "likelyhood": "Sumamente Improbable",
+    "alarp": "Riesgo Bajo",
+    "factor12": 50.0,
+    "factor13": 0.2
+  },
+  {
+    "riskInd": 1.0,
+    "severity": "Insignificante",
+    "likelyhood": "Frecuente",
+    "alarp": "Riesgo Bajo",
+    "factor12": 0.2,
+    "factor13": 5.0
+  },
+  {
+    "riskInd": 0.6,
+    "severity": "Insignificante",
+    "likelyhood": "Probable",
+    "alarp": "Riesgo Bajo",
+    "factor12": 0.2,
+    "factor13": 3.0
+  },
+  {
+    "riskInd": 0.2,
+    "severity": "Insignificante",
+    "likelyhood": "Ocasional",
+    "alarp": "Riesgo Bajo",
+    "factor12": 0.2,
+    "factor13": 1.0
+  },
+  {
+    "riskInd": 0.1,
+    "severity": "Insignificante",
+    "likelyhood": "Improbable",
+    "alarp": "Riesgo Bajo",
+    "factor12": 0.2,
+    "factor13": 0.5
+  },
+  {
+    "riskInd": 0.04,
+    "severity": "Insignificante",
+    "likelyhood": "Sumamente Improbable",
+    "alarp": "Riesgo Bajo",
+    "factor12": 0.2,
+    "factor13": 0.2
+  }
+]

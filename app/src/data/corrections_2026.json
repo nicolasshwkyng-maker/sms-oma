@@ -1,0 +1,1202 @@
+[
+  {
+    "ID": 328,
+    "Fecha Evento": "2026-05-24",
+    "Campo": "ATA_100",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "ATA_77",
+    "Justificación": "Sensor de torque del motor → ATA 77 Engine Indicating",
+    "Área Generadora": "Pilotos",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 328,
+    "Fecha Evento": "2026-05-24",
+    "Campo": "ATA_100: ATA_Sign",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Engine Indicating",
+    "Justificación": "Corrección basada en análisis histórico y descripción del evento",
+    "Área Generadora": "Pilotos",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 328,
+    "Fecha Evento": "2026-05-24",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Pilotos",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 327,
+    "Fecha Evento": "2026-05-21",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: FH - Factores humanos como; aspectos psicosociales e incapacidad evidente del personal técnico",
+    "Área Generadora": "Inspección y Calidad",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 327,
+    "Fecha Evento": "2026-05-21",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Inspección y Calidad",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 326,
+    "Fecha Evento": "2026-05-16",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: DOC - Documentación inapropiada",
+    "Área Generadora": "Inspección y Calidad",
+    "Flota": "ERJ -145"
+  },
+  {
+    "ID": 325,
+    "Fecha Evento": "2026-05-15",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento",
+    "Área Generadora": "nan",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 324,
+    "Fecha Evento": "2026-05-13",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento",
+    "Área Generadora": "nan",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 323,
+    "Fecha Evento": "2026-05-14",
+    "Campo": "Peligro Generico",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "GH - Operaciones inadecuadas en tierra",
+    "Justificación": "Invasión del diamante de seguridad por empresa de rampa (Menzies)",
+    "Área Generadora": "Inspección y Calidad",
+    "Flota": "ATR -72"
+  },
+  {
+    "ID": 323,
+    "Fecha Evento": "2026-05-14",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: GH - Operaciones inadecuadas en tierra",
+    "Área Generadora": "Inspección y Calidad",
+    "Flota": "ATR -72"
+  },
+  {
+    "ID": 322,
+    "Fecha Evento": "2026-05-07",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Centro de Control Mantenimiento",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 321,
+    "Fecha Evento": "2026-05-10",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: GH - Operaciones inadecuadas en tierra",
+    "Área Generadora": "nan",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 321,
+    "Fecha Evento": "2026-05-10",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "nan",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 320,
+    "Fecha Evento": "2026-05-09",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: GH - Operaciones inadecuadas en tierra",
+    "Área Generadora": "Inspección y Calidad",
+    "Flota": "ATR -72"
+  },
+  {
+    "ID": 320,
+    "Fecha Evento": "2026-05-09",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Inspección y Calidad",
+    "Flota": "ATR -72"
+  },
+  {
+    "ID": 319,
+    "Fecha Evento": "2026-05-04",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Ingeniería",
+    "Flota": "DHC -6"
+  },
+  {
+    "ID": 318,
+    "Fecha Evento": "2026-05-05",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: DOC - Documentación inapropiada",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "Todas "
+  },
+  {
+    "ID": 317,
+    "Fecha Evento": "2026-04-17",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: MDA - Mantenimiento deficiente de aeronaves",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 317,
+    "Fecha Evento": "2026-04-17",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 316,
+    "Fecha Evento": "2026-04-16",
+    "Campo": "Peligro Generico",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento",
+    "Justificación": "Falta de gatos hidráulicos = deficiencia en equipamiento del hangar/taller",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR42/72 AND ERJ-145"
+  },
+  {
+    "ID": 316,
+    "Fecha Evento": "2026-04-16",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR42/72 AND ERJ-145"
+  },
+  {
+    "ID": 315,
+    "Fecha Evento": "2026-04-16",
+    "Campo": "Peligro Generico",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento",
+    "Justificación": "Falta de gatos hidráulicos para line check ATR 42-500",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 315,
+    "Fecha Evento": "2026-04-16",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 314,
+    "Fecha Evento": "2026-04-09",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Ingeniería",
+    "Flota": "ATR -72"
+  },
+  {
+    "ID": 313,
+    "Fecha Evento": "2026-03-24",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: FOD - Foreing Object Debris/Damage",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 313,
+    "Fecha Evento": "2026-03-24",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 312,
+    "Fecha Evento": "2026-04-01",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: FH - Factores humanos como; aspectos psicosociales e incapacidad evidente del personal técnico",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -72"
+  },
+  {
+    "ID": 312,
+    "Fecha Evento": "2026-04-01",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -72"
+  },
+  {
+    "ID": 311,
+    "Fecha Evento": "2026-04-01",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -72"
+  },
+  {
+    "ID": 310,
+    "Fecha Evento": "2026-03-25",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Ingeniería",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 304,
+    "Fecha Evento": "2026-03-24",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Consulta de textos desactualizados",
+    "Justificación": "SPI derivado del Peligro Genérico: DOC - Documentación inapropiada",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 304,
+    "Fecha Evento": "2026-03-24",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 293,
+    "Fecha Evento": "2026-03-11",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 292,
+    "Fecha Evento": "2026-03-11",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento",
+    "Área Generadora": "Seguridad Operacional",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 292,
+    "Fecha Evento": "2026-03-11",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Seguridad Operacional",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 291,
+    "Fecha Evento": "2026-03-09",
+    "Campo": "ATA_100",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "ATA_07",
+    "Justificación": "Banco de apoyo en tierra (ETAA) → ATA 07 Lifting And Shoring",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 291,
+    "Fecha Evento": "2026-03-09",
+    "Campo": "ATA_100: ATA_Sign",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Lifting And Shoring",
+    "Justificación": "Corrección basada en análisis histórico y descripción del evento",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 291,
+    "Fecha Evento": "2026-03-09",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: HER - Uso de herramientas inapropiadas",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 290,
+    "Fecha Evento": "2026-03-09",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: DOC - Documentación inapropiada",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -72"
+  },
+  {
+    "ID": 289,
+    "Fecha Evento": "2026-03-08",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: DOC - Documentación inapropiada",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 289,
+    "Fecha Evento": "2026-03-08",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 288,
+    "Fecha Evento": "2026-03-08",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: PRO - Procedimientos de mantenimiento incorrectos",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "DHC -6"
+  },
+  {
+    "ID": 288,
+    "Fecha Evento": "2026-03-08",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "DHC -6"
+  },
+  {
+    "ID": 287,
+    "Fecha Evento": "2026-03-08",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: PRO - Procedimientos de mantenimiento incorrectos",
+    "Área Generadora": "Inspección y Calidad",
+    "Flota": "DHC -6"
+  },
+  {
+    "ID": 287,
+    "Fecha Evento": "2026-03-08",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Inspección y Calidad",
+    "Flota": "DHC -6"
+  },
+  {
+    "ID": 286,
+    "Fecha Evento": "2026-03-05",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Ingeniería",
+    "Flota": "ERJ -145"
+  },
+  {
+    "ID": 284,
+    "Fecha Evento": "2026-03-03",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: DOC - Documentación inapropiada",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ERJ -145"
+  },
+  {
+    "ID": 284,
+    "Fecha Evento": "2026-03-03",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ERJ -145"
+  },
+  {
+    "ID": 283,
+    "Fecha Evento": "2026-03-02",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: HER - Uso de herramientas inapropiadas",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -72"
+  },
+  {
+    "ID": 282,
+    "Fecha Evento": "2026-03-02",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Consulta de textos desactualizados",
+    "Justificación": "SPI derivado del Peligro Genérico: DOC - Documentación inapropiada",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 282,
+    "Fecha Evento": "2026-03-02",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 280,
+    "Fecha Evento": "2026-02-09",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Ingeniería",
+    "Flota": "DHC -6"
+  },
+  {
+    "ID": 279,
+    "Fecha Evento": "2026-02-23",
+    "Campo": "Peligro Generico",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "MDA - Mantenimiento deficiente de aeronaves",
+    "Justificación": "Diferido vencido no programado en pernocta = deficiencia en planificación de mantenimiento",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ERJ -145"
+  },
+  {
+    "ID": 279,
+    "Fecha Evento": "2026-02-23",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: MDA - Mantenimiento deficiente de aeronaves",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ERJ -145"
+  },
+  {
+    "ID": 279,
+    "Fecha Evento": "2026-02-23",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ERJ -145"
+  },
+  {
+    "ID": 278,
+    "Fecha Evento": "2026-02-20",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Centro de Control Mantenimiento",
+    "Flota": "ATR -72"
+  },
+  {
+    "ID": 277,
+    "Fecha Evento": "2026-02-19",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Biblioteca y Registros Técnicos",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 276,
+    "Fecha Evento": "2026-02-17",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Consulta de textos desactualizados",
+    "Justificación": "SPI derivado del Peligro Genérico: DOC - Documentación inapropiada",
+    "Área Generadora": "Biblioteca y Registros Técnicos",
+    "Flota": "ATR -72"
+  },
+  {
+    "ID": 275,
+    "Fecha Evento": "2026-02-18",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: GH - Operaciones inadecuadas en tierra",
+    "Área Generadora": "Inspección y Calidad",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 273,
+    "Fecha Evento": "2026-02-18",
+    "Campo": "ATA_100",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "ATA_32",
+    "Justificación": "Lubricación tren de nariz → ATA 32 Landing Gear",
+    "Área Generadora": "Planeación y Programación",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 273,
+    "Fecha Evento": "2026-02-18",
+    "Campo": "ATA_100: ATA_Sign",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Landing Gear",
+    "Justificación": "Corrección basada en análisis histórico y descripción del evento",
+    "Área Generadora": "Planeación y Programación",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 273,
+    "Fecha Evento": "2026-02-18",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: HER - Uso de herramientas inapropiadas",
+    "Área Generadora": "Planeación y Programación",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 272,
+    "Fecha Evento": "2026-02-16",
+    "Campo": "ATA_100",
+    "Valor Original": "ATA_23",
+    "Valor Corregido": "ATA_31",
+    "Justificación": "FDR (Flight Data Recorder) → ATA 31 Indicating/Recording Systems",
+    "Área Generadora": "Planeación y Programación",
+    "Flota": "ERJ -145"
+  },
+  {
+    "ID": 272,
+    "Fecha Evento": "2026-02-16",
+    "Campo": "ATA_100: ATA_Sign",
+    "Valor Original": "Communication",
+    "Valor Corregido": "Indicating/Recording Systems",
+    "Justificación": "Corrección basada en análisis histórico y descripción del evento",
+    "Área Generadora": "Planeación y Programación",
+    "Flota": "ERJ -145"
+  },
+  {
+    "ID": 272,
+    "Fecha Evento": "2026-02-16",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Planeación y Programación",
+    "Flota": "ERJ -145"
+  },
+  {
+    "ID": 270,
+    "Fecha Evento": "2026-02-14",
+    "Campo": "ATA_100",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "ATA_34",
+    "Justificación": "Terrain & Obstacle Database → ATA 34 Navigation",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 270,
+    "Fecha Evento": "2026-02-14",
+    "Campo": "ATA_100: ATA_Sign",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Navigation",
+    "Justificación": "Corrección basada en análisis histórico y descripción del evento",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 269,
+    "Fecha Evento": "2026-02-14",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: DOC - Documentación inapropiada",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 269,
+    "Fecha Evento": "2026-02-14",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 268,
+    "Fecha Evento": "2026-02-13",
+    "Campo": "Peligro Generico",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "MDA - Mantenimiento deficiente de aeronaves",
+    "Justificación": "Handset roto sin dispositivo de seguridad instalado = componente con mantenimiento deficiente",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -72"
+  },
+  {
+    "ID": 268,
+    "Fecha Evento": "2026-02-13",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: MDA - Mantenimiento deficiente de aeronaves",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -72"
+  },
+  {
+    "ID": 268,
+    "Fecha Evento": "2026-02-13",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -72"
+  },
+  {
+    "ID": 267,
+    "Fecha Evento": "2026-02-09",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: DOC - Documentación inapropiada",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 267,
+    "Fecha Evento": "2026-02-09",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 266,
+    "Fecha Evento": "2026-02-09",
+    "Campo": "Peligro Generico",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "DOC - Documentación inapropiada",
+    "Justificación": "Tarea retornada por uso de formas desactualizadas en la documentación de mantenimiento",
+    "Área Generadora": "Inspección y Calidad",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 266,
+    "Fecha Evento": "2026-02-09",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: DOC - Documentación inapropiada",
+    "Área Generadora": "Inspección y Calidad",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 265,
+    "Fecha Evento": "2026-02-08",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Consulta de textos desactualizados",
+    "Justificación": "SPI derivado del Peligro Genérico: DOC - Documentación inapropiada",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -72"
+  },
+  {
+    "ID": 265,
+    "Fecha Evento": "2026-02-08",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -72"
+  },
+  {
+    "ID": 264,
+    "Fecha Evento": "2026-02-03",
+    "Campo": "ATA_100",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "ATA_71",
+    "Justificación": "Embudo encontrado en cubierta del motor → ATA 71 Power Plant",
+    "Área Generadora": "Seguridad Operacional",
+    "Flota": "ATR -72"
+  },
+  {
+    "ID": 264,
+    "Fecha Evento": "2026-02-03",
+    "Campo": "ATA_100: ATA_Sign",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Power Plant",
+    "Justificación": "Corrección basada en análisis histórico y descripción del evento",
+    "Área Generadora": "Seguridad Operacional",
+    "Flota": "ATR -72"
+  },
+  {
+    "ID": 264,
+    "Fecha Evento": "2026-02-03",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Seguridad Operacional",
+    "Flota": "ATR -72"
+  },
+  {
+    "ID": 261,
+    "Fecha Evento": "2026-01-26",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Ingeniería",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 260,
+    "Fecha Evento": "2026-01-17",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: DOC - Documentación inapropiada",
+    "Área Generadora": "Ingeniería",
+    "Flota": "ATR -72"
+  },
+  {
+    "ID": 260,
+    "Fecha Evento": "2026-01-17",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Ingeniería",
+    "Flota": "ATR -72"
+  },
+  {
+    "ID": 259,
+    "Fecha Evento": "2026-02-03",
+    "Campo": "ATA_100",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "ATA_79",
+    "Justificación": "Servicio de aceite en motores → ATA 79 Oil",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 259,
+    "Fecha Evento": "2026-02-03",
+    "Campo": "ATA_100: ATA_Sign",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Oil",
+    "Justificación": "Corrección basada en análisis histórico y descripción del evento",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 258,
+    "Fecha Evento": "2026-01-14",
+    "Campo": "ATA_100",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "ATA_31",
+    "Justificación": "ESIS Power Supply (Emergency Standby Instrument) → ATA 31",
+    "Área Generadora": "Ingeniería",
+    "Flota": "DHC -6"
+  },
+  {
+    "ID": 258,
+    "Fecha Evento": "2026-01-14",
+    "Campo": "ATA_100: ATA_Sign",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Indicating/Recording Systems",
+    "Justificación": "Corrección basada en análisis histórico y descripción del evento",
+    "Área Generadora": "Ingeniería",
+    "Flota": "DHC -6"
+  },
+  {
+    "ID": 258,
+    "Fecha Evento": "2026-01-14",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: DOC - Documentación inapropiada",
+    "Área Generadora": "Ingeniería",
+    "Flota": "DHC -6"
+  },
+  {
+    "ID": 258,
+    "Fecha Evento": "2026-01-14",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Ingeniería",
+    "Flota": "DHC -6"
+  },
+  {
+    "ID": 257,
+    "Fecha Evento": "2026-01-15",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: DOC - Documentación inapropiada",
+    "Área Generadora": "Ingeniería",
+    "Flota": "ERJ -145"
+  },
+  {
+    "ID": 257,
+    "Fecha Evento": "2026-01-15",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Ingeniería",
+    "Flota": "ERJ -145"
+  },
+  {
+    "ID": 256,
+    "Fecha Evento": "2026-02-02",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 255,
+    "Fecha Evento": "2026-02-01",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: PRO - Procedimientos de mantenimiento incorrectos",
+    "Área Generadora": "Centro de Control Mantenimiento",
+    "Flota": "ERJ -145"
+  },
+  {
+    "ID": 254,
+    "Fecha Evento": "2026-02-01",
+    "Campo": "ATA_100",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "ATA_32",
+    "Justificación": "EMERGENCY BRAKE PRESSURE → ATA 32 Landing Gear",
+    "Área Generadora": "Seguridad Operacional",
+    "Flota": "ERJ -145"
+  },
+  {
+    "ID": 254,
+    "Fecha Evento": "2026-02-01",
+    "Campo": "ATA_100: ATA_Sign",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Landing Gear",
+    "Justificación": "Corrección basada en análisis histórico y descripción del evento",
+    "Área Generadora": "Seguridad Operacional",
+    "Flota": "ERJ -145"
+  },
+  {
+    "ID": 253,
+    "Fecha Evento": "2026-01-26",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: GH - Operaciones inadecuadas en tierra",
+    "Área Generadora": "Seguridad Operacional",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 253,
+    "Fecha Evento": "2026-01-26",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Seguridad Operacional",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 252,
+    "Fecha Evento": "2026-02-01",
+    "Campo": "Peligro Generico",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "PRO - Procedimientos de mantenimiento incorrectos",
+    "Justificación": "Modificación no autorizada (espejo en galley) = procedimiento de mantenimiento incorrecto/no aprobado",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 252,
+    "Fecha Evento": "2026-02-01",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: PRO - Procedimientos de mantenimiento incorrectos",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 251,
+    "Fecha Evento": "2026-02-01",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: GH - Operaciones inadecuadas en tierra",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -72"
+  },
+  {
+    "ID": 250,
+    "Fecha Evento": "2026-01-31",
+    "Campo": "Peligro Generico",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento",
+    "Justificación": "Ausencia de sillas ergonómicas en puesto de información técnica = deficiencia de instalaciones",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 250,
+    "Fecha Evento": "2026-01-31",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 249,
+    "Fecha Evento": "2026-01-30",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: GH - Operaciones inadecuadas en tierra",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 248,
+    "Fecha Evento": "2026-01-30",
+    "Campo": "Peligro Generico",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento",
+    "Justificación": "Sillas de biblioteca técnica en mal estado usadas 24/7 por todo el personal",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 248,
+    "Fecha Evento": "2026-01-30",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 247,
+    "Fecha Evento": "2026-01-28",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: FOD - Foreing Object Debris/Damage",
+    "Área Generadora": "Pilotos",
+    "Flota": "ERJ -145"
+  },
+  {
+    "ID": 247,
+    "Fecha Evento": "2026-01-28",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Pilotos",
+    "Flota": "ERJ -145"
+  },
+  {
+    "ID": 246,
+    "Fecha Evento": "2026-01-28",
+    "Campo": "Peligro Generico",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "GH - Operaciones inadecuadas en tierra",
+    "Justificación": "Circuito de luces de pista inoperativo en SKUC afecta operaciones de aterrizaje nocturno",
+    "Área Generadora": "Pilotos",
+    "Flota": "ERJ -145"
+  },
+  {
+    "ID": 246,
+    "Fecha Evento": "2026-01-28",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: GH - Operaciones inadecuadas en tierra",
+    "Área Generadora": "Pilotos",
+    "Flota": "ERJ -145"
+  },
+  {
+    "ID": 246,
+    "Fecha Evento": "2026-01-28",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Pilotos",
+    "Flota": "ERJ -145"
+  },
+  {
+    "ID": 245,
+    "Fecha Evento": "2026-01-26",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: GH - Operaciones inadecuadas en tierra",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "DHC -6"
+  },
+  {
+    "ID": 245,
+    "Fecha Evento": "2026-01-26",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "DHC -6"
+  },
+  {
+    "ID": 244,
+    "Fecha Evento": "2026-01-02",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Incorrecto almacenaje de componentes aeronáuticos",
+    "Justificación": "SPI derivado del Peligro Genérico: ALM - Almacenamiento inadecuado de componentes",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 244,
+    "Fecha Evento": "2026-01-02",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 243,
+    "Fecha Evento": "2026-01-21",
+    "Campo": "Conciencia del Error",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Pendiente",
+    "Justificación": "Registros reactivos recientes sin notificación enviada aún",
+    "Área Generadora": "Planeación y Programación",
+    "Flota": "ATR -42"
+  },
+  {
+    "ID": 241,
+    "Fecha Evento": "2026-01-11",
+    "Campo": "ATA_100",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "ATA_24",
+    "Justificación": "Cable GPU 115V dañado → ATA 24 Electrical Power",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 241,
+    "Fecha Evento": "2026-01-11",
+    "Campo": "ATA_100: ATA_Sign",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Electrical Power",
+    "Justificación": "Corrección basada en análisis histórico y descripción del evento",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 241,
+    "Fecha Evento": "2026-01-11",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: GH - Operaciones inadecuadas en tierra",
+    "Área Generadora": "Mantenimiento",
+    "Flota": "No Aplica"
+  },
+  {
+    "ID": 239,
+    "Fecha Evento": "2026-01-06",
+    "Campo": "Indicadores SPI",
+    "Valor Original": "(vacío)",
+    "Valor Corregido": "Datos o procedimientos de mantenimiento incorrectos o deficientes",
+    "Justificación": "SPI derivado del Peligro Genérico: FOD - Foreing Object Debris/Damage",
+    "Área Generadora": "Seguridad Operacional",
+    "Flota": "No Aplica"
+  }
+]
