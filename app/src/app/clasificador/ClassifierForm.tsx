@@ -2,6 +2,7 @@
 import { useState, useRef, useEffect, useCallback } from 'react'
 import type { ClassificationResult, Barrier } from '@/lib/types'
 import { RISK_BG } from '@/lib/types'
+import barrierSuggestionsRaw from '@/data/barrier_suggestions.json'
 
 /* ── Constants ─────────────────────────────────────────────── */
 const EMPTY_RESULT: ClassificationResult = {
@@ -34,6 +35,16 @@ const methodLabel: Record<string, string> = {
 }
 const LS_KEY = 'sms_oma_historial'
 const MAX_HIST = 10
+
+/* ── Barrier Suggestions ───────────────────────────────────────── */
+interface BarrierSuggestion { id: number; tipo: string; nombre: string; ref: string }
+const BARRIER_SUGGESTIONS = barrierSuggestionsRaw as Record<string, BarrierSuggestion[]>
+const SUGG_TIPO_CLS: Record<string, string> = {
+  T: 'bg-blue-50 text-blue-700 border-blue-200',
+  R: 'bg-green-50 text-green-700 border-green-200',
+  E: 'bg-amber-50 text-amber-700 border-amber-200',
+  O: 'bg-gray-100 text-gray-600 border-gray-200',
+}
 
 /* ── Types ─────────────────────────────────────────────────── */
 interface HistEntry {
@@ -241,6 +252,9 @@ export default function ClassifierForm() {
   const [fbField, setFbField]         = useState('severity_c')
   const [fbCorrect, setFbCorrect]     = useState('')
 
+  /* ── Suggested barriers panel ───────────────────────────── */
+  const [showSuggestions, setShowSuggestions] = useState(true)
+
   /* Load historial from localStorage on mount */
   useEffect(() => { setHistorial(loadHistorial()) }, [])
 
@@ -285,8 +299,20 @@ export default function ClassifierForm() {
   }
   function removeBarrier(id: number) { setBarriers(prev => prev.filter(b => b.id !== id)) }
 
+  function isSuggestionAdded(nombre: string) {
+    return barriers.some(b => b.nombre === nombre)
+  }
+  function addSuggestion(s: BarrierSuggestion) {
+    if (isSuggestionAdded(s.nombre)) return
+    const id = bSeq + 1; setBSeq(id)
+    setBarriers(prev => [...prev, { id, nombre: s.nombre, tipo: s.tipo as 'T'|'R'|'E'|'O', efectividad: -1 }])
+  }
+
   const globalEff = calcGlobalEff(barriers)
   const suggestedLikelyhood = globalEff !== null ? effToLikelyhood(globalEff) : null
+  const suggestedBarriers: BarrierSuggestion[] = result
+    ? (BARRIER_SUGGESTIONS[result.peligro_generico] ?? [])
+    : []
 
   /* ── Classify ───────────────────────────────────────────── */
   async function handleClassify(e: React.FormEvent) {
@@ -304,6 +330,7 @@ export default function ClassifierForm() {
       const r: ClassificationResult = data.result
       setResult(r)
       setActiveTab('clasificacion')
+      setShowSuggestions(true)
       // Save to historial
       const entry: HistEntry = {
         id: Date.now().toString(),
@@ -544,6 +571,68 @@ export default function ClassifierForm() {
                 {' → '}
                 <span className="font-bold text-yellow-900">Probabilidad sugerida: {suggestedLikelyhood}</span>
                 <span className="text-yellow-700 ml-1">({PROB_EFFECTIVE[suggestedLikelyhood ?? ''] ?? ''})</span>
+              </div>
+            )}
+
+            {/* ── Suggested barriers from BBDD analysis ── */}
+            {suggestedBarriers.length > 0 && (
+              <div className="border border-teal-200 rounded-lg overflow-hidden">
+                <button
+                  type="button"
+                  onClick={() => setShowSuggestions(v => !v)}
+                  className="w-full flex items-center justify-between px-3 py-2 bg-teal-50 hover:bg-teal-100 transition-colors"
+                >
+                  <span className="flex items-center gap-1.5 text-xs font-semibold text-teal-700">
+                    <svg className="w-3.5 h-3.5 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                      <path strokeLinecap="round" strokeLinejoin="round" d="M9.813 15.904 9 18.75l-.813-2.846a4.5 4.5 0 0 0-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 0 0 3.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 0 0 3.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 0 0-3.09 3.09Z"/>
+                    </svg>
+                    Barreras sugeridas
+                    <span className="bg-teal-200 text-teal-800 text-[9px] font-bold px-1.5 py-0.5 rounded-full">
+                      {suggestedBarriers.length}
+                    </span>
+                    <span className="text-teal-500 font-normal truncate max-w-[120px]">
+                      · {result?.peligro_generico?.split(' - ')[0]}
+                    </span>
+                  </span>
+                  <svg className={`w-3.5 h-3.5 text-teal-600 transition-transform shrink-0 ${showSuggestions ? 'rotate-180' : ''}`} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="m19 9-7 7-7-7"/>
+                  </svg>
+                </button>
+                {showSuggestions && (
+                  <div className="divide-y divide-teal-100 max-h-60 overflow-y-auto">
+                    <p className="px-3 py-1.5 text-[9px] text-teal-600 bg-teal-50/60 border-b border-teal-100">
+                      Haz clic en <strong>+</strong> para agregar la barrera a tu lista de defensas vigentes
+                    </p>
+                    {suggestedBarriers.map(s => {
+                      const added = isSuggestionAdded(s.nombre)
+                      const tc = SUGG_TIPO_CLS[s.tipo] ?? SUGG_TIPO_CLS.O
+                      return (
+                        <div key={s.id} className="flex items-start gap-2 px-3 py-2 hover:bg-gray-50 transition-colors">
+                          <span className={`shrink-0 mt-0.5 text-[9px] font-bold px-1.5 py-0.5 rounded border ${tc}`}>
+                            {s.tipo}
+                          </span>
+                          <div className="flex-1 min-w-0">
+                            <p className="text-xs font-medium text-gray-700 leading-tight">{s.nombre}</p>
+                            <p className="text-[9px] text-gray-400 mt-0.5 leading-tight" title={s.ref}>{s.ref}</p>
+                          </div>
+                          <button
+                            type="button"
+                            onClick={() => addSuggestion(s)}
+                            disabled={added}
+                            title={added ? 'Ya agregada a mis defensas' : 'Agregar a mis defensas vigentes'}
+                            className={`shrink-0 flex items-center justify-center w-6 h-6 rounded-full border font-bold text-sm transition-colors ${
+                              added
+                                ? 'bg-green-50 border-green-300 text-green-600 cursor-default'
+                                : 'bg-white border-gray-300 text-gray-500 hover:border-brand-500 hover:text-brand-700 hover:bg-brand-50'
+                            }`}
+                          >
+                            {added ? '✓' : '+'}
+                          </button>
+                        </div>
+                      )
+                    })}
+                  </div>
+                )}
               </div>
             )}
           </div>

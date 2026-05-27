@@ -1,0 +1,504 @@
+{
+  "DOC - Documentación inapropiada": [
+    {
+      "id": 1,
+      "tipo": "R",
+      "nombre": "Control de documentos vigentes (MOM 2.11)",
+      "ref": "MOM numeral 2.11 Manejo y control de datos de mantenimiento"
+    },
+    {
+      "id": 2,
+      "tipo": "R",
+      "nombre": "Procedimiento de diligenciamiento Forma SAT",
+      "ref": "ALERT No. 063 Estandarización diligenciamiento de documentos técnicos"
+    },
+    {
+      "id": 3,
+      "tipo": "T",
+      "nombre": "Acceso a manuales actualizados (ATR Active/ALKYM)",
+      "ref": "MCM Cap. 4.4 – Control y actualización de publicaciones técnicas"
+    },
+    {
+      "id": 4,
+      "tipo": "E",
+      "nombre": "Conciencia situacional y lectura de manuales",
+      "ref": "Entrenamiento inicial y recurrente de acuerdo al manual SAT"
+    },
+    {
+      "id": 5,
+      "tipo": "R",
+      "nombre": "Programa de mantenimiento programado (MCM 3.2.1)",
+      "ref": "MCM Num. 3.2.1 Mantenimiento programado"
+    },
+    {
+      "id": 6,
+      "tipo": "E",
+      "nombre": "Curso de Incoming Inspection",
+      "ref": "M01 Parte 3, Num. 3.3 Procedimiento de inspección de recibo"
+    },
+    {
+      "id": 7,
+      "tipo": "R",
+      "nombre": "Control componentes con Shelf Life (M01 7.2.12)",
+      "ref": "M01 Parte 7, Num. 7.2.12 Control de productos aeronáuticos con vida límite"
+    },
+    {
+      "id": 8,
+      "tipo": "E",
+      "nombre": "Curso SMS inicial y recurrente",
+      "ref": "Malla curricular cursos iniciales y recurrentes SAT"
+    }
+  ],
+  "PRO - Procedimientos de mantenimiento incorrectos": [
+    {
+      "id": 1,
+      "tipo": "R",
+      "nombre": "Inspección en proceso y RII (MOM 4.4)",
+      "ref": "MOM numeral 4.4 Procedimiento inspección en proceso y RII"
+    },
+    {
+      "id": 2,
+      "tipo": "T",
+      "nombre": "Servicio Line Check / External Safety Inspection",
+      "ref": "Procedimiento external safety inspection realizado por el técnico abordo"
+    },
+    {
+      "id": 3,
+      "tipo": "E",
+      "nombre": "Autorización personal técnico (C3 / conformidad)",
+      "ref": "MOM Num. 2.7.2 Requisitos para obtener certificaciones"
+    },
+    {
+      "id": 4,
+      "tipo": "R",
+      "nombre": "Control de trabajos de mantenimiento (MOM 2.6)",
+      "ref": "MOM Num. 2.6 Control de los trabajos de mantenimiento ejecutados por SATENA MRO"
+    },
+    {
+      "id": 5,
+      "tipo": "E",
+      "nombre": "Curso inicial y recurrente de flota + SMS",
+      "ref": "M56 Manual de entrenamiento y Procedimientos"
+    },
+    {
+      "id": 6,
+      "tipo": "R",
+      "nombre": "Gestión de ítems diferidos (MOM 2.25.3.2 MEL/CDL)",
+      "ref": "MOM Num. 2.25.3.2 Acción correctiva del MEL/CDL/NEF"
+    },
+    {
+      "id": 7,
+      "tipo": "R",
+      "nombre": "Procedimiento reparación mayor (MOM 2.21)",
+      "ref": "MOM numeral 2.21 Procedimiento de reparación mayor"
+    },
+    {
+      "id": 8,
+      "tipo": "T",
+      "nombre": "Activación NRI y control de intervalos",
+      "ref": "MOM 2.25 Procedimiento para rectificación de defectos"
+    }
+  ],
+  "GH - Operaciones inadecuadas en tierra": [
+    {
+      "id": 1,
+      "tipo": "R",
+      "nombre": "MOM 2.34.2 Movimiento de aeronaves en plataforma",
+      "ref": "MOM numeral 2.34.2 Movimiento de aeronaves en plataforma y calles de rodaje"
+    },
+    {
+      "id": 2,
+      "tipo": "T",
+      "nombre": "Bastones lumínicos y equipo de señalización",
+      "ref": "M104 Manual de operaciones de asistencia en tierra"
+    },
+    {
+      "id": 3,
+      "tipo": "E",
+      "nombre": "Conciencia situacional y acción de personal de rampa",
+      "ref": "M104 Num. 2.4 Reglas de seguridad en rampa"
+    },
+    {
+      "id": 4,
+      "tipo": "R",
+      "nombre": "Procedimientos de remolque (MOM 2.34.1)",
+      "ref": "MOM Num. 2.34.1 Procedimiento Prueba de Motores / Remolque"
+    },
+    {
+      "id": 5,
+      "tipo": "T",
+      "nombre": "Equipo de remolque operativo y calzos instalados",
+      "ref": "M104 manual de operaciones en tierra"
+    },
+    {
+      "id": 6,
+      "tipo": "R",
+      "nombre": "Autorización E5 Movimiento aeronave con remolque",
+      "ref": "MOM Num. 2.33 Autorizaciones Especiales de Mantenimiento E5"
+    },
+    {
+      "id": 7,
+      "tipo": "R",
+      "nombre": "Lista de chequeo Engine Start and Taxi",
+      "ref": "Lista de chequeo Engine start and Taxi y procedimiento Line Check"
+    },
+    {
+      "id": 8,
+      "tipo": "E",
+      "nombre": "Auditorías de seguridad operacional en rampa",
+      "ref": "Auditorías de seguridad operacional con el fin de revisar estado de calzos y procedimientos"
+    }
+  ],
+  "MDA - Mantenimiento deficiente de aeronaves": [
+    {
+      "id": 1,
+      "tipo": "R",
+      "nombre": "Inspección en proceso y RII (MOM 4.4)",
+      "ref": "MOM numeral 4.4 Procedimiento inspección en proceso y RII"
+    },
+    {
+      "id": 2,
+      "tipo": "T",
+      "nombre": "Servicio Line Check y External Safety Inspection",
+      "ref": "Servicio Line check, y procedimiento external safety inspection"
+    },
+    {
+      "id": 3,
+      "tipo": "R",
+      "nombre": "SOP ATR 42/72 SATENA",
+      "ref": "SOP ATR 42/72 SAT"
+    },
+    {
+      "id": 4,
+      "tipo": "E",
+      "nombre": "Autorización C3 / conformidad de mantenimiento de línea",
+      "ref": "MOM Num. 2.7.2 Requisitos para obtener certificaciones"
+    },
+    {
+      "id": 5,
+      "tipo": "E",
+      "nombre": "Curso inicial y recurrente de flota (ATR/ERJ/DHC)",
+      "ref": "Curso inicial y recurrente de la flota con el fin de estudiar las fallas"
+    },
+    {
+      "id": 6,
+      "tipo": "R",
+      "nombre": "Procedimiento Line Check flota ATR",
+      "ref": "Procedimiento Line Check equipo ATR 42/72"
+    },
+    {
+      "id": 7,
+      "tipo": "T",
+      "nombre": "MEL activo ATA correspondiente (MCM 3.2.1.11.1)",
+      "ref": "MCM Num. 3.2.1.11.1 Manejo del MEL/CDL"
+    },
+    {
+      "id": 8,
+      "tipo": "E",
+      "nombre": "Curso SMS recurrente y socialización de eventos",
+      "ref": "Curso inicial y recurrente SMS con el fin de socializar este tipo de eventos"
+    }
+  ],
+  "HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento": [
+    {
+      "id": 1,
+      "tipo": "R",
+      "nombre": "MOM 9.5 Instalaciones y entorno de trabajo",
+      "ref": "Manual de la Organización de Mantenimiento MOM numeral 9.5 Instalaciones y entorno de trabajo"
+    },
+    {
+      "id": 2,
+      "tipo": "R",
+      "nombre": "Plan de Emergencia General (M49)",
+      "ref": "M49 Plan de Emergencia General, Num. 1.2.1"
+    },
+    {
+      "id": 3,
+      "tipo": "R",
+      "nombre": "Manual del Sistema de Gestión SST (M41)",
+      "ref": "M41 Manual del Sistema de Gestión en Seguridad y Salud en el Trabajo"
+    },
+    {
+      "id": 4,
+      "tipo": "T",
+      "nombre": "Infraestructura y equipos ETAA disponibles",
+      "ref": "M30 Manual para la Administración del Equipo Terrestre de Apoyo Aeronáutico"
+    },
+    {
+      "id": 5,
+      "tipo": "R",
+      "nombre": "Reglamento de Higiene y Seguridad Industrial (M42)",
+      "ref": "M42 Reglamento de Higiene y Seguridad Industrial"
+    },
+    {
+      "id": 6,
+      "tipo": "E",
+      "nombre": "Conciencia situacional del personal en hangar",
+      "ref": "MOM Parte 9 Factores Humanos Num. 9.1 Deberes y Responsabilidades"
+    },
+    {
+      "id": 7,
+      "tipo": "R",
+      "nombre": "Procedimiento de mantenimiento ETAA (M30)",
+      "ref": "M30 Capítulo 4 Sistema de Inspecciones"
+    },
+    {
+      "id": 8,
+      "tipo": "T",
+      "nombre": "Demarcación y señalización de posiciones de parqueo",
+      "ref": "MOM Num. 2.34.2 indicaciones de ubicación de puntas de alas entre aviones"
+    }
+  ],
+  "HER - Uso de herramientas inapropiadas": [
+    {
+      "id": 1,
+      "tipo": "R",
+      "nombre": "Control préstamo de herramientas (M01 3.9)",
+      "ref": "M01 V.8 Num. 3.9 Control préstamo de herramientas al personal técnico"
+    },
+    {
+      "id": 2,
+      "tipo": "T",
+      "nombre": "Disponibilidad de herramientas y equipos correctos",
+      "ref": "M01 Parte 5 Procedimientos de Almacenamiento para Herramientas y Equipos de Prueba"
+    },
+    {
+      "id": 3,
+      "tipo": "E",
+      "nombre": "Conciencia situacional y acción del técnico",
+      "ref": "M30 Num. 4.9 Inspecciones de bancos y escaleras"
+    },
+    {
+      "id": 4,
+      "tipo": "R",
+      "nombre": "Programa de mantenimiento de equipos ETAA (M30)",
+      "ref": "M30 Capítulo 4 Sistema de Inspecciones, 4.5 Equipos Eléctricos"
+    },
+    {
+      "id": 5,
+      "tipo": "T",
+      "nombre": "Bancos de trabajo y escaleras inspeccionadas",
+      "ref": "M30 Num. 3.3.5 Bancos y Escaleras"
+    },
+    {
+      "id": 6,
+      "tipo": "R",
+      "nombre": "Calibración de herramientas y equipos de prueba (M01 5.2)",
+      "ref": "M01 Num. 5.2 Instrucciones generales para calibración de herramientas"
+    },
+    {
+      "id": 7,
+      "tipo": "E",
+      "nombre": "Entrenamiento en uso y manipulación de equipos especiales",
+      "ref": "Entrenamiento en el uso y manipulación de gatos hidráulicos / herramientas"
+    },
+    {
+      "id": 8,
+      "tipo": "R",
+      "nombre": "Inspección en proceso y RII (MOM 4.4)",
+      "ref": "MOM numeral 4.4 Procedimiento inspección en proceso y RII"
+    }
+  ],
+  "FOD - Foreing Object Debris/Damage": [
+    {
+      "id": 1,
+      "tipo": "T",
+      "nombre": "Canecas FOD distribuidas en hangar y plataforma",
+      "ref": "Campaña FOD - canecas repartidas en el hangar"
+    },
+    {
+      "id": 2,
+      "tipo": "E",
+      "nombre": "Campaña FOD y curso SMS inicial y recurrente",
+      "ref": "Curso inicial y recurrente de SMS para mantener alerta situacional sobre FOD"
+    },
+    {
+      "id": 3,
+      "tipo": "R",
+      "nombre": "Procedimiento Line Check y External Safety Inspection",
+      "ref": "Servicio Line check, y procedimiento external safety inspection"
+    },
+    {
+      "id": 4,
+      "tipo": "R",
+      "nombre": "MOM 2.34.2.2 Señales ingreso/salida aeronaves plataforma",
+      "ref": "MOM numeral 2.34.2.2 Señales de ingreso y salida de aeronaves en plataforma"
+    },
+    {
+      "id": 5,
+      "tipo": "T",
+      "nombre": "Control de herramientas (vale de préstamo SAT-F305)",
+      "ref": "M01 3.9 / Forma SAT F305 Vale Préstamo Herramienta"
+    },
+    {
+      "id": 6,
+      "tipo": "E",
+      "nombre": "Auditorías a las actividades de mantenimiento",
+      "ref": "Auditorías a las actividades de mantenimiento para controlar generación de FOD"
+    },
+    {
+      "id": 7,
+      "tipo": "R",
+      "nombre": "MOM 3.10 Control de herramientas del personal",
+      "ref": "MOM parte 3 numeral 3.10 Control herramientas propiedad personal de mantenimiento"
+    },
+    {
+      "id": 8,
+      "tipo": "T",
+      "nombre": "Herramientas de iluminación nocturna (linternas)",
+      "ref": "Herramientas luminosas para operación nocturna"
+    }
+  ],
+  "FH - Factores humanos como; aspectos psicosociales e incapacidad evidente del personal técnico": [
+    {
+      "id": 1,
+      "tipo": "E",
+      "nombre": "Conciencia situacional y acción del personal técnico",
+      "ref": "Programa de recurrentes MRM (Mantenimiento Resource Management)"
+    },
+    {
+      "id": 2,
+      "tipo": "E",
+      "nombre": "Recurrente MRM — Mantenimiento Resource Management",
+      "ref": "M56 Malla curricular de entrenamiento inicial y recurrente"
+    },
+    {
+      "id": 3,
+      "tipo": "R",
+      "nombre": "Procedimiento evaluación continua de fatiga / turnos",
+      "ref": "Procedimiento de evaluación continua de fatiga posterior a cambios de turnos operacionales"
+    },
+    {
+      "id": 4,
+      "tipo": "E",
+      "nombre": "Curso SMS inicial y recurrente",
+      "ref": "Política de descanso, MOM parte 6 / MOM Parte 9 Factores Humanos en Mantenimiento"
+    },
+    {
+      "id": 5,
+      "tipo": "R",
+      "nombre": "MOM Parte 9 — Factores Humanos en Mantenimiento",
+      "ref": "MOM Parte 9 Factores Humanos en Mantenimiento, política de descanso"
+    },
+    {
+      "id": 6,
+      "tipo": "E",
+      "nombre": "Procedimientos para asegurar la competencia del personal",
+      "ref": "MOM parte 6 Procedimientos para asegurar la competencia (SMS, MRM)"
+    }
+  ],
+  "ALM - Almacenamiento inadecuado de componentes": [
+    {
+      "id": 1,
+      "tipo": "R",
+      "nombre": "Control Shelf Life / Hard Time componentes (M01 7.2.12)",
+      "ref": "M01 Parte 7, Num. 7.2.12 Control de productos aeronáuticos con vida límite (Shelf Life)"
+    },
+    {
+      "id": 2,
+      "tipo": "T",
+      "nombre": "Registro de trazabilidad en software ALKYM",
+      "ref": "Registro de trazabilidades en software ALKYM"
+    },
+    {
+      "id": 3,
+      "tipo": "R",
+      "nombre": "Procedimiento inspección de recibo almacén (M01 3.3)",
+      "ref": "M01 Parte 3, Num. 3.3 Procedimiento de inspección de recibo"
+    },
+    {
+      "id": 4,
+      "tipo": "E",
+      "nombre": "Capacitación manual y procedimientos almacén aeronáutico",
+      "ref": "Entrenamiento inicial en inspección de recibo y continuo cada 3 años"
+    },
+    {
+      "id": 5,
+      "tipo": "R",
+      "nombre": "Inspección en proceso y RII (MOM 4.4)",
+      "ref": "MOM numeral 4.4 Procedimiento inspección en proceso y RII"
+    },
+    {
+      "id": 6,
+      "tipo": "E",
+      "nombre": "Curso SMS para conocer eventos de seguridad en la organización",
+      "ref": "Curso de SMS inicial y recurrente a fin de conocer los eventos de seguridad"
+    }
+  ],
+  "DGA - Daños graves causados a una aeronave durante las actividades de mantenimiento": [
+    {
+      "id": 1,
+      "tipo": "R",
+      "nombre": "Inspección en proceso y RII (MOM 4.4)",
+      "ref": "MOM numeral 4.4 Procedimiento inspección en proceso y RII"
+    },
+    {
+      "id": 2,
+      "tipo": "T",
+      "nombre": "Servicio Line Check / External Safety Inspection",
+      "ref": "Servicio Line check, y procedimiento external safety inspection"
+    },
+    {
+      "id": 3,
+      "tipo": "R",
+      "nombre": "MOM Parte 9 — Factores Humanos en Mantenimiento",
+      "ref": "MOM Parte 9 Factores Humanos en Mantenimiento, política de descanso"
+    },
+    {
+      "id": 4,
+      "tipo": "E",
+      "nombre": "Conciencia situacional y acción del personal",
+      "ref": "Procedimientos para asegurar la competencia (SMS, MRM)"
+    },
+    {
+      "id": 5,
+      "tipo": "R",
+      "nombre": "MOM 2.34.2 Movimiento de aeronaves en plataforma",
+      "ref": "MOM numeral 2.34.2 Movimiento de aeronaves en plataforma y calles de rodaje"
+    },
+    {
+      "id": 6,
+      "tipo": "R",
+      "nombre": "Autorizaciones especiales de mantenimiento (MOM 2.33)",
+      "ref": "MOM Num. 2.33 Autorizaciones especiales de mantenimiento"
+    },
+    {
+      "id": 7,
+      "tipo": "E",
+      "nombre": "Entrenamiento MRM y procedimientos para asegurar la competencia",
+      "ref": "Procedimientos para asegurar la competencia, Procedimiento inspección en proceso"
+    }
+  ],
+  "GAR - Requerimientos de garantía por servicios deficientes": [
+    {
+      "id": 1,
+      "tipo": "R",
+      "nombre": "Programa de Mantenimiento (componentes controlados)",
+      "ref": "Programa de Mantenimiento ERJ 145 / ATR — Componentes Controlados"
+    },
+    {
+      "id": 2,
+      "tipo": "T",
+      "nombre": "Registro de trazabilidad en software ALKYM",
+      "ref": "Registro de trazabilidades en software ALKYM"
+    },
+    {
+      "id": 3,
+      "tipo": "E",
+      "nombre": "Formación en el Programa de Mantenimiento de la flota",
+      "ref": "Formación en el Programa de Mantenimiento ERJ 145 / ATR"
+    },
+    {
+      "id": 4,
+      "tipo": "R",
+      "nombre": "Manual del Almacén (M01) — almacenamiento y conservación",
+      "ref": "M01 Manual del Almacén Parte 4. Almacenamiento, conservación y manipulación"
+    },
+    {
+      "id": 5,
+      "tipo": "R",
+      "nombre": "Sistema de Garantía de Calidad (MCM Cap. V)",
+      "ref": "MCM Cap. V Registros de Mantenimiento"
+    }
+  ]
+}
