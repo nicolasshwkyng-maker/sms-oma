@@ -97,7 +97,7 @@ export default function ValuacionClient() {
 
   // Identifier
   const [evalId, setEvalId]   = useState('')
-  const [hallType, setHall]   = useState<'NC' | 'OBS' | ''>('')
+  const [hallType, setHall]   = useState<'NC' | 'OBS' | 'PEL' | ''>('')
   const [hallDesc, setHallDesc] = useState('')
 
   // Severity
@@ -160,7 +160,7 @@ export default function ValuacionClient() {
   const tol = UR !== null ? getTol(UR) : null
 
   function reset() {
-    setStep(1); setEvalId(''); setHall(''); setHallDesc('')
+    setStep(1); setEvalId(''); setHall('' as ''); setHallDesc('')
     setSevSel(Object.fromEntries(CRITERIA.map(c => [c.id, null])))
     setSevConf(null); setBarriers([]); setBSeq(0); setProb(null)
   }
@@ -471,7 +471,7 @@ export default function ValuacionClient() {
         <div className="px-5 py-3 border-b border-gray-100 bg-gray-50 flex items-center justify-between">
           <h2 className="text-xs font-semibold uppercase tracking-wider text-gray-500">Resultado de la Valoración</h2>
           <span className="text-xs border border-gray-200 rounded px-2 py-0.5 text-gray-500">
-            {evalId || 'Sin identificador'}{hallType ? ` — ${hallType}` : ''}
+            {evalId || 'Sin identificador'}{hallType ? ` — ${{ NC: 'No Conformidad', OBS: 'Observación', PEL: 'Peligro/Evento' }[hallType]}` : ''}
           </span>
         </div>
 
@@ -559,7 +559,7 @@ export default function ValuacionClient() {
             </thead>
             <tbody>
               {[
-                ['Identificador', evalId || '—', hallType ? `Clasificación: ${hallType}` : ''],
+                ['Identificador', evalId || '—', hallType ? `Tipo: ${{ NC: 'No Conformidad', OBS: 'Observación', PEL: 'Peligro / Evento' }[hallType]}` : ''],
                 ['Severidad (PCRP)', `${sev.emoji} ${sev.name}`, `Factor ${SEV_FACTOR[sevConf]}`],
                 ['Probabilidad', prob.name, `Factor ${prob.label} · ${prob.eff} efectividad barreras`],
                 ['Índice de Riesgo', `${UR} UR`, tol.alarp],
@@ -611,15 +611,18 @@ export default function ValuacionClient() {
               className="flex-1 px-3 py-1.5 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-brand-500"
             />
           </div>
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-2 flex-wrap">
             <span className="text-xs font-semibold text-gray-400 uppercase tracking-wider">Tipo</span>
-            {(['NC', 'OBS'] as const).map(t => (
-              <button key={t} onClick={() => setHall(prev => prev === t ? '' : t)}
+            {([
+              { t: 'NC',  label: 'No Conformidad',  short: 'NC',  active: 'bg-red-50 border-red-500 text-red-700' },
+              { t: 'OBS', label: 'Observación',      short: 'OBS', active: 'bg-blue-50 border-blue-500 text-blue-700' },
+              { t: 'PEL', label: 'Peligro / Evento', short: 'PEL', active: 'bg-orange-50 border-orange-500 text-orange-700' },
+            ] as const).map(({ t, label, short, active }) => (
+              <button key={t}
+                onClick={() => setHall(prev => prev === t ? '' : t)}
                 className={`text-xs font-bold px-3 py-1.5 rounded-lg border-2 transition-all ${
-                  hallType === t && t === 'NC' ? 'bg-red-50 border-red-500 text-red-700' :
-                  hallType === t && t === 'OBS' ? 'bg-blue-50 border-blue-500 text-blue-700' :
-                  'border-gray-200 text-gray-500 hover:border-gray-400'}`}>
-                {t === 'NC' ? 'No Conformidad (NC)' : 'Observación (OBS)'}
+                  hallType === t ? active : 'border-gray-200 text-gray-500 hover:border-gray-400'}`}>
+                {label} <span className="font-mono opacity-70">({short})</span>
               </button>
             ))}
           </div>

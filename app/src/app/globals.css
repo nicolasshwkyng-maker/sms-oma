@@ -7,6 +7,7 @@
   --brand-light: #2e75b6;
 }
 
+/* ── Base ──────────────────────────────────────────────────────────────────── */
 body {
   @apply bg-gray-50 text-gray-900 transition-colors duration-200;
 }
@@ -14,52 +15,169 @@ body {
   @apply bg-gray-950 text-gray-100;
 }
 
+/* ── Sidebar links ─────────────────────────────────────────────────────────── */
 .sidebar-link {
   @apply flex items-center gap-3 px-4 py-3 rounded-lg text-sm font-medium transition-all duration-150;
 }
-.sidebar-link:hover {
-  @apply bg-white/10 text-white;
-}
-.sidebar-link.active {
-  @apply bg-white text-brand-700 shadow-sm;
-}
+.sidebar-link:hover { @apply bg-white/10 text-white; }
+.sidebar-link.active { @apply bg-white text-brand-700 shadow-sm; }
 
+/* ── Risk badge ────────────────────────────────────────────────────────────── */
 .risk-badge {
   @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold border;
 }
 
-/* Card — light/dark */
+/* ══════════════════════════════════════════════════════════════════════════════
+   CARD — light / dark
+══════════════════════════════════════════════════════════════════════════════ */
 .card {
   @apply bg-white rounded-xl shadow-sm border border-gray-100 p-5;
 }
 .dark .card {
-  @apply bg-gray-900 border-gray-800 shadow-none;
+  @apply bg-gray-800 border-gray-700 shadow-none;
 }
 
-/* Table */
+/* ══════════════════════════════════════════════════════════════════════════════
+   TABLE — light / dark
+══════════════════════════════════════════════════════════════════════════════ */
 .table-th {
   @apply px-4 py-3 text-left text-xs font-semibold text-gray-500 uppercase tracking-wider bg-gray-50;
 }
 .dark .table-th {
-  @apply bg-gray-800 text-gray-400;
+  @apply bg-gray-700 text-gray-300;
 }
 .table-td {
   @apply px-4 py-3 text-sm text-gray-700 border-t border-gray-100;
 }
 .dark .table-td {
-  @apply text-gray-300 border-gray-800;
+  @apply text-gray-200 border-gray-700;
 }
 .table-td-red {
   @apply px-4 py-3 text-sm font-semibold text-red-700 bg-red-50 border-t border-red-100;
 }
+.dark .table-td-red {
+  @apply text-red-300 bg-red-950 border-red-900;
+}
 
-/* Dark main background */
-.dark main {
-  @apply bg-gray-950;
+/* ══════════════════════════════════════════════════════════════════════════════
+   DARK — main layout
+══════════════════════════════════════════════════════════════════════════════ */
+.dark main { @apply bg-gray-950; }
+
+.dark h1, .dark h2, .dark h3 { @apply text-gray-100; }
+.dark h4, .dark h5, .dark h6 { @apply text-gray-200; }
+.dark p  { @apply text-gray-300; }
+.dark label { color: #d1d5db; }
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   DARK — form elements
+══════════════════════════════════════════════════════════════════════════════ */
+.dark input:not([type="checkbox"]):not([type="radio"]),
+.dark textarea,
+.dark select {
+  background-color: #1e293b;
+  border-color: #475569;
+  color: #f1f5f9;
 }
-.dark h1, .dark h2, .dark h3 {
-  @apply text-gray-100;
+.dark input::placeholder,
+.dark textarea::placeholder {
+  color: #64748b;
 }
-.dark p {
-  @apply text-gray-400;
+.dark input:focus,
+.dark textarea:focus,
+.dark select:focus {
+  border-color: #3b82f6;
+  outline-color: #3b82f6;
 }
+.dark select option {
+  background-color: #1e293b;
+  color: #f1f5f9;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   DARK — section headers (bg-gray-50 strips inside cards)
+══════════════════════════════════════════════════════════════════════════════ */
+.dark .bg-gray-50  { background-color: #1e293b !important; }
+.dark .bg-gray-100 { background-color: #1e293b !important; }
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   DARK — borders
+══════════════════════════════════════════════════════════════════════════════ */
+.dark .border-gray-100 { border-color: #334155 !important; }
+.dark .border-gray-200 { border-color: #334155 !important; }
+.dark .border-gray-300 { border-color: #475569 !important; }
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   DARK — text overrides
+══════════════════════════════════════════════════════════════════════════════ */
+.dark .text-gray-900 { color: #f1f5f9 !important; }
+.dark .text-gray-800 { color: #e2e8f0 !important; }
+.dark .text-gray-700 { color: #cbd5e1 !important; }
+.dark .text-gray-600 { color: #94a3b8 !important; }
+.dark .text-gray-500 { color: #94a3b8 !important; }
+.dark .text-gray-400 { color: #64748b !important; }
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   DARK — colored info boxes  (keeping hue, darkening bg, brightening text)
+══════════════════════════════════════════════════════════════════════════════ */
+/* Blue */
+.dark .bg-blue-50   { background-color: #0f1f40 !important; }
+.dark .border-blue-100, .dark .border-blue-200 { border-color: #1e3a6e !important; }
+.dark .text-blue-800, .dark .text-blue-700     { color: #93c5fd !important; }
+
+/* Yellow / amber */
+.dark .bg-yellow-50  { background-color: #1c1600 !important; }
+.dark .border-yellow-100, .dark .border-yellow-200 { border-color: #713f12 !important; }
+.dark .text-yellow-800, .dark .text-yellow-900     { color: #fde68a !important; }
+.dark .text-yellow-700 { color: #fbbf24 !important; }
+
+/* Green */
+.dark .bg-green-50  { background-color: #022c1a !important; }
+.dark .border-green-100, .dark .border-green-200 { border-color: #166534 !important; }
+.dark .text-green-700, .dark .text-green-800     { color: #86efac !important; }
+.dark .text-green-600 { color: #4ade80 !important; }
+
+/* Red */
+.dark .bg-red-50    { background-color: #1c0a0a !important; }
+.dark .border-red-100, .dark .border-red-200 { border-color: #7f1d1d !important; }
+.dark .text-red-700, .dark .text-red-800     { color: #fca5a5 !important; }
+.dark .text-red-600 { color: #f87171 !important; }
+
+/* Orange */
+.dark .bg-orange-50  { background-color: #1a0e00 !important; }
+.dark .border-orange-100, .dark .border-orange-200 { border-color: #7c2d12 !important; }
+.dark .text-orange-700, .dark .text-orange-800     { color: #fdba74 !important; }
+
+/* Purple */
+.dark .bg-purple-50  { background-color: #16082a !important; }
+.dark .border-purple-100, .dark .border-purple-200 { border-color: #581c87 !important; }
+.dark .text-purple-700, .dark .text-purple-800     { color: #d8b4fe !important; }
+.dark .text-purple-600 { color: #c084fc !important; }
+
+/* Teal */
+.dark .bg-teal-50   { background-color: #001a18 !important; }
+.dark .border-teal-100, .dark .border-teal-200 { border-color: #0f766e !important; }
+.dark .text-teal-700, .dark .text-teal-800     { color: #5eead4 !important; }
+.dark .text-teal-500, .dark .text-teal-600     { color: #2dd4bf !important; }
+
+/* Brand */
+.dark .bg-brand-50  { background-color: #0a1829 !important; }
+.dark .border-brand-100 { border-color: #1e3a6e !important; }
+.dark .text-brand-700 { color: #60a5fa !important; }
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   DARK — white surfaces (buttons, inline chips, matrix cells)
+══════════════════════════════════════════════════════════════════════════════ */
+.dark .bg-white {
+  background-color: #1e293b !important;
+}
+.dark .text-gray-700.bg-white,
+.dark .bg-white .text-gray-700 {
+  color: #e2e8f0 !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   DARK — step indicator and misc surfaces
+══════════════════════════════════════════════════════════════════════════════ */
+.dark .bg-gray-200 { background-color: #334155 !important; }
+.dark .hover\:bg-gray-50:hover { background-color: #1e293b !important; }
