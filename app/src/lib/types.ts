@@ -125,6 +125,14 @@ export interface Stats {
   likelyhood_options: string[]
   severity_options: string[]
   spi_options: string[]
+  // Extended stats
+  by_month_2026?: Record<string, number>
+  by_month_2025?: Record<string, number>
+  by_severity?: Record<string, number>
+  by_alarp_all?: Record<string, number>
+  by_tipo_year?: Record<string, Record<string, number>>
+  proactivo_rate_2026?: number
+  proactivo_count_2026?: number
 }
 
 export const RISK_COLORS: Record<string, string> = {

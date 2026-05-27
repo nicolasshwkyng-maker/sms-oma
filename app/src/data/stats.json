@@ -80,5 +80,58 @@
     "Reclamación por garantías",
     "Consulta de textos desactualizados",
     "Incorrecto almacenaje de componentes aeronáuticos"
-  ]
+  ],
+  "by_month_2026": {
+    "2026-01": 16,
+    "2026-02": 23,
+    "2026-03": 14,
+    "2026-04": 6,
+    "2026-05": 11
+  },
+  "by_month_2025": {
+    "2025-01": 1,
+    "2025-02": 4,
+    "2025-03": 7,
+    "2025-04": 4,
+    "2025-05": 6,
+    "2025-06": 6,
+    "2025-07": 10,
+    "2025-08": 15,
+    "2025-09": 13,
+    "2025-10": 12,
+    "2025-11": 26,
+    "2025-12": 16
+  },
+  "by_severity": {
+    "Importante": 79,
+    "Peligroso": 23,
+    "Leve": 11,
+    "Catastrofico": 2
+  },
+  "by_alarp_all": {
+    "Riesgo Medio": 70,
+    "Riesgo Alto": 39,
+    "Riesgo Extremo": 5,
+    "Riesgo Bajo": 1
+  },
+  "by_tipo_year": {
+    "2026": {
+      "Reactivo": 46,
+      "Proactivo": 19
+    },
+    "2025": {
+      "Reactivo": 63,
+      "Proactivo": 56
+    },
+    "2024": {
+      "Proactivo": 30,
+      "Reactivo": 22
+    },
+    "2023": {
+      "Proactivo": 7,
+      "Reactivo": 21
+    }
+  },
+  "proactivo_rate_2026": 0,
+  "proactivo_count_2026": 0
 }
