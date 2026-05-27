@@ -1,0 +1,60 @@
+{
+  "FH - Factores humanos como; aspectos psicosociales e incapacidad evidente del personal técnico": [
+    "ODP-01",
+    "HCS-01"
+  ],
+  "DOC - Documentación inapropiada": [
+    "ODP-05",
+    "ODP-02",
+    "TMD-01",
+    "TMA-14",
+    "ODP-01"
+  ],
+  "HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento": [
+    "TAF-06",
+    "TMF-05",
+    "TMF-04",
+    "TMF-03",
+    "TMF-06"
+  ],
+  "GH - Operaciones inadecuadas en tierra": [
+    "TAO-05",
+    "HCS-01",
+    "OEP-01",
+    "TMT-02",
+    "TAI-03"
+  ],
+  "MDA - Mantenimiento deficiente de aeronaves": [
+    "TMF-11",
+    "TMF-10",
+    "TMF-09",
+    "ODP-09",
+    "TMA-02"
+  ],
+  "FOD - Foreing Object Debris/Damage": [
+    "TAO-06",
+    "OMN-08",
+    "TRC-01"
+  ],
+  "PRO - Procedimientos de mantenimiento incorrectos": [
+    "ODP-05",
+    "OPR-02",
+    "HCS-01",
+    "OCS-03",
+    "TMA-02"
+  ],
+  "HER - Uso de herramientas inapropiadas": [
+    "TMT-02",
+    "TMT-05"
+  ],
+  "ALM - Almacenamiento inadecuado de componentes": [
+    "HCS-01",
+    "TMF-12"
+  ],
+  "GAR - Requerimientos de garantía por servicios deficientes": [
+    "TMF-10"
+  ],
+  "DGA - Daños graves causados a una aeronave durante las actividades de mantenimiento": [
+    "HCS-01"
+  ]
+}

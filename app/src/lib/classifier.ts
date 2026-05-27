@@ -1,9 +1,30 @@
 /**
  * Clasificador SMS OMA — extendido con análisis ARMS:
  * barreras, severidad PCRP, justificación, área gestora, plan de gestión.
+ * Incluye predicción de Descriptor SRVSOP.
  */
 import type { ClassificationResult, TrainingRecord, Barrier } from './types'
 import { riskMatrix, getSPIForPeligro } from './data'
+import descriptorMap from '../data/peligro_descriptor_map.json'
+import peligrosLookup from '../data/peligros_lookup.json'
+
+// ─── SRVSOP Descriptor helper ─────────────────────────────────────────────────
+type DescriptorEntry = { codigo: string; categoria: string; abrev: string; sub_cat: string; descripcion: string }
+const _lookup = peligrosLookup as DescriptorEntry[]
+const _descMap = descriptorMap as Record<string, string[]>
+
+function getDescriptor(peligro: string): { descriptor_codigo: string; descriptor_subcat: string; descriptor_descripcion: string } {
+  const codes = _descMap[peligro] ?? []
+  if (!codes.length) return { descriptor_codigo: '', descriptor_subcat: '', descriptor_descripcion: '' }
+  const primaryCode = codes[0]
+  const entry = _lookup.find(e => e.codigo === primaryCode)
+  if (!entry) return { descriptor_codigo: primaryCode, descriptor_subcat: '', descriptor_descripcion: '' }
+  return {
+    descriptor_codigo: entry.codigo,
+    descriptor_subcat: entry.sub_cat,
+    descriptor_descripcion: entry.descripcion,
+  }
+}
 
 // ─── Matrices ARMS ────────────────────────────────────────────────────────────
 export const UR_MATRIX: Record<number, Record<string, number>> = {
@@ -246,6 +267,7 @@ export function classifyLocal(
   const riskAlarp = riskRow?.alarp ?? 'Riesgo Medio'
   const spi = getSPIForPeligro(peligro, descripcion)
   const { area_gestora, responsable } = localAreaGestora(peligro, '')
+  const descriptor = getDescriptor(peligro)
 
   return {
     tipo_reporte: tipoReporte,
@@ -264,6 +286,7 @@ export function classifyLocal(
     area_gestora,
     responsable_sugerido: responsable,
     plan_gestion: localPlan(peligro),
+    ...descriptor,
   }
 }
 
@@ -348,6 +371,7 @@ Responde ÚNICAMENTE con JSON válido (sin markdown):
     const riskInd   = riskRow?.riskInd ?? 100
     const riskAlarp = riskRow?.alarp ?? 'Riesgo Medio'
     const spi = getSPIForPeligro(p.peligro_generico, descripcion)
+    const descriptor = getDescriptor(p.peligro_generico)
 
     return {
       tipo_reporte:     p.tipo_reporte,
@@ -365,6 +389,7 @@ Responde ÚNICAMENTE con JSON válido (sin markdown):
       area_gestora:          p.area_gestora,
       responsable_sugerido:  p.responsable_sugerido,
       plan_gestion:          p.plan_gestion,
+      ...descriptor,
     }
   } catch {
     return classifyLocal(descripcion, causa, training, barriers)

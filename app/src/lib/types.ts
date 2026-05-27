@@ -76,6 +76,9 @@ export interface TrainingRecord {
   risk_alarp: string
   indicadores_spi: string
   year: number
+  descriptor_codigo?: string
+  descriptor_subcat?: string
+  descriptor_descripcion?: string
 }
 
 export interface Barrier {
@@ -109,6 +112,10 @@ export interface ClassificationResult {
   area_gestora?: string
   responsable_sugerido?: string
   plan_gestion?: string
+  // SRVSOP Descriptor
+  descriptor_codigo?: string
+  descriptor_subcat?: string
+  descriptor_descripcion?: string
 }
 
 export interface Stats {

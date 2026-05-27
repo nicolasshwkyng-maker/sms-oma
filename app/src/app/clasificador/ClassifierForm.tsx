@@ -148,6 +148,13 @@ ${causa ? `<div class="section">
   <div class="field"><div class="field-label">Nivel de Riesgo (ALARP)</div><div class="field-value">
     <span class="risk-badge ${(result.risk_alarp || '').toLowerCase()}">${result.risk_alarp || '—'}</span>
   </div></div>
+</div>
+${result.descriptor_codigo ? `<div style="margin-top:6px;background:#f0fdfa;border:1px solid #99f6e4;border-radius:5px;padding:5px 8px;">
+<div class="field-label" style="color:#0d9488;margin-bottom:3px;">Descriptor SRVSOP</div>
+<span style="display:inline-block;background:#0d9488;color:#fff;font-family:monospace;font-size:10px;font-weight:700;padding:1px 7px;border-radius:3px;margin-right:6px;">${result.descriptor_codigo}</span>
+${result.descriptor_subcat ? `<span style="font-size:9px;color:#0d9488;">${result.descriptor_subcat}</span>` : ''}
+${result.descriptor_descripcion ? `<div style="margin-top:3px;font-size:10px;color:#134e4a;">${result.descriptor_descripcion}</div>` : ''}
+</div>` : ''}
 </div></div>
 
 ${result.severity_pcrp ? `<div class="section">
@@ -602,6 +609,26 @@ export default function ClassifierForm() {
                   <p className="text-sm font-semibold text-gray-800 bg-blue-50 px-3 py-1.5 rounded-lg border border-blue-100 mt-0.5">{value || '—'}</p>
                 </div>
               ))}
+
+              {/* SRVSOP Descriptor */}
+              {result.descriptor_codigo && (
+                <div className="bg-teal-50 border border-teal-200 rounded-lg px-3 py-2.5">
+                  <p className="text-[9px] font-semibold uppercase tracking-wider text-teal-600 mb-1.5">Descriptor SRVSOP</p>
+                  <div className="flex items-start gap-2">
+                    <span className="shrink-0 font-mono text-xs font-bold text-white bg-teal-600 px-2 py-0.5 rounded">
+                      {result.descriptor_codigo}
+                    </span>
+                    <div>
+                      {result.descriptor_subcat && (
+                        <p className="text-[10px] text-teal-500 font-medium leading-tight">{result.descriptor_subcat}</p>
+                      )}
+                      {result.descriptor_descripcion && (
+                        <p className="text-xs text-teal-800 mt-0.5 leading-snug">{result.descriptor_descripcion}</p>
+                      )}
+                    </div>
+                  </div>
+                </div>
+              )}
 
               {/* Risk */}
               <div className="grid grid-cols-2 gap-3">

@@ -8,10 +8,15 @@ interface BatchRow {
   descripcion: string
   causa: string
   id?: string
-  [key: string]: string | number | undefined
+  [key: string]: unknown
 }
 
-interface BatchResult extends BatchRow {
+interface BatchResult {
+  _idx: number
+  descripcion: string
+  causa: string
+  id?: string
+  _rawData: Record<string, unknown>
   _status: 'pending' | 'processing' | 'done' | 'error'
   _result?: ClassificationResult
   _error?: string
@@ -47,7 +52,9 @@ function parseCSV(text: string): BatchRow[] {
 
 function exportCSV(results: BatchResult[]) {
   const headers = ['ID', 'Descripción (preview)', 'Tipo Reporte', 'Peligro Genérico', 'ATA_100',
-    'Severity C', 'Likelyhood', 'RiskInd', 'ALARP', 'Indicadores SPI', 'Confianza', 'Método']
+    'Severity C', 'Likelyhood', 'RiskInd', 'ALARP', 'Indicadores SPI',
+    'Descriptor SRVSOP', 'Descriptor Subcategoría', 'Descriptor Descripción',
+    'Confianza', 'Método']
   const rows = results.map(r => [
     r.id ?? r._idx + 1,
     (r.descripcion || '').substring(0, 60).replace(/,/g, ';'),
@@ -59,6 +66,9 @@ function exportCSV(results: BatchResult[]) {
     r._result?.risk_ind ?? '',
     r._result?.risk_alarp ?? '',
     r._result?.indicadores_spi ?? '',
+    r._result?.descriptor_codigo ?? '',
+    r._result?.descriptor_subcat ?? '',
+    r._result?.descriptor_descripcion ?? '',
     r._result ? `${Math.round(r._result.confidence * 100)}%` : '',
     r._result?.method ?? '',
   ])
@@ -103,7 +113,10 @@ export default function BatchClient() {
           parsed = parseCSV(raw)
         }
         if (!parsed.length) { setParseErr('No se encontraron registros con campo "Descripción del Evento"'); return }
-        setRows(parsed.map(r => ({ ...r, _status: 'pending' })))
+        setRows(parsed.map(r => ({
+          _idx: r._idx, descripcion: r.descripcion, causa: r.causa, id: r.id,
+          _rawData: { ...r } as Record<string, unknown>, _status: 'pending' as const,
+        })))
         setTotal(parsed.length)
       } catch { setParseErr('Error al leer el archivo. Verifica que sea CSV o JSON válido.') }
     }
