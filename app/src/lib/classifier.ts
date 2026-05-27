@@ -317,7 +317,17 @@ Probabilidad sugerida por barreras: ${likeBarriers || 'sin calcular'}
 INSTRUCCIÓN: la probabilidad debe basarse PRINCIPALMENTE en la efectividad de las barreras anteriores, no en la frecuencia histórica.`
     : '\nNOTA: No se listaron barreras. Determina la probabilidad con base en las defensas implícitas mencionadas en el texto.'
 
-  const prompt = `Eres experto en Seguridad Operacional (SMS) de una OMA (Organización de Mantenimiento de Aeronaves). Usas la metodología ARMS adaptada.
+  // Build SRVSOP descriptor options for the prompt (all relevant codes for each peligro)
+  const descriptorOptions = Object.entries(_descMap)
+    .map(([pg, codes]) => {
+      const codeList = codes.slice(0, 12).map(c => {
+        const e = _lookup.find(x => x.codigo === c)
+        return e ? `${c} (${e.sub_cat}: ${e.descripcion.substring(0, 60)}…)` : c
+      }).join('; ')
+      return `  ${pg.split(' - ')[0]}: ${codeList}`
+    }).join('\n')
+
+  const prompt = `Eres experto en Seguridad Operacional (SMS) de una OMA (Organización de Mantenimiento de Aeronaves). Usas la metodología ARMS adaptada y la taxonomía SRVSOP de 289 peligros.
 
 EJEMPLOS HISTÓRICOS:
 ${examples}
@@ -334,6 +344,10 @@ Likelyhood: Frecuente | Probable | Ocasional | Improbable | Sumamente Improbable
 Severity C: Catastrofico | Peligroso | Importante | Leve | Insignificante
 Severity PCRP por criterio: uno de los 5 niveles anteriores para cada criterio
 
+DESCRIPTOR SRVSOP — Seleccionar el código más específico según el Peligro Genérico asignado:
+${descriptorOptions}
+Devuelve SOLO el código (ej: "ODP-05"). Debe ser uno de los listados arriba para el peligro elegido.
+
 Responde ÚNICAMENTE con JSON válido (sin markdown):
 {
   "tipo_reporte": "...",
@@ -346,6 +360,7 @@ Responde ÚNICAMENTE con JSON válido (sin markdown):
     "aeronave": "...", "personas": "...", "regulacion": "...",
     "reputacion": "...", "ambiente": "...", "peor": "..."
   },
+  "descriptor_codigo": "CODIGO-XX",
   "justificacion_severidad": "2-3 oraciones explicando la severidad PCRP",
   "justificacion_probabilidad": "2-3 oraciones sobre la probabilidad y efectividad de barreras",
   "area_gestora": "área responsable de gestionar el reporte",
@@ -358,7 +373,7 @@ Responde ÚNICAMENTE con JSON válido (sin markdown):
     const client = new Anthropic({ apiKey })
     const message = await client.messages.create({
       model: 'claude-haiku-4-5-20251001',
-      max_tokens: 900,
+      max_tokens: 1100,
       messages: [{ role: 'user', content: prompt }],
     })
 
@@ -371,7 +386,19 @@ Responde ÚNICAMENTE con JSON válido (sin markdown):
     const riskInd   = riskRow?.riskInd ?? 100
     const riskAlarp = riskRow?.alarp ?? 'Riesgo Medio'
     const spi = getSPIForPeligro(p.peligro_generico, descripcion)
-    const descriptor = getDescriptor(p.peligro_generico)
+
+    // Prefer Claude's chosen descriptor code; fall back to map primary
+    let descriptor = getDescriptor(p.peligro_generico)
+    if (p.descriptor_codigo) {
+      const entry = _lookup.find(e => e.codigo === p.descriptor_codigo)
+      if (entry) {
+        descriptor = {
+          descriptor_codigo: entry.codigo,
+          descriptor_subcat: entry.sub_cat,
+          descriptor_descripcion: entry.descripcion,
+        }
+      }
+    }
 
     return {
       tipo_reporte:     p.tipo_reporte,

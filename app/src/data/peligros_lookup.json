@@ -4,2438 +4,2015 @@
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Regulador",
-    "descripcion": "Falta de, deficiente o ineficaz legislación y/o reglamentación.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, deficiente o ineficaz legislación y/o reglamentación."
   },
   {
     "codigo": "REG-02",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Regulador",
-    "descripcion": "Falta de o ineficacia de la capacidad de investigación de accidentes.",
-    "peligros_asociados": []
+    "descripcion": "Falta de o ineficacia de la capacidad de investigación de accidentes."
   },
   {
     "codigo": "REG-03",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Regulador",
-    "descripcion": "Capacidad de supervisión inadecuada.",
-    "peligros_asociados": []
+    "descripcion": "Capacidad de supervisión inadecuada."
   },
   {
     "codigo": "OMN-01",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Gestión",
-    "descripcion": "Falta de designación del ejecutivo responsable. Compromiso limitado o falta de compromiso de la gerencia.",
-    "peligros_asociados": []
+    "descripcion": "Falta de designación del ejecutivo responsable. Compromiso limitado o falta de compromiso de la gerencia."
   },
   {
     "codigo": "OMN-02",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Gestión",
-    "descripcion": "Falta de o descripción incompleta de funciones, cualificaciones, responsabilidades y obligaciones.",
-    "peligros_asociados": []
+    "descripcion": "Falta de o descripción incompleta de funciones, cualificaciones, responsabilidades y obligaciones."
   },
   {
     "codigo": "OMN-03",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Gestión",
-    "descripcion": "Limitación o falta de disponibilidad o planificación de recursos, incluido el personal.",
-    "peligros_asociados": [
-      "HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento",
-      "GH - Operaciones inadecuadas en tierra"
-    ]
+    "descripcion": "Limitación o falta de disponibilidad o planificación de recursos, incluido el personal."
   },
   {
     "codigo": "OMN-04",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Gestión",
-    "descripcion": "Falta de o políticas ineficaces.",
-    "peligros_asociados": []
+    "descripcion": "Falta de o políticas ineficaces."
   },
   {
     "codigo": "OMN-05",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Gestión",
-    "descripcion": "Procedimientos incorrectos o incompletos, incluidas las instrucciones.",
-    "peligros_asociados": []
+    "descripcion": "Procedimientos incorrectos o incompletos, incluidas las instrucciones."
   },
   {
     "codigo": "OMN-06",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Gestión",
-    "descripcion": "Falta de o deficientes relaciones laborales y de gestión.",
-    "peligros_asociados": []
+    "descripcion": "Falta de o deficientes relaciones laborales y de gestión."
   },
   {
     "codigo": "OMN-07",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Gestión",
-    "descripcion": "Falta de o ineficaz estructura organizacional.",
-    "peligros_asociados": []
+    "descripcion": "Falta de o ineficaz estructura organizacional."
   },
   {
     "codigo": "OMN-08",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Gestión",
-    "descripcion": "Deficiente cultura de seguridad organizacional.",
-    "peligros_asociados": [
-      "FOD - Foreing Object Debris/Damage"
-    ]
+    "descripcion": "Deficiente cultura de seguridad organizacional."
   },
   {
     "codigo": "OMN-09",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Gestión",
-    "descripcion": "Falta de o ineficaces procesos de gestión de seguridad (incluyendo gestión de riesgos, garantía de seguridad, auditorías, capacitación y asignación de recursos).",
-    "peligros_asociados": [
-      "GH - Operaciones inadecuadas en tierra"
-    ]
+    "descripcion": "Falta de o ineficaces procesos de gestión de seguridad (incluyendo gestión de riesgos, garantía de seguridad, auditorías, capacitación y asignación de recursos)."
   },
   {
     "codigo": "OMN-10",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Gestión",
-    "descripcion": "Falta o procedimientos de auditoría ineficaces.",
-    "peligros_asociados": []
+    "descripcion": "Falta o procedimientos de auditoría ineficaces."
   },
   {
     "codigo": "OMN-11",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Gestión",
-    "descripcion": "Falta de o limitada asignación de recursos.",
-    "peligros_asociados": [
-      "HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento"
-    ]
+    "descripcion": "Falta de o limitada asignación de recursos."
   },
   {
     "codigo": "OMN-12",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Gestión",
-    "descripcion": "Capacitación incorrecta, incompleta o falta de ella; transferencia de conocimiento y medios formales de comunicación de seguridad deficientes.",
-    "peligros_asociados": []
+    "descripcion": "Capacitación incorrecta, incompleta o falta de ella; transferencia de conocimiento y medios formales de comunicación de seguridad deficientes."
   },
   {
     "codigo": "OMN-13",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Gestión",
-    "descripcion": "Estructuras organizacionales no oficiales.",
-    "peligros_asociados": []
+    "descripcion": "Estructuras organizacionales no oficiales."
   },
   {
     "codigo": "OMN-14",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Gestión",
-    "descripcion": "Crecimiento, huelgas, recesión o dificultades financieras organizacionales.",
-    "peligros_asociados": []
+    "descripcion": "Crecimiento, huelgas, recesión o dificultades financieras organizacionales."
   },
   {
     "codigo": "OMN-15",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Gestión",
-    "descripcion": "Fusiones o adquisiciones.",
-    "peligros_asociados": []
+    "descripcion": "Fusiones o adquisiciones."
   },
   {
     "codigo": "OMN-16",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Gestión",
-    "descripcion": "Cambios, actualizaciones o nuevas herramientas, equipos, procesos o instalaciones.",
-    "peligros_asociados": []
+    "descripcion": "Cambios, actualizaciones o nuevas herramientas, equipos, procesos o instalaciones."
   },
   {
     "codigo": "OMN-17",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Gestión",
-    "descripcion": "Procedimientos incorrectos o ineficaces de relevo de turno/tripulación.",
-    "peligros_asociados": []
+    "descripcion": "Procedimientos incorrectos o ineficaces de relevo de turno/tripulación."
   },
   {
     "codigo": "OMN-18",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Gestión",
-    "descripcion": "Cambios o rotación en la gerencia o empleados.",
-    "peligros_asociados": []
+    "descripcion": "Cambios o rotación en la gerencia o empleados."
   },
   {
     "codigo": "OMN-19",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Gestión",
-    "descripcion": "Procesos informales (Procedimientos Operativos Estándar).",
-    "peligros_asociados": []
+    "descripcion": "Procesos informales (Procedimientos Operativos Estándar)."
   },
   {
     "codigo": "OMN-20",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Gestión",
-    "descripcion": "Falta de, deficientes o inapropiadas decisiones de adquisición de materiales/equipos.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, deficientes o inapropiadas decisiones de adquisición de materiales/equipos."
   },
   {
     "codigo": "OMN-21",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Gestión",
-    "descripcion": "Falta de, deficiente contratación/asignación de personal.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, deficiente contratación/asignación de personal."
   },
   {
     "codigo": "OMN-22",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Gestión",
-    "descripcion": "Falta de, o no cumple con, o no se ha desarrollado un plan de respuesta de emergencia adecuado.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, o no cumple con, o no se ha desarrollado un plan de respuesta de emergencia adecuado."
   },
   {
     "codigo": "ODP-01",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Doc., Procesos y Proc.",
-    "descripcion": "Comunicación interna y externa incorrecta, deficiente o falta de ella, incluidas las barreras idiomáticas.",
-    "peligros_asociados": [
-      "FH - Factores humanos como; aspectos psicosociales e incapacidad evidente del personal técnico",
-      "DOC - Documentación inapropiada",
-      "MDA - Mantenimiento deficiente de aeronaves"
-    ]
+    "descripcion": "Comunicación interna y externa incorrecta, deficiente o falta de ella, incluidas las barreras idiomáticas."
   },
   {
     "codigo": "ODP-02",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Doc., Procesos y Proc.",
-    "descripcion": "Falta de, desactualizados, incorrectos o incompletos manuales o procedimientos operativos (incluido mantenimiento).",
-    "peligros_asociados": [
-      "DOC - Documentación inapropiada"
-    ]
+    "descripcion": "Falta de, desactualizados, incorrectos o incompletos manuales o procedimientos operativos (incluido mantenimiento)."
   },
   {
     "codigo": "ODP-03",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Doc., Procesos y Proc.",
-    "descripcion": "Falta de, incorrectas o incompletas descripciones de funciones del empleado.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, incorrectas o incompletas descripciones de funciones del empleado."
   },
   {
     "codigo": "ODP-04",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Doc., Procesos y Proc.",
-    "descripcion": "Falta de, incorrectos, incompletos o complicados procesos de actualización de documentos.",
-    "peligros_asociados": [
-      "DOC - Documentación inapropiada"
-    ]
+    "descripcion": "Falta de, incorrectos, incompletos o complicados procesos de actualización de documentos."
   },
   {
     "codigo": "ODP-05",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Doc., Procesos y Proc.",
-    "descripcion": "Falta de, incorrectos o incompletos informes y registros.",
-    "peligros_asociados": [
-      "DOC - Documentación inapropiada",
-      "PRO - Procedimientos de mantenimiento incorrectos"
-    ]
+    "descripcion": "Falta de, incorrectos o incompletos informes y registros."
   },
   {
     "codigo": "ODP-06",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Doc., Procesos y Proc.",
-    "descripcion": "Falta de, incorrecto o incompleto control de los documentos necesarios para el personal (licencias, habilitaciones y certificados).",
-    "peligros_asociados": []
+    "descripcion": "Falta de, incorrecto o incompleto control de los documentos necesarios para el personal (licencias, habilitaciones y certificados)."
   },
   {
     "codigo": "ODP-07",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Doc., Procesos y Proc.",
-    "descripcion": "Ausencia de, o aplicación incompleta de los procedimientos y buenas prácticas de los manuales de la organización.",
-    "peligros_asociados": [
-      "GH - Operaciones inadecuadas en tierra",
-      "MDA - Mantenimiento deficiente de aeronaves",
-      "PRO - Procedimientos de mantenimiento incorrectos"
-    ]
+    "descripcion": "Ausencia de, o aplicación incompleta de los procedimientos y buenas prácticas de los manuales de la organización."
   },
   {
     "codigo": "ODP-08",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Doc., Procesos y Proc.",
-    "descripcion": "Falta de, o incumplimiento de, procedimientos que demuestren el cumplimiento de las normas bajo las cuales trabaja la organización.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, o incumplimiento de, procedimientos que demuestren el cumplimiento de las normas bajo las cuales trabaja la organización."
   },
   {
     "codigo": "ODP-09",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Doc., Procesos y Proc.",
-    "descripcion": "Incumplimiento parcial o total de los requisitos aplicables a trabajos propios o subcontratados.",
-    "peligros_asociados": [
-      "GH - Operaciones inadecuadas en tierra",
-      "MDA - Mantenimiento deficiente de aeronaves"
-    ]
+    "descripcion": "Incumplimiento parcial o total de los requisitos aplicables a trabajos propios o subcontratados."
   },
   {
     "codigo": "ODP-10",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Doc., Procesos y Proc.",
-    "descripcion": "Falta de, o falta de mantenimiento de, la competencia del personal.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, o falta de mantenimiento de, la competencia del personal."
   },
   {
     "codigo": "ODP-11",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Doc., Procesos y Proc.",
-    "descripcion": "Falta de un contrato u orden de trabajo entre la organización de mantenimiento y el operador, que defina el alcance del trabajo a realizar y los trabajos solicitados y aceptados por el operador.",
-    "peligros_asociados": []
+    "descripcion": "Falta de un contrato u orden de trabajo entre la organización de mantenimiento y el operador, que defina el alcance del trabajo a realizar y los trabajos solicitados y aceptados por el operador."
   },
   {
     "codigo": "ODP-12",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Doc., Procesos y Proc.",
-    "descripcion": "Falta de aprobación / aceptación de documentos por parte de la Autoridad de Aviación Civil (AAC).",
-    "peligros_asociados": []
+    "descripcion": "Falta de aprobación / aceptación de documentos por parte de la Autoridad de Aviación Civil (AAC)."
   },
   {
     "codigo": "ODP-13",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Doc., Procesos y Proc.",
-    "descripcion": "Falta de, o ausencia de, documentos de nombramiento del personal, de acuerdo con las funciones realizadas (alcance y limitaciones), dentro de la organización, firmados por el ejecutivo responsable o persona delegada.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, o ausencia de, documentos de nombramiento del personal, de acuerdo con las funciones realizadas (alcance y limitaciones), dentro de la organización, firmados por el ejecutivo responsable o persona delegada."
   },
   {
     "codigo": "ODP-14",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Doc., Procesos y Proc.",
-    "descripcion": "Falta de, o incumplimiento del procedimiento correspondiente respecto a reparaciones mayores o modificaciones mayores.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, o incumplimiento del procedimiento correspondiente respecto a reparaciones mayores o modificaciones mayores."
   },
   {
     "codigo": "OTR-01",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Capacitación",
-    "descripcion": "Falta de, incorrecta o incompleta, impartición de capacitación (frecuencia, integridad, medidas de efectividad). Incluye factores humanos.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, incorrecta o incompleta, impartición de capacitación (frecuencia, integridad, medidas de efectividad). Incluye factores humanos."
   },
   {
     "codigo": "OTR-02",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Capacitación",
-    "descripcion": "Falta o programa de capacitación ineficaz, incluida la gestión general del programa, planes de estudio, instrucción, instructores, evaluaciones del curso, programa de capacitación recurrente adecuado, programa de capacitación remedial adecuado y exámenes.",
-    "peligros_asociados": []
+    "descripcion": "Falta o programa de capacitación ineficaz, incluida la gestión general del programa, planes de estudio, instrucción, instructores, evaluaciones del curso, programa de capacitación recurrente adecuado, programa de capacitación remedial adecuado y exámenes."
   },
   {
     "codigo": "OTR-03",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Capacitación",
-    "descripcion": "Falta de o ineficaces, procedimientos para calificar/capacitar, incluida la capacitación inicial, en el trabajo (OJT), instrucción/capacitación recurrente, tipo de instrucción/capacitación recibida, habilitaciones y certificaciones vigentes de un individuo.",
-    "peligros_asociados": []
+    "descripcion": "Falta de o ineficaces, procedimientos para calificar/capacitar, incluida la capacitación inicial, en el trabajo (OJT), instrucción/capacitación recurrente, tipo de instrucción/capacitación recibida, habilitaciones y certificaciones vigentes de un individuo."
   },
   {
     "codigo": "OTR-04",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Capacitación",
-    "descripcion": "Falta de, o ineficaz, cumplimiento del programa de capacitación en referencia a su preparación y control.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, o ineficaz, cumplimiento del programa de capacitación en referencia a su preparación y control."
   },
   {
     "codigo": "OTR-05",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Capacitación",
-    "descripcion": "No se cumple el procedimiento que garantiza la calificación y competencia inicial y recurrente del personal en materias técnicas y reglamentarias.",
-    "peligros_asociados": []
+    "descripcion": "No se cumple el procedimiento que garantiza la calificación y competencia inicial y recurrente del personal en materias técnicas y reglamentarias."
   },
   {
     "codigo": "OTR-06",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Capacitación",
-    "descripcion": "Falta de, o inadecuado o inapropiado equipo (aerónave, dispositivo de entrenamiento en simulador de vuelo), material y ayudas de capacitación.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, o inadecuado o inapropiado equipo (aerónave, dispositivo de entrenamiento en simulador de vuelo), material y ayudas de capacitación."
   },
   {
     "codigo": "QAS-01",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Sistema de Garantía de Calidad",
-    "descripcion": "Falta de, incumplimiento del programa de auditoría independiente y del Sistema de Gestión de la Seguridad (SMS).",
-    "peligros_asociados": []
+    "descripcion": "Falta de, incumplimiento del programa de auditoría independiente y del Sistema de Gestión de la Seguridad (SMS)."
   },
   {
     "codigo": "QAS-02",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Sistema de Garantía de Calidad",
-    "descripcion": "Falta de, ausencia de, análisis de causa raíz y solución oportuna a los hallazgos detectados en las auditorías independientes y el SMS.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, ausencia de, análisis de causa raíz y solución oportuna a los hallazgos detectados en las auditorías independientes y el SMS."
   },
   {
     "codigo": "QAS-03",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Sistema de Garantía de Calidad",
-    "descripcion": "Falta de, incompletos, registros de auditorías independientes y SMS que contengan al menos: informes de auditoría, acciones correctivas, evaluación de la efectividad de las acciones realizadas, análisis de cumplimiento, informes de retroalimentación.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, incompletos, registros de auditorías independientes y SMS que contengan al menos: informes de auditoría, acciones correctivas, evaluación de la efectividad de las acciones realizadas, análisis de cumplimiento, informes de retroalimentación."
   },
   {
     "codigo": "QAS-04",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Sistema de Garantía de Calidad",
-    "descripcion": "Falta de evidencia de procedimientos de monitorización que aseguren las buenas prácticas de la organización de mantenimiento.",
-    "peligros_asociados": []
+    "descripcion": "Falta de evidencia de procedimientos de monitorización que aseguren las buenas prácticas de la organización de mantenimiento."
   },
   {
     "codigo": "QAS-05",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Sistema de Garantía de Calidad",
-    "descripcion": "Falta de, incorrecta o incompleta, comunicación de los hallazgos al personal clave de la organización.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, incorrecta o incompleta, comunicación de los hallazgos al personal clave de la organización."
   },
   {
     "codigo": "QAS-06",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Sistema de Garantía de Calidad",
-    "descripcion": "Falta de, no adecuada, política de calidad.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, no adecuada, política de calidad."
   },
   {
     "codigo": "QAS-07",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Sistema de Garantía de Calidad",
-    "descripcion": "Falta de la política de calidad en el manual de la organización, firmado por el ejecutivo responsable.",
-    "peligros_asociados": []
+    "descripcion": "Falta de la política de calidad en el manual de la organización, firmado por el ejecutivo responsable."
   },
   {
     "codigo": "QAS-08",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Sistema de Garantía de Calidad",
-    "descripcion": "Auditorías de terceros: Falta de, o falta de conocimiento de, conocimiento técnico aeronáutico, seguridad operacional, técnicas de auditoría.",
-    "peligros_asociados": []
+    "descripcion": "Auditorías de terceros: Falta de, o falta de conocimiento de, conocimiento técnico aeronáutico, seguridad operacional, técnicas de auditoría."
   },
   {
     "codigo": "KOS-01",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Personal Clave",
-    "descripcion": "Falta de, incorrecto, no adecuado, documento de nombramiento del ejecutivo responsable donde se establecen las funciones y responsabilidades del puesto.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, incorrecto, no adecuado, documento de nombramiento del ejecutivo responsable donde se establecen las funciones y responsabilidades del puesto."
   },
   {
     "codigo": "KOS-02",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Personal Clave",
-    "descripcion": "Falta de conocimiento de la normativa aplicable por parte del ejecutivo responsable y del personal clave.",
-    "peligros_asociados": []
+    "descripcion": "Falta de conocimiento de la normativa aplicable por parte del ejecutivo responsable y del personal clave."
   },
   {
     "codigo": "KOS-03",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Personal Clave",
-    "descripcion": "Falta de, incorrecto, no adecuado documento del personal clave donde se establecen las funciones, responsabilidades y competencia del puesto.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, incorrecto, no adecuado documento del personal clave donde se establecen las funciones, responsabilidades y competencia del puesto."
   },
   {
     "codigo": "END-01",
     "categoria": "Peligros Ambientales (ENV)",
     "abrev": "Ambiental",
     "sub_cat": "Clima/Desastres Naturales",
-    "descripcion": "Tormentas eléctricas y rayos.",
-    "peligros_asociados": []
+    "descripcion": "Tormentas eléctricas y rayos."
   },
   {
     "codigo": "END-02",
     "categoria": "Peligros Ambientales (ENV)",
     "abrev": "Ambiental",
     "sub_cat": "Clima/Desastres Naturales",
-    "descripcion": "Granizo.",
-    "peligros_asociados": []
+    "descripcion": "Granizo."
   },
   {
     "codigo": "END-03",
     "categoria": "Peligros Ambientales (ENV)",
     "abrev": "Ambiental",
     "sub_cat": "Clima/Desastres Naturales",
-    "descripcion": "Lluvia intensa.",
-    "peligros_asociados": []
+    "descripcion": "Lluvia intensa."
   },
   {
     "codigo": "END-04",
     "categoria": "Peligros Ambientales (ENV)",
     "abrev": "Ambiental",
     "sub_cat": "Clima/Desastres Naturales",
-    "descripcion": "Niebla (visibilidad reducida).",
-    "peligros_asociados": []
+    "descripcion": "Niebla (visibilidad reducida)."
   },
   {
     "codigo": "END-05",
     "categoria": "Peligros Ambientales (ENV)",
     "abrev": "Ambiental",
     "sub_cat": "Clima/Desastres Naturales",
-    "descripcion": "Cizalladura de viento.",
-    "peligros_asociados": []
+    "descripcion": "Cizalladura de viento."
   },
   {
     "codigo": "END-06",
     "categoria": "Peligros Ambientales (ENV)",
     "abrev": "Ambiental",
     "sub_cat": "Clima/Desastres Naturales",
-    "descripcion": "Tormenta de arena.",
-    "peligros_asociados": []
+    "descripcion": "Tormenta de arena."
   },
   {
     "codigo": "END-07",
     "categoria": "Peligros Ambientales (ENV)",
     "abrev": "Ambiental",
     "sub_cat": "Clima/Desastres Naturales",
-    "descripcion": "Tormentas de nieve o hielo.",
-    "peligros_asociados": []
+    "descripcion": "Tormentas de nieve o hielo."
   },
   {
     "codigo": "END-08",
     "categoria": "Peligros Ambientales (ENV)",
     "abrev": "Ambiental",
     "sub_cat": "Clima/Desastres Naturales",
-    "descripcion": "Vientos excesivos o cruzados.",
-    "peligros_asociados": []
+    "descripcion": "Vientos excesivos o cruzados."
   },
   {
     "codigo": "END-09",
     "categoria": "Peligros Ambientales (ENV)",
     "abrev": "Ambiental",
     "sub_cat": "Clima/Desastres Naturales",
-    "descripcion": "Huracán, tsunami o tornado.",
-    "peligros_asociados": []
+    "descripcion": "Huracán, tsunami o tornado."
   },
   {
     "codigo": "END-10",
     "categoria": "Peligros Ambientales (ENV)",
     "abrev": "Ambiental",
     "sub_cat": "Clima/Desastres Naturales",
-    "descripcion": "Inundaciones.",
-    "peligros_asociados": []
+    "descripcion": "Inundaciones."
   },
   {
     "codigo": "END-11",
     "categoria": "Peligros Ambientales (ENV)",
     "abrev": "Ambiental",
     "sub_cat": "Clima/Desastres Naturales",
-    "descripcion": "Ceniza (incluyendo volcánica o de incendios forestales).",
-    "peligros_asociados": [
-      "GH - Operaciones inadecuadas en tierra"
-    ]
+    "descripcion": "Ceniza (incluyendo volcánica o de incendios forestales)."
   },
   {
     "codigo": "END-12",
     "categoria": "Peligros Ambientales (ENV)",
     "abrev": "Ambiental",
     "sub_cat": "Clima/Desastres Naturales",
-    "descripcion": "Terremoto.",
-    "peligros_asociados": []
+    "descripcion": "Terremoto."
   },
   {
     "codigo": "END-13",
     "categoria": "Peligros Ambientales (ENV)",
     "abrev": "Ambiental",
     "sub_cat": "Clima/Desastres Naturales",
-    "descripcion": "Temperaturas extremas.",
-    "peligros_asociados": []
+    "descripcion": "Temperaturas extremas."
   },
   {
     "codigo": "END-14",
     "categoria": "Peligros Ambientales (ENV)",
     "abrev": "Ambiental",
     "sub_cat": "Clima/Desastres Naturales",
-    "descripcion": "Condiciones de formación de hielo (Impacto en superficies de la aeronave).",
-    "peligros_asociados": []
+    "descripcion": "Condiciones de formación de hielo (Impacto en superficies de la aeronave)."
   },
   {
     "codigo": "EGE-01",
     "categoria": "Peligros Ambientales (ENV)",
     "abrev": "Ambiental",
     "sub_cat": "Geografía",
-    "descripcion": "Montañas o cuerpos de agua.",
-    "peligros_asociados": []
+    "descripcion": "Montañas o cuerpos de agua."
   },
   {
     "codigo": "EGE-02",
     "categoria": "Peligros Ambientales (ENV)",
     "abrev": "Ambiental",
     "sub_cat": "Geografía",
-    "descripcion": "Altitud en el aeródromo.",
-    "peligros_asociados": []
+    "descripcion": "Altitud en el aeródromo."
   },
   {
     "codigo": "EWL-01",
     "categoria": "Peligros Ambientales (ENV)",
     "abrev": "Ambiental",
     "sub_cat": "Fauna Silvestre",
-    "descripcion": "Fauna silvestre en el aeródromo.",
-    "peligros_asociados": []
+    "descripcion": "Fauna silvestre en el aeródromo."
   },
   {
     "codigo": "EWL-02",
     "categoria": "Peligros Ambientales (ENV)",
     "abrev": "Ambiental",
     "sub_cat": "Fauna Silvestre",
-    "descripcion": "Fauna silvestre voladora.",
-    "peligros_asociados": []
+    "descripcion": "Fauna silvestre voladora."
   },
   {
     "codigo": "HSI-01",
     "categoria": "Peligros Humanos (HUM)",
     "abrev": "Humano",
     "sub_cat": "Incapacitación Súbita",
-    "descripcion": "Ataque cardíaco, accidente cerebrovascular, cálculo renal, convulsión, epilepsia.",
-    "peligros_asociados": []
+    "descripcion": "Ataque cardíaco, accidente cerebrovascular, cálculo renal, convulsión, epilepsia."
   },
   {
     "codigo": "HDI-01",
     "categoria": "Peligros Humanos (HUM)",
     "abrev": "Humano",
     "sub_cat": "Incapacitación/Deficiencia Sutil",
-    "descripcion": "Náuseas, diarrea, monóxido de carbono, medicación, fatiga.",
-    "peligros_asociados": []
+    "descripcion": "Náuseas, diarrea, monóxido de carbono, medicación, fatiga."
   },
   {
     "codigo": "HIL-01",
     "categoria": "Peligros Humanos (HUM)",
     "abrev": "Humano",
     "sub_cat": "Enfermedad",
-    "descripcion": "Influenza, infección de las vías respiratorias superiores, infección urinaria.",
-    "peligros_asociados": []
+    "descripcion": "Influenza, infección de las vías respiratorias superiores, infección urinaria."
   },
   {
     "codigo": "HSL-01",
     "categoria": "Peligros Humanos (HUM)",
     "abrev": "Humano",
     "sub_cat": "Limitaciones Estáticas",
-    "descripcion": "Visión al color, limitaciones del campo visual, limitaciones de movilidad, bolsa de colostomía, pérdida auditiva.",
-    "peligros_asociados": []
+    "descripcion": "Visión al color, limitaciones del campo visual, limitaciones de movilidad, bolsa de colostomía, pérdida auditiva."
   },
   {
     "codigo": "HSS-01",
     "categoria": "Peligros Humanos (HUM)",
     "abrev": "Humano",
     "sub_cat": "Estrés Autoimpuesto",
-    "descripcion": "Fatiga (falta de sueño), abuso de alcohol y sustancias, medicamentos, complacencia.",
-    "peligros_asociados": []
+    "descripcion": "Fatiga (falta de sueño), abuso de alcohol y sustancias, medicamentos, complacencia."
   },
   {
     "codigo": "HPS-01",
     "categoria": "Peligros Humanos (HUM)",
     "abrev": "Humano",
     "sub_cat": "Estrés Psicosocial",
-    "descripcion": "Problemas financieros, nacimiento de un hijo, divorcio, duelo, plazos desafiantes, recursos inadecuados.",
-    "peligros_asociados": []
+    "descripcion": "Problemas financieros, nacimiento de un hijo, divorcio, duelo, plazos desafiantes, recursos inadecuados."
   },
   {
     "codigo": "HTR-01",
     "categoria": "Peligros Humanos (HUM)",
     "abrev": "Humano",
     "sub_cat": "Trauma",
-    "descripcion": "Lesión de la tripulación de cabina por turbulencia en vuelo, lesión causada al personal durante operaciones en tierra con la aeronave o manejo de equipaje.",
-    "peligros_asociados": []
+    "descripcion": "Lesión de la tripulación de cabina por turbulencia en vuelo, lesión causada al personal durante operaciones en tierra con la aeronave o manejo de equipaje."
   },
   {
     "codigo": "HEO-01",
     "categoria": "Peligros Humanos (HUM)",
     "abrev": "Humano",
     "sub_cat": "Ambiental/Laboral",
-    "descripcion": "Desfase horario (jet lag), taller de pintura, solventes, exposiciones químicas/biológicas, ruido, vibraciones, distracciones.",
-    "peligros_asociados": []
+    "descripcion": "Desfase horario (jet lag), taller de pintura, solventes, exposiciones químicas/biológicas, ruido, vibraciones, distracciones."
   },
   {
     "codigo": "HMM-01",
     "categoria": "Peligros Humanos (HUM)",
     "abrev": "Humano",
     "sub_cat": "Fallos Latentes Hombre/Máquina/Proc.",
-    "descripcion": "Factores humanos relacionados con el diseño, fabricación, mantenimiento y operaciones.",
-    "peligros_asociados": []
+    "descripcion": "Factores humanos relacionados con el diseño, fabricación, mantenimiento y operaciones."
   },
   {
     "codigo": "HCC-01",
     "categoria": "Peligros Humanos (HUM)",
     "abrev": "Humano",
     "sub_cat": "Capacidad Cognitiva",
-    "descripcion": "Número excesivo de aeronaves en el área de un controlador; acciones variables de multitarea; sobresaturación de información digital.",
-    "peligros_asociados": []
+    "descripcion": "Número excesivo de aeronaves en el área de un controlador; acciones variables de multitarea; sobresaturación de información digital."
   },
   {
     "codigo": "TOF-01",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Sistemas de suministro de energía eléctrica defectuosos en el aeropuerto o ayudas a la navegación (radares, satélites, VOR, ADS-B, etc.).",
-    "peligros_asociados": [
-      "GH - Operaciones inadecuadas en tierra"
-    ]
+    "descripcion": "Sistemas de suministro de energía eléctrica defectuosos en el aeropuerto o ayudas a la navegación (radares, satélites, VOR, ADS-B, etc.)."
   },
   {
     "codigo": "TOF-02",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Señalización e iluminación de aeródromo defectuosas, incorrectas o incompletas.",
-    "peligros_asociados": []
+    "descripcion": "Señalización e iluminación de aeródromo defectuosas, incorrectas o incompletas."
   },
   {
     "codigo": "TOF-04",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Complejidad del sistema de calles de rodaje y pistas.",
-    "peligros_asociados": []
+    "descripcion": "Complejidad del sistema de calles de rodaje y pistas."
   },
   {
     "codigo": "TOF-05",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Drenaje de aeródromo inadecuado.",
-    "peligros_asociados": []
+    "descripcion": "Drenaje de aeródromo inadecuado."
   },
   {
     "codigo": "TOF-06",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Equipos, radios, infraestructura o personal insuficientes.",
-    "peligros_asociados": []
+    "descripcion": "Equipos, radios, infraestructura o personal insuficientes."
   },
   {
     "codigo": "TOF-07",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Falta de, limitado o tipo incorrecto de estacionamiento de aeronaves.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, limitado o tipo incorrecto de estacionamiento de aeronaves."
   },
   {
     "codigo": "TOF-08",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Instalaciones",
-    "descripcion": "HVAC deficiente (calefacción, ventilación y aire acondicionado).",
-    "peligros_asociados": []
+    "descripcion": "HVAC deficiente (calefacción, ventilación y aire acondicionado)."
   },
   {
     "codigo": "TOF-09",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Ambiente ruidoso.",
-    "peligros_asociados": []
+    "descripcion": "Ambiente ruidoso."
   },
   {
     "codigo": "TOF-10",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Falta de o iluminación deficiente.",
-    "peligros_asociados": []
+    "descripcion": "Falta de o iluminación deficiente."
   },
   {
     "codigo": "TOF-11",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Instalaciones deficientes (espacio inadecuado, protección ambiental, áreas segregadas).",
-    "peligros_asociados": []
+    "descripcion": "Instalaciones deficientes (espacio inadecuado, protección ambiental, áreas segregadas)."
   },
   {
     "codigo": "TOF-12",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Instalaciones destinadas a ser restringidas sin protección, identificación o medidas de seguridad.",
-    "peligros_asociados": []
+    "descripcion": "Instalaciones destinadas a ser restringidas sin protección, identificación o medidas de seguridad."
   },
   {
     "codigo": "TOF-13",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Las instalaciones de equipos especiales no cumplen con las recomendaciones del fabricante del equipo (polvo, humedad, temperatura).",
-    "peligros_asociados": []
+    "descripcion": "Las instalaciones de equipos especiales no cumplen con las recomendaciones del fabricante del equipo (polvo, humedad, temperatura)."
   },
   {
     "codigo": "TPP-01",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Preparación Prevuelo",
-    "descripcion": "Falta de o verificación de aeronavegabilidad deficiente.",
-    "peligros_asociados": []
+    "descripcion": "Falta de o verificación de aeronavegabilidad deficiente."
   },
   {
     "codigo": "TPP-02",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Preparación Prevuelo",
-    "descripcion": "Falta de o verificación deficiente de los equipos e instrumentos necesarios para un vuelo u operación particular.",
-    "peligros_asociados": []
+    "descripcion": "Falta de o verificación deficiente de los equipos e instrumentos necesarios para un vuelo u operación particular."
   },
   {
     "codigo": "TPP-03",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Preparación Prevuelo",
-    "descripcion": "Falta de, incorrecta o incompleta verificación de las limitaciones de rendimiento de la aeronave.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, incorrecta o incompleta verificación de las limitaciones de rendimiento de la aeronave."
   },
   {
     "codigo": "TPP-04",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Preparación Prevuelo",
-    "descripcion": "Falta de, incorrecta o incompleta planificación de vuelo.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, incorrecta o incompleta planificación de vuelo."
   },
   {
     "codigo": "TPP-05",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Preparación Prevuelo",
-    "descripcion": "Procesos de repostaje de combustible deficientes.",
-    "peligros_asociados": []
+    "descripcion": "Procesos de repostaje de combustible deficientes."
   },
   {
     "codigo": "TPP-06",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Preparación Prevuelo",
-    "descripcion": "Falta de o despacho o liberación de aeronave deficiente.",
-    "peligros_asociados": []
+    "descripcion": "Falta de o despacho o liberación de aeronave deficiente."
   },
   {
     "codigo": "TPP-07",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Preparación Prevuelo",
-    "descripcion": "Falta de o liberación de mantenimiento deficiente.",
-    "peligros_asociados": []
+    "descripcion": "Falta de o liberación de mantenimiento deficiente."
   },
   {
     "codigo": "TAL-01",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Carga de Aeronave",
-    "descripcion": "Carga y distribución de carga incorrectas.",
-    "peligros_asociados": []
+    "descripcion": "Carga y distribución de carga incorrectas."
   },
   {
     "codigo": "TAL-02",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Carga de Aeronave",
-    "descripcion": "Transporte de materiales peligrosos impropio o no autorizado.",
-    "peligros_asociados": []
+    "descripcion": "Transporte de materiales peligrosos impropio o no autorizado."
   },
   {
     "codigo": "TAL-03",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Carga de Aeronave",
-    "descripcion": "Estiba de carga y equipaje deficiente.",
-    "peligros_asociados": [
-      "GH - Operaciones inadecuadas en tierra"
-    ]
+    "descripcion": "Estiba de carga y equipaje deficiente."
   },
   {
     "codigo": "TAL-04",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Carga de Aeronave",
-    "descripcion": "Información incorrecta sobre la carga o equipaje cargado.",
-    "peligros_asociados": []
+    "descripcion": "Información incorrecta sobre la carga o equipaje cargado."
   },
   {
     "codigo": "TAL-05",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Carga de Aeronave",
-    "descripcion": "Estiba impropia del equipaje de mano.",
-    "peligros_asociados": []
+    "descripcion": "Estiba impropia del equipaje de mano."
   },
   {
     "codigo": "TAL-06",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Carga de Aeronave",
-    "descripcion": "Cálculos de masa y balance incorrectos.",
-    "peligros_asociados": []
+    "descripcion": "Cálculos de masa y balance incorrectos."
   },
   {
     "codigo": "TFO-01",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Operaciones de Vuelo",
-    "descripcion": "Uso de documentos obsoletos.",
-    "peligros_asociados": []
+    "descripcion": "Uso de documentos obsoletos."
   },
   {
     "codigo": "TFO-02",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Operaciones de Vuelo",
-    "descripcion": "Ausencia de o manuales de tripulación de vuelo y cabina o cartas a bordo incorrectos.",
-    "peligros_asociados": []
+    "descripcion": "Ausencia de o manuales de tripulación de vuelo y cabina o cartas a bordo incorrectos."
   },
   {
     "codigo": "TFO-03",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Operaciones de Vuelo",
-    "descripcion": "Respuesta inadecuada a los cambios de ruta de vuelo.",
-    "peligros_asociados": []
+    "descripcion": "Respuesta inadecuada a los cambios de ruta de vuelo."
   },
   {
     "codigo": "TFO-04",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Operaciones de Vuelo",
-    "descripcion": "Falta de, o deficiente gestión de recursos de la tripulación.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, o deficiente gestión de recursos de la tripulación."
   },
   {
     "codigo": "TFO-05",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Operaciones de Vuelo",
-    "descripcion": "Falta de o seguimiento de vuelo deficiente.",
-    "peligros_asociados": []
+    "descripcion": "Falta de o seguimiento de vuelo deficiente."
   },
   {
     "codigo": "TFO-06",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Operaciones de Vuelo",
-    "descripcion": "Ejecución incorrecta de procedimientos en todas las fases del vuelo (incluyendo rodaje y estacionamiento).",
-    "peligros_asociados": []
+    "descripcion": "Ejecución incorrecta de procedimientos en todas las fases del vuelo (incluyendo rodaje y estacionamiento)."
   },
   {
     "codigo": "TFO-07",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Operaciones de Vuelo",
-    "descripcion": "Procedimientos inadecuados o complicados.",
-    "peligros_asociados": [
-      "GH - Operaciones inadecuadas en tierra",
-      "MDA - Mantenimiento deficiente de aeronaves"
-    ]
+    "descripcion": "Procedimientos inadecuados o complicados."
   },
   {
     "codigo": "TFO-08",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Operaciones de Vuelo",
-    "descripcion": "Equipos e instrumentos necesarios para un vuelo u operación particular no disponibles o funcionando mal.",
-    "peligros_asociados": []
+    "descripcion": "Equipos e instrumentos necesarios para un vuelo u operación particular no disponibles o funcionando mal."
   },
   {
     "codigo": "TFO-09",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Operaciones de Vuelo",
-    "descripcion": "Falta de, o comunicación deficiente (ATC, plataforma, mantenimiento, operaciones de vuelo, cabina, despacho, etc.).",
-    "peligros_asociados": [
-      "DOC - Documentación inapropiada"
-    ]
+    "descripcion": "Falta de, o comunicación deficiente (ATC, plataforma, mantenimiento, operaciones de vuelo, cabina, despacho, etc.)."
   },
   {
     "codigo": "TFO-10",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Operaciones de Vuelo",
-    "descripcion": "Barreras idiomáticas (múltiples idiomas).",
-    "peligros_asociados": []
+    "descripcion": "Barreras idiomáticas (múltiples idiomas)."
   },
   {
     "codigo": "TMF-01",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Instalaciones",
-    "descripcion": "HVAC deficiente (calefacción, ventilación y aire acondicionado).",
-    "peligros_asociados": []
+    "descripcion": "HVAC deficiente (calefacción, ventilación y aire acondicionado)."
   },
   {
     "codigo": "TMF-02",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Ambiente de trabajo ruidoso.",
-    "peligros_asociados": []
+    "descripcion": "Ambiente de trabajo ruidoso."
   },
   {
     "codigo": "TMF-03",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Falta de, o iluminación deficiente.",
-    "peligros_asociados": [
-      "HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento"
-    ]
+    "descripcion": "Falta de, o iluminación deficiente."
   },
   {
     "codigo": "TMF-04",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Instalaciones deficientes (espacio, equipo o infraestructura inadecuados).",
-    "peligros_asociados": [
-      "HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento"
-    ]
+    "descripcion": "Instalaciones deficientes (espacio, equipo o infraestructura inadecuados)."
   },
   {
     "codigo": "TMF-05",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Instalaciones deficientes (espacio inadecuado, protección ambiental, áreas segregadas).",
-    "peligros_asociados": [
-      "HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento"
-    ]
+    "descripcion": "Instalaciones deficientes (espacio inadecuado, protección ambiental, áreas segregadas)."
   },
   {
     "codigo": "TMF-06",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Instalaciones restringidas sin protección, identificación o medidas de seguridad.",
-    "peligros_asociados": [
-      "HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento"
-    ]
+    "descripcion": "Instalaciones restringidas sin protección, identificación o medidas de seguridad."
   },
   {
     "codigo": "TMF-07",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Las instalaciones de equipos especiales no cumplen con las recomendaciones del fabricante del equipo (polvo, humedad, temperatura).",
-    "peligros_asociados": []
+    "descripcion": "Las instalaciones de equipos especiales no cumplen con las recomendaciones del fabricante del equipo (polvo, humedad, temperatura)."
   },
   {
     "codigo": "TMF-08",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Instalaciones deficientes de estaciones adicionales.",
-    "peligros_asociados": []
+    "descripcion": "Instalaciones deficientes de estaciones adicionales."
   },
   {
     "codigo": "TMA-01",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Actividad de Mantenimiento",
-    "descripcion": "Falta de, o liberación de mantenimiento deficiente.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, o liberación de mantenimiento deficiente."
   },
   {
     "codigo": "TMA-02",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Actividad de Mantenimiento",
-    "descripcion": "Falta de, o programas de mantenimiento deficientes (incluyendo datos de mantenimiento imprecisos o errores de transcripción al crear órdenes de trabajo).",
-    "peligros_asociados": [
-      "DOC - Documentación inapropiada",
-      "MDA - Mantenimiento deficiente de aeronaves",
-      "PRO - Procedimientos de mantenimiento incorrectos"
-    ]
+    "descripcion": "Falta de, o programas de mantenimiento deficientes (incluyendo datos de mantenimiento imprecisos o errores de transcripción al crear órdenes de trabajo)."
   },
   {
     "codigo": "TMA-03",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Actividad de Mantenimiento",
-    "descripcion": "SUPS (Partes Sospechosas No Aprobadas).",
-    "peligros_asociados": [
-      "PRO - Procedimientos de mantenimiento incorrectos"
-    ]
+    "descripcion": "SUPS (Partes Sospechosas No Aprobadas)."
   },
   {
     "codigo": "TMA-04",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Actividad de Mantenimiento",
-    "descripcion": "Movimiento de aeronave en mantenimiento / puesta en marcha.",
-    "peligros_asociados": []
+    "descripcion": "Movimiento de aeronave en mantenimiento / puesta en marcha."
   },
   {
     "codigo": "TMA-05",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Actividad de Mantenimiento",
-    "descripcion": "Falta de, o comunicación deficiente (ATC, plataforma, operaciones de vuelo, cabina, despacho, etc.).",
-    "peligros_asociados": []
+    "descripcion": "Falta de, o comunicación deficiente (ATC, plataforma, operaciones de vuelo, cabina, despacho, etc.)."
   },
   {
     "codigo": "TMA-06",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Actividad de Mantenimiento",
-    "descripcion": "Barreras idiomáticas en los equipos de mantenimiento (múltiples idiomas).",
-    "peligros_asociados": []
+    "descripcion": "Barreras idiomáticas en los equipos de mantenimiento (múltiples idiomas)."
   },
   {
     "codigo": "TMA-07",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Actividad de Mantenimiento",
-    "descripcion": "Control deficiente del mantenimiento externalizado (cualquier mantenimiento completado fuera de las instalaciones u organización de mantenimiento, incluido el mantenimiento de terceros).",
-    "peligros_asociados": []
+    "descripcion": "Control deficiente del mantenimiento externalizado (cualquier mantenimiento completado fuera de las instalaciones u organización de mantenimiento, incluido el mantenimiento de terceros)."
   },
   {
     "codigo": "TMA-08",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Actividad de Mantenimiento",
-    "descripcion": "Falta de, o procesos especializados inapropiados (incluyendo END, plateado, soldadura, reparaciones compuestas, etc.).",
-    "peligros_asociados": []
+    "descripcion": "Falta de, o procesos especializados inapropiados (incluyendo END, plateado, soldadura, reparaciones compuestas, etc.)."
   },
   {
     "codigo": "TMA-09",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Actividad de Mantenimiento",
-    "descripcion": "Falta de, o control de Directivas de Aeronavegabilidad (AD) inadecuado.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, o control de Directivas de Aeronavegabilidad (AD) inadecuado."
   },
   {
     "codigo": "TMA-10",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Actividad de Mantenimiento",
-    "descripcion": "Procedimientos ineficaces o falta de ellos para asegurar que los materiales, partes o conjuntos se trabajen o fabriquen mediante una serie de pasos precisamente controlados, y que sufran una transformación física, química o metalúrgica.",
-    "peligros_asociados": []
+    "descripcion": "Procedimientos ineficaces o falta de ellos para asegurar que los materiales, partes o conjuntos se trabajen o fabriquen mediante una serie de pasos precisamente controlados, y que sufran una transformación física, química o metalúrgica."
   },
   {
     "codigo": "TMA-11",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Actividad de Mantenimiento",
-    "descripcion": "Falta de, o programa de confiabilidad inadecuado.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, o programa de confiabilidad inadecuado."
   },
   {
     "codigo": "TMA-12",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Actividad de Mantenimiento",
-    "descripcion": "Falta de, o uso incorrecto de, datos de mantenimiento para la ejecución de modificaciones y/o reparaciones mayores.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, o uso incorrecto de, datos de mantenimiento para la ejecución de modificaciones y/o reparaciones mayores."
   },
   {
     "codigo": "TMA-13",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Actividad de Mantenimiento",
-    "descripcion": "Falta de, o deficiente, cumplimiento del trabajo de mantenimiento (inspección, inspección en proceso, certificación de conformidad).",
-    "peligros_asociados": [
-      "DOC - Documentación inapropiada",
-      "PRO - Procedimientos de mantenimiento incorrectos"
-    ]
+    "descripcion": "Falta de, o deficiente, cumplimiento del trabajo de mantenimiento (inspección, inspección en proceso, certificación de conformidad)."
   },
   {
     "codigo": "TMA-14",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Actividad de Mantenimiento",
-    "descripcion": "Ejecución y registros de inspecciones inadecuados, o falta de ellos (recepción de materiales y componentes, preliminar, daños ocultos, en proceso, final o cumplimiento de mantenimiento).",
-    "peligros_asociados": [
-      "DOC - Documentación inapropiada",
-      "PRO - Procedimientos de mantenimiento incorrectos"
-    ]
+    "descripcion": "Ejecución y registros de inspecciones inadecuados, o falta de ellos (recepción de materiales y componentes, preliminar, daños ocultos, en proceso, final o cumplimiento de mantenimiento)."
   },
   {
     "codigo": "TMA-15",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Actividad de Mantenimiento",
-    "descripcion": "No se cumple, o existe un control deficiente, distribución, preservación de los registros de mantenimiento.",
-    "peligros_asociados": [
-      "PRO - Procedimientos de mantenimiento incorrectos"
-    ]
+    "descripcion": "No se cumple, o existe un control deficiente, distribución, preservación de los registros de mantenimiento."
   },
   {
     "codigo": "TMT-01",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Herramientas",
-    "descripcion": "Falta de, o deficiente responsabilidad de la herramienta (incluida trazabilidad o registro), o falta o incumplimiento del programa de calibración aceptado por la AAC.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, o deficiente responsabilidad de la herramienta (incluida trazabilidad o registro), o falta o incumplimiento del programa de calibración aceptado por la AAC."
   },
   {
     "codigo": "TMT-02",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Herramientas",
-    "descripcion": "Falta de equipos, herramientas y equipos de seguridad inseguros o no confiables.",
-    "peligros_asociados": [
-      "GH - Operaciones inadecuadas en tierra",
-      "HER - Uso de herramientas inapropiadas"
-    ]
+    "descripcion": "Falta de equipos, herramientas y equipos de seguridad inseguros o no confiables."
   },
   {
     "codigo": "TMT-03",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Herramientas",
-    "descripcion": "Disposición inapropiada de controles o pantallas.",
-    "peligros_asociados": []
+    "descripcion": "Disposición inapropiada de controles o pantallas."
   },
   {
     "codigo": "TMT-04",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Herramientas",
-    "descripcion": "Falta de, control deficiente de, o ausencia de, herramientas y equipos calibrados.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, control deficiente de, o ausencia de, herramientas y equipos calibrados."
   },
   {
     "codigo": "TMT-05",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Herramientas",
-    "descripcion": "Uso inapropiado o incorrecto de herramientas para la tarea.",
-    "peligros_asociados": [
-      "PRO - Procedimientos de mantenimiento incorrectos",
-      "HER - Uso de herramientas inapropiadas"
-    ]
+    "descripcion": "Uso inapropiado o incorrecto de herramientas para la tarea."
   },
   {
     "codigo": "TMT-06",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Herramientas",
-    "descripcion": "Falta de, o instrucciones inadecuadas para equipos, herramientas y equipos de seguridad.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, o instrucciones inadecuadas para equipos, herramientas y equipos de seguridad."
   },
   {
     "codigo": "TMT-07",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Herramientas",
-    "descripcion": "La herramienta o equipo no está aprobado por el Estado de diseño, o la herramienta o equipo fabricado por la AMO no cumple con los estándares del Estado de diseño.",
-    "peligros_asociados": []
+    "descripcion": "La herramienta o equipo no está aprobado por el Estado de diseño, o la herramienta o equipo fabricado por la AMO no cumple con los estándares del Estado de diseño."
   },
   {
     "codigo": "TMT-08",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Herramientas",
-    "descripcion": "Falta de aceptación por parte de la AAC que emitió la certificación a una AMO, para una herramienta o equipo fabricado por esa organización.",
-    "peligros_asociados": []
+    "descripcion": "Falta de aceptación por parte de la AAC que emitió la certificación a una AMO, para una herramienta o equipo fabricado por esa organización."
   },
   {
     "codigo": "TMM-01",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Mantenibilidad",
-    "descripcion": "Diseño complejo (dificultad de aislamiento de fallas, múltiples conexiones similares, etc.).",
-    "peligros_asociados": []
+    "descripcion": "Diseño complejo (dificultad de aislamiento de fallas, múltiples conexiones similares, etc.)."
   },
   {
     "codigo": "TMM-02",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Mantenibilidad",
-    "descripcion": "Componente/área inaccesible.",
-    "peligros_asociados": []
+    "descripcion": "Componente/área inaccesible."
   },
   {
     "codigo": "TMM-03",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Mantenibilidad",
-    "descripcion": "Variabilidad de la configuración de la aeronave (partes similares en diferentes modelos).",
-    "peligros_asociados": []
+    "descripcion": "Variabilidad de la configuración de la aeronave (partes similares en diferentes modelos)."
   },
   {
     "codigo": "TMD-01",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Datos de Mantenimiento",
-    "descripcion": "Falta de, o desactualizados, o no aplicables, datos de mantenimiento.",
-    "peligros_asociados": [
-      "DOC - Documentación inapropiada",
-      "PRO - Procedimientos de mantenimiento incorrectos"
-    ]
+    "descripcion": "Falta de, o desactualizados, o no aplicables, datos de mantenimiento."
   },
   {
     "codigo": "TMD-02",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Datos de Mantenimiento",
-    "descripcion": "Falta de, o inapropiado, procedimiento para la gestión de datos de mantenimiento que incluya las funciones y responsabilidades de la persona responsable de mantener los datos de mantenimiento.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, o inapropiado, procedimiento para la gestión de datos de mantenimiento que incluya las funciones y responsabilidades de la persona responsable de mantener los datos de mantenimiento."
   },
   {
     "codigo": "TMD-03",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Datos de Mantenimiento",
-    "descripcion": "Falta de, o inapropiado, procedimiento para modificar los datos de mantenimiento emitidos por el Estado de Diseño.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, o inapropiado, procedimiento para modificar los datos de mantenimiento emitidos por el Estado de Diseño."
   },
   {
     "codigo": "TMD-04",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Datos de Mantenimiento",
-    "descripcion": "Error en la transcripción, o falta de control, o falta de protección que impida la alteración, de los datos de mantenimiento al sistema de formularios utilizados por la AMO para el trabajo a realizar.",
-    "peligros_asociados": []
+    "descripcion": "Error en la transcripción, o falta de control, o falta de protección que impida la alteración, de los datos de mantenimiento al sistema de formularios utilizados por la AMO para el trabajo a realizar."
   },
   {
     "codigo": "TMD-05",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Datos de Mantenimiento",
-    "descripcion": "Falta de disponibilidad, o integridad, o legibilidad, o actualización de los datos de mantenimiento.",
-    "peligros_asociados": [
-      "DOC - Documentación inapropiada",
-      "MDA - Mantenimiento deficiente de aeronaves"
-    ]
+    "descripcion": "Falta de disponibilidad, o integridad, o legibilidad, o actualización de los datos de mantenimiento."
   },
   {
     "codigo": "CCM-01",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Liberación al Servicio",
-    "descripcion": "Falta de documento de certificación por personal autorizado por la AMO.",
-    "peligros_asociados": []
+    "descripcion": "Falta de documento de certificación por personal autorizado por la AMO."
   },
   {
     "codigo": "CCM-02",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Liberación al Servicio",
-    "descripcion": "Falta de datos en el documento de liberación de mantenimiento.",
-    "peligros_asociados": []
+    "descripcion": "Falta de datos en el documento de liberación de mantenimiento."
   },
   {
     "codigo": "TRO-01",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones de Pista",
-    "descripcion": "Construcción, vehículos y personas en el área de movimiento.",
-    "peligros_asociados": []
+    "descripcion": "Construcción, vehículos y personas en el área de movimiento."
   },
   {
     "codigo": "TRO-02",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones de Pista",
-    "descripcion": "Diseño deficiente del aeródromo (pistas que se intersecan; despeje de obstáculos; calles de rodaje que cruzan pistas).",
-    "peligros_asociados": []
+    "descripcion": "Diseño deficiente del aeródromo (pistas que se intersecan; despeje de obstáculos; calles de rodaje que cruzan pistas)."
   },
   {
     "codigo": "TRO-03",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones de Pista",
-    "descripcion": "Luces distractoras.",
-    "peligros_asociados": []
+    "descripcion": "Luces distractoras."
   },
   {
     "codigo": "TRO-04",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones de Pista",
-    "descripcion": "Falta de coordinación con el Control de Tránsito Aéreo (ATC).",
-    "peligros_asociados": []
+    "descripcion": "Falta de coordinación con el Control de Tránsito Aéreo (ATC)."
   },
   {
     "codigo": "TRO-05",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones de Pista",
-    "descripcion": "Emisión de Avisos a los Aviadores (NOTAM) incorrecta, inadecuada o falta de ella.",
-    "peligros_asociados": []
+    "descripcion": "Emisión de Avisos a los Aviadores (NOTAM) incorrecta, inadecuada o falta de ella."
   },
   {
     "codigo": "TRO-06",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones de Pista",
-    "descripcion": "Haces de láser.",
-    "peligros_asociados": []
+    "descripcion": "Haces de láser."
   },
   {
     "codigo": "TRC-01",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Condición de Pista",
-    "descripcion": "Condición deficiente o superficie de pista inapropiada.",
-    "peligros_asociados": [
-      "GH - Operaciones inadecuadas en tierra",
-      "FOD - Foreing Object Debris/Damage"
-    ]
+    "descripcion": "Condición deficiente o superficie de pista inapropiada."
   },
   {
     "codigo": "TRC-02",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Condición de Pista",
-    "descripcion": "Longitud de pista inadecuada.",
-    "peligros_asociados": []
+    "descripcion": "Longitud de pista inadecuada."
   },
   {
     "codigo": "TRC-03",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Condición de Pista",
-    "descripcion": "Falta de, o áreas protegidas de pista inadecuadas.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, o áreas protegidas de pista inadecuadas."
   },
   {
     "codigo": "TAO-01",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones en Plataforma",
-    "descripcion": "Estela de reacción (Jet blast).",
-    "peligros_asociados": []
+    "descripcion": "Estela de reacción (Jet blast)."
   },
   {
     "codigo": "TAO-02",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones en Plataforma",
-    "descripcion": "Falta de, limitado o tipo incorrecto de estacionamiento de aeronaves.",
-    "peligros_asociados": [
-      "GH - Operaciones inadecuadas en tierra"
-    ]
+    "descripcion": "Falta de, limitado o tipo incorrecto de estacionamiento de aeronaves."
   },
   {
     "codigo": "TAO-03",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones en Plataforma",
-    "descripcion": "Señalización con banderas (marshaling) incorrecta.",
-    "peligros_asociados": [
-      "GH - Operaciones inadecuadas en tierra"
-    ]
+    "descripcion": "Señalización con banderas (marshaling) incorrecta."
   },
   {
     "codigo": "TAO-04",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones en Plataforma",
-    "descripcion": "Falta de, o pilones de protección insuficientes alrededor de la aeronave.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, o pilones de protección insuficientes alrededor de la aeronave."
   },
   {
     "codigo": "TAO-05",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones en Plataforma",
-    "descripcion": "Falta de, o calzos inadecuados cuando la aeronave estaciona.",
-    "peligros_asociados": [
-      "GH - Operaciones inadecuadas en tierra"
-    ]
+    "descripcion": "Falta de, o calzos inadecuados cuando la aeronave estaciona."
   },
   {
     "codigo": "TAO-06",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones en Plataforma",
-    "descripcion": "Falta de, o control de objetos extraños (FOD) incorrecto.",
-    "peligros_asociados": [
-      "MDA - Mantenimiento deficiente de aeronaves",
-      "FOD - Foreing Object Debris/Damage"
-    ]
+    "descripcion": "Falta de, o control de objetos extraños (FOD) incorrecto."
   },
   {
     "codigo": "TAO-07",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones en Plataforma",
-    "descripcion": "Falta de, o procedimientos de sujeción en plataforma incorrectos.",
-    "peligros_asociados": [
-      "GH - Operaciones inadecuadas en tierra"
-    ]
+    "descripcion": "Falta de, o procedimientos de sujeción en plataforma incorrectos."
   },
   {
     "codigo": "TAO-08",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones en Plataforma",
-    "descripcion": "Contención y limpieza de derrames de combustible o material peligroso incorrectas.",
-    "peligros_asociados": []
+    "descripcion": "Contención y limpieza de derrames de combustible o material peligroso incorrectas."
   },
   {
     "codigo": "TAO-09",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones en Plataforma",
-    "descripcion": "Procedimientos de repostaje de combustible deficientes.",
-    "peligros_asociados": []
+    "descripcion": "Procedimientos de repostaje de combustible deficientes."
   },
   {
     "codigo": "TAV-01",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones de Vehículos",
-    "descripcion": "Fallo del vehículo durante los servicios de aeródromo.",
-    "peligros_asociados": []
+    "descripcion": "Fallo del vehículo durante los servicios de aeródromo."
   },
   {
     "codigo": "TAV-02",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones de Vehículos",
-    "descripcion": "Condición mecánica deficiente.",
-    "peligros_asociados": []
+    "descripcion": "Condición mecánica deficiente."
   },
   {
     "codigo": "TAV-03",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones de Vehículos",
-    "descripcion": "Condición deficiente de la radio o del equipo de comunicaciones.",
-    "peligros_asociados": []
+    "descripcion": "Condición deficiente de la radio o del equipo de comunicaciones."
   },
   {
     "codigo": "TAV-04",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones de Vehículos",
-    "descripcion": "Derrames de aceite en la plataforma y/o en las áreas de pasajeros.",
-    "peligros_asociados": []
+    "descripcion": "Derrames de aceite en la plataforma y/o en las áreas de pasajeros."
   },
   {
     "codigo": "TAV-05",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones de Vehículos",
-    "descripcion": "Falta de mantenimiento del vehículo.",
-    "peligros_asociados": [
-      "GH - Operaciones inadecuadas en tierra"
-    ]
+    "descripcion": "Falta de mantenimiento del vehículo."
   },
   {
     "codigo": "TVA-06",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones de Vehículos",
-    "descripcion": "Plan de respuesta de emergencia deficiente.",
-    "peligros_asociados": []
+    "descripcion": "Plan de respuesta de emergencia deficiente."
   },
   {
     "codigo": "TAV-07",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones de Vehículos",
-    "descripcion": "Conducción errática o que no cumple con los reglamentos de conducción en línea de vuelo.",
-    "peligros_asociados": []
+    "descripcion": "Conducción errática o que no cumple con los reglamentos de conducción en línea de vuelo."
   },
   {
     "codigo": "TAV-08",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones de Vehículos",
-    "descripcion": "Conducir demasiado rápido.",
-    "peligros_asociados": []
+    "descripcion": "Conducir demasiado rápido."
   },
   {
     "codigo": "TAV-09",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones de Vehículos",
-    "descripcion": "Estacionamiento incorrecto.",
-    "peligros_asociados": []
+    "descripcion": "Estacionamiento incorrecto."
   },
   {
     "codigo": "TAV-10",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones de Vehículos",
-    "descripcion": "No poner calzos a los vehículos.",
-    "peligros_asociados": []
+    "descripcion": "No poner calzos a los vehículos."
   },
   {
     "codigo": "TAV-11",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones de Vehículos",
-    "descripcion": "Dejar el motor en marcha mientras el vehículo está desatendido.",
-    "peligros_asociados": [
-      "GH - Operaciones inadecuadas en tierra"
-    ]
+    "descripcion": "Dejar el motor en marcha mientras el vehículo está desatendido."
   },
   {
     "codigo": "TAV-12",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones de Vehículos",
-    "descripcion": "Falta de coordinación entre vehículos durante el servicio a la aeronave.",
-    "peligros_asociados": []
+    "descripcion": "Falta de coordinación entre vehículos durante el servicio a la aeronave."
   },
   {
     "codigo": "TAI-01",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Acción de Individuos",
-    "descripcion": "Peatones en las áreas de plataforma.",
-    "peligros_asociados": []
+    "descripcion": "Peatones en las áreas de plataforma."
   },
   {
     "codigo": "TAI-02",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Acción de Individuos",
-    "descripcion": "Ignorar las balizas de peligro de la aeronave.",
-    "peligros_asociados": []
+    "descripcion": "Ignorar las balizas de peligro de la aeronave."
   },
   {
     "codigo": "TAI-03",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Acción de Individuos",
-    "descripcion": "Verificación incorrecta alrededor de la aeronave durante la señalización de ingreso o salida.",
-    "peligros_asociados": [
-      "GH - Operaciones inadecuadas en tierra"
-    ]
+    "descripcion": "Verificación incorrecta alrededor de la aeronave durante la señalización de ingreso o salida."
   },
   {
     "codigo": "TAI-04",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Acción de Individuos",
-    "descripcion": "Malinterpretar el marcado de la plataforma.",
-    "peligros_asociados": []
+    "descripcion": "Malinterpretar el marcado de la plataforma."
   },
   {
     "codigo": "TAI-05",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Acción de Individuos",
-    "descripcion": "Fumar en la plataforma.",
-    "peligros_asociados": []
+    "descripcion": "Fumar en la plataforma."
   },
   {
     "codigo": "TAI-06",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Acción de Individuos",
-    "descripcion": "El pasajero no sigue las instrucciones.",
-    "peligros_asociados": []
+    "descripcion": "El pasajero no sigue las instrucciones."
   },
   {
     "codigo": "TAI-07",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Acción de Individuos",
-    "descripcion": "Uso de teléfono celular dentro de los 15 metros de una operación de repostaje.",
-    "peligros_asociados": []
+    "descripcion": "Uso de teléfono celular dentro de los 15 metros de una operación de repostaje."
   },
   {
     "codigo": "TAI-08",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Acción de Individuos",
-    "descripcion": "Arrojar basura en la plataforma.",
-    "peligros_asociados": []
+    "descripcion": "Arrojar basura en la plataforma."
   },
   {
     "codigo": "TAI-09",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Acción de Individuos",
-    "descripcion": "Correr en la plataforma.",
-    "peligros_asociados": []
+    "descripcion": "Correr en la plataforma."
   },
   {
     "codigo": "TAF-01",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Sistemas de suministro de energía eléctrica defectuosos en el aeropuerto o ayudas a la navegación (radares, satélites, VOR, ADS-B, etc.).",
-    "peligros_asociados": []
+    "descripcion": "Sistemas de suministro de energía eléctrica defectuosos en el aeropuerto o ayudas a la navegación (radares, satélites, VOR, ADS-B, etc.)."
   },
   {
     "codigo": "TAF-02",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Señalización de aeródromo defectuosa, incorrecta o incompleta (especialmente en áreas de movimiento).",
-    "peligros_asociados": [
-      "HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento",
-      "GH - Operaciones inadecuadas en tierra"
-    ]
+    "descripcion": "Señalización de aeródromo defectuosa, incorrecta o incompleta (especialmente en áreas de movimiento)."
   },
   {
     "codigo": "TAF-03",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Iluminación de aeródromo defectuosa, incorrecta o incompleta (especialmente en áreas de movimiento).",
-    "peligros_asociados": []
+    "descripcion": "Iluminación de aeródromo defectuosa, incorrecta o incompleta (especialmente en áreas de movimiento)."
   },
   {
     "codigo": "TAF-04",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Iluminación de aproximación defectuosa, incorrecta o incompleta.",
-    "peligros_asociados": []
+    "descripcion": "Iluminación de aproximación defectuosa, incorrecta o incompleta."
   },
   {
     "codigo": "TAF-05",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Condición deficiente o superficie de pista inapropiada.",
-    "peligros_asociados": []
+    "descripcion": "Condición deficiente o superficie de pista inapropiada."
   },
   {
     "codigo": "TAF-06",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Condición deficiente o superficie de plataforma inapropiada.",
-    "peligros_asociados": [
-      "HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento"
-    ]
+    "descripcion": "Condición deficiente o superficie de plataforma inapropiada."
   },
   {
     "codigo": "TAF-07",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Complejidad del sistema de calles de rodaje y pistas.",
-    "peligros_asociados": []
+    "descripcion": "Complejidad del sistema de calles de rodaje y pistas."
   },
   {
     "codigo": "TAF-08",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Drenaje de aeródromo o terreno inadecuado.",
-    "peligros_asociados": []
+    "descripcion": "Drenaje de aeródromo o terreno inadecuado."
   },
   {
     "codigo": "TAF-09",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Equipos, radios, infraestructura o personal insuficientes.",
-    "peligros_asociados": []
+    "descripcion": "Equipos, radios, infraestructura o personal insuficientes."
   },
   {
     "codigo": "TAF-10",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Problemas que atraen fauna silvestre (hierba alta, proximidad de vertederos, cuerpos de agua cercanos).",
-    "peligros_asociados": []
+    "descripcion": "Problemas que atraen fauna silvestre (hierba alta, proximidad de vertederos, cuerpos de agua cercanos)."
   },
   {
     "codigo": "TAF-11",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Equipos de extinción de incendios inadecuados o inapropiados.",
-    "peligros_asociados": []
+    "descripcion": "Equipos de extinción de incendios inadecuados o inapropiados."
   },
   {
     "codigo": "TAF-12",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Falta de o áreas de estacionamiento limitadas.",
-    "peligros_asociados": []
+    "descripcion": "Falta de o áreas de estacionamiento limitadas."
   },
   {
     "codigo": "TAF-13",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Falta de equipos de protección de seguridad.",
-    "peligros_asociados": []
+    "descripcion": "Falta de equipos de protección de seguridad."
   },
   {
     "codigo": "TTP-01",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Patrón de Tránsito",
-    "descripcion": "Complejidad del tránsito (mezcla de tipos de aeronaves).",
-    "peligros_asociados": []
+    "descripcion": "Complejidad del tránsito (mezcla de tipos de aeronaves)."
   },
   {
     "codigo": "TTP-02",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Patrón de Tránsito",
-    "descripcion": "Exceso de aeronaves en el patrón o en un espacio aéreo dado.",
-    "peligros_asociados": []
+    "descripcion": "Exceso de aeronaves en el patrón o en un espacio aéreo dado."
   },
   {
     "codigo": "TTP-03",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Patrón de Tránsito",
-    "descripcion": "Diseño y flujo del patrón de tránsito ineficaz.",
-    "peligros_asociados": []
+    "descripcion": "Diseño y flujo del patrón de tránsito ineficaz."
   },
   {
     "codigo": "TTP-04",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Patrón de Tránsito",
-    "descripcion": "Incursiones en pista por aeronaves o vehículos.",
-    "peligros_asociados": []
+    "descripcion": "Incursiones en pista por aeronaves o vehículos."
   },
   {
     "codigo": "TTP-05",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Patrón de Tránsito",
-    "descripcion": "Vuelos no autorizados que ingresan al patrón de tránsito.",
-    "peligros_asociados": []
+    "descripcion": "Vuelos no autorizados que ingresan al patrón de tránsito."
   },
   {
     "codigo": "TTP-06",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Patrón de Tránsito",
-    "descripcion": "Procedimientos no autorizados por parte de aeronaves.",
-    "peligros_asociados": []
+    "descripcion": "Procedimientos no autorizados por parte de aeronaves."
   },
   {
     "codigo": "TTP-07",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Patrón de Tránsito",
-    "descripcion": "Indicativos de llamada similares o confusos.",
-    "peligros_asociados": []
+    "descripcion": "Indicativos de llamada similares o confusos."
   },
   {
     "codigo": "TTP-08",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Patrón de Tránsito",
-    "descripcion": "Falta de o procedimientos deficientes para aeronaves en situación de emergencia.",
-    "peligros_asociados": []
+    "descripcion": "Falta de o procedimientos deficientes para aeronaves en situación de emergencia."
   },
   {
     "codigo": "TAS-01",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Espacio Aéreo",
-    "descripcion": "Espacio aéreo insuficiente para el tránsito típico.",
-    "peligros_asociados": []
+    "descripcion": "Espacio aéreo insuficiente para el tránsito típico."
   },
   {
     "codigo": "TAS-02",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Espacio Aéreo",
-    "descripcion": "Espacio aéreo distribuido inadecuadamente.",
-    "peligros_asociados": []
+    "descripcion": "Espacio aéreo distribuido inadecuadamente."
   },
   {
     "codigo": "TAS-03",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Espacio Aéreo",
-    "descripcion": "Espacio aéreo combinado durante tránsito excesivo.",
-    "peligros_asociados": []
+    "descripcion": "Espacio aéreo combinado durante tránsito excesivo."
   },
   {
     "codigo": "TAS-04",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Espacio Aéreo",
-    "descripcion": "Etiquetado confuso de fixes o puntos de ruta.",
-    "peligros_asociados": []
+    "descripcion": "Etiquetado confuso de fixes o puntos de ruta."
   },
   {
     "codigo": "TAS-05",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Espacio Aéreo",
-    "descripcion": "Procedimientos instrumentales desarrollados incorrectamente.",
-    "peligros_asociados": []
+    "descripcion": "Procedimientos instrumentales desarrollados incorrectamente."
   },
   {
     "codigo": "TAS-06",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Espacio Aéreo",
-    "descripcion": "Aeronaves que realizan incorrectamente los procedimientos de aproximación frustrada.",
-    "peligros_asociados": []
+    "descripcion": "Aeronaves que realizan incorrectamente los procedimientos de aproximación frustrada."
   },
   {
     "codigo": "TAS-07",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Espacio Aéreo",
-    "descripcion": "Intermezcla de criterios de procedimientos instrumentales de la OACI y nacionales.",
-    "peligros_asociados": []
+    "descripcion": "Intermezcla de criterios de procedimientos instrumentales de la OACI y nacionales."
   },
   {
     "codigo": "TCA-01",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Acciones del Controlador",
-    "descripcion": "Autorizaciones incompletas.",
-    "peligros_asociados": []
+    "descripcion": "Autorizaciones incompletas."
   },
   {
     "codigo": "TCA-02",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Acciones del Controlador",
-    "descripcion": "Identificación errónea de aeronaves o blancos (radar).",
-    "peligros_asociados": []
+    "descripcion": "Identificación errónea de aeronaves o blancos (radar)."
   },
   {
     "codigo": "TCA-03",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Acciones del Controlador",
-    "descripcion": "Lectura incorrecta de las instrucciones de autorización.",
-    "peligros_asociados": []
+    "descripcion": "Lectura incorrecta de las instrucciones de autorización."
   },
   {
     "codigo": "TCA-04",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Acciones del Controlador",
-    "descripcion": "Pérdida de separación entre aeronaves.",
-    "peligros_asociados": []
+    "descripcion": "Pérdida de separación entre aeronaves."
   },
   {
     "codigo": "TCA-05",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Acciones del Controlador",
-    "descripcion": "Pérdida de separación entre aeronaves y terreno u obstáculos.",
-    "peligros_asociados": []
+    "descripcion": "Pérdida de separación entre aeronaves y terreno u obstáculos."
   },
   {
     "codigo": "TCA-06",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Acciones del Controlador",
-    "descripcion": "Interpretación errónea de las intenciones del piloto.",
-    "peligros_asociados": []
+    "descripcion": "Interpretación errónea de las intenciones del piloto."
   },
   {
     "codigo": "TCA-07",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Acciones del Controlador",
-    "descripcion": "Juicio incorrecto de las características de la aeronave.",
-    "peligros_asociados": []
+    "descripcion": "Juicio incorrecto de las características de la aeronave."
   },
   {
     "codigo": "TCO-01",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Comunicaciones",
-    "descripcion": "Comunicaciones incorrectas, confusas o incompletas entre ATC y el personal del aeródromo.",
-    "peligros_asociados": []
+    "descripcion": "Comunicaciones incorrectas, confusas o incompletas entre ATC y el personal del aeródromo."
   },
   {
     "codigo": "TCO-02",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Comunicaciones",
-    "descripcion": "Comunicaciones incorrectas, confusas o incompletas entre ATC y la aeronave.",
-    "peligros_asociados": []
+    "descripcion": "Comunicaciones incorrectas, confusas o incompletas entre ATC y la aeronave."
   },
   {
     "codigo": "TCO-03",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Comunicaciones",
-    "descripcion": "Coordinación incorrecta, confusa o incompleta entre o dentro de las instalaciones de ATC.",
-    "peligros_asociados": []
+    "descripcion": "Coordinación incorrecta, confusa o incompleta entre o dentro de las instalaciones de ATC."
   },
   {
     "codigo": "TCO-04",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Comunicaciones",
-    "descripcion": "Fallos o anomalías de radio/frecuencia.",
-    "peligros_asociados": []
+    "descripcion": "Fallos o anomalías de radio/frecuencia."
   },
   {
     "codigo": "TCO-05",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Comunicaciones",
-    "descripcion": "Fallos o anomalías de las ayudas a la navegación (radares, satélites, VOR, ADS-B, etc.).",
-    "peligros_asociados": []
+    "descripcion": "Fallos o anomalías de las ayudas a la navegación (radares, satélites, VOR, ADS-B, etc.)."
   },
   {
     "codigo": "TCO-06",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Comunicaciones",
-    "descripcion": "Diferencias en la fraseología de Control de Tránsito Aéreo de la OACI y nacional.",
-    "peligros_asociados": []
+    "descripcion": "Diferencias en la fraseología de Control de Tránsito Aéreo de la OACI y nacional."
   },
   {
     "codigo": "TCO-07",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Comunicaciones",
-    "descripcion": "No utilizar el lenguaje de aviación internacional estándar.",
-    "peligros_asociados": []
+    "descripcion": "No utilizar el lenguaje de aviación internacional estándar."
   },
   {
     "codigo": "TCO-08",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Comunicaciones",
-    "descripcion": "Barreras idiomáticas (múltiples idiomas).",
-    "peligros_asociados": []
+    "descripcion": "Barreras idiomáticas (múltiples idiomas)."
   },
   {
     "codigo": "TCO-09",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Comunicaciones",
-    "descripcion": "Falta de, o información aeronáutica errónea.",
-    "peligros_asociados": []
+    "descripcion": "Falta de, o información aeronáutica errónea."
   },
   {
     "codigo": "TNF-01",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Sistemas de suministro de energía eléctrica defectuosos en el aeropuerto o ayudas a la navegación (radares, satélites, VOR, ADS-B, etc.).",
-    "peligros_asociados": []
+    "descripcion": "Sistemas de suministro de energía eléctrica defectuosos en el aeropuerto o ayudas a la navegación (radares, satélites, VOR, ADS-B, etc.)."
   },
   {
     "codigo": "TNF-02",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Señalización o iluminación de aeródromo defectuosas, incorrectas o incompletas.",
-    "peligros_asociados": []
+    "descripcion": "Señalización o iluminación de aeródromo defectuosas, incorrectas o incompletas."
   },
   {
     "codigo": "TNF-03",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Iluminación de aproximación defectuosa, incorrecta o incompleta.",
-    "peligros_asociados": []
+    "descripcion": "Iluminación de aproximación defectuosa, incorrecta o incompleta."
   },
   {
     "codigo": "TNF-04",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Complejidad del sistema de calles de rodaje y pistas.",
-    "peligros_asociados": []
+    "descripcion": "Complejidad del sistema de calles de rodaje y pistas."
   },
   {
     "codigo": "TNF-05",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Drenaje de aeródromo o terreno inadecuado.",
-    "peligros_asociados": []
+    "descripcion": "Drenaje de aeródromo o terreno inadecuado."
   },
   {
     "codigo": "TNF-06",
     "categoria": "Peligros Técnicos – Servicios de Navegación Aérea (TECH)",
     "abrev": "Técnico (ANS)",
     "sub_cat": "Instalaciones",
-    "descripcion": "Equipos, radios, infraestructura o personal insuficientes.",
-    "peligros_asociados": []
+    "descripcion": "Equipos, radios, infraestructura o personal insuficientes."
   },
   {
     "codigo": "TRC-04",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Captura de Requisitos de Seguridad",
-    "descripcion": "Incumplimiento de las normativas aplicables (por ejemplo, FAA 14 CFR parte 23, 25, 27, 29, 33).",
-    "peligros_asociados": []
+    "descripcion": "Incumplimiento de las normativas aplicables (por ejemplo, FAA 14 CFR parte 23, 25, 27, 29, 33)."
   },
   {
     "codigo": "TRC-05",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Captura de Requisitos de Seguridad",
-    "descripcion": "Evaluación de riesgos funcionales inadecuada.",
-    "peligros_asociados": []
+    "descripcion": "Evaluación de riesgos funcionales inadecuada."
   },
   {
     "codigo": "TRC-06",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Captura de Requisitos de Seguridad",
-    "descripcion": "Análisis de cargas estáticas y dinámicas estructurales inadecuado.",
-    "peligros_asociados": []
+    "descripcion": "Análisis de cargas estáticas y dinámicas estructurales inadecuado."
   },
   {
     "codigo": "TRC-07",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Captura de Requisitos de Seguridad",
-    "descripcion": "Evaluación Preliminar de Seguridad del Sistema inadecuada.",
-    "peligros_asociados": []
+    "descripcion": "Evaluación Preliminar de Seguridad del Sistema inadecuada."
   },
   {
     "codigo": "TRC-08",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Captura de Requisitos de Seguridad",
-    "descripcion": "Análisis de causa común inadecuado.",
-    "peligros_asociados": []
+    "descripcion": "Análisis de causa común inadecuado."
   },
   {
     "codigo": "TRV-01",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Validación de Requisitos de Seguridad",
-    "descripcion": "Revisiones de diseño, análisis, pruebas en simulador, túnel de viento y pruebas de vuelo incompletas o ineficaces.",
-    "peligros_asociados": []
+    "descripcion": "Revisiones de diseño, análisis, pruebas en simulador, túnel de viento y pruebas de vuelo incompletas o ineficaces."
   },
   {
     "codigo": "TRV-02",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Validación de Requisitos de Seguridad",
-    "descripcion": "Análisis de cargas estructurales externas, internas y elementales ineficaz o incompleto.",
-    "peligros_asociados": []
+    "descripcion": "Análisis de cargas estructurales externas, internas y elementales ineficaz o incompleto."
   },
   {
     "codigo": "TVE-01",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Verificación de Requisitos de Seguridad",
-    "descripcion": "Verificación de cargas estructurales incompleta, como pruebas de carga estática, pruebas de vibración en tierra y pruebas de vuelo.",
-    "peligros_asociados": []
+    "descripcion": "Verificación de cargas estructurales incompleta, como pruebas de carga estática, pruebas de vibración en tierra y pruebas de vuelo."
   },
   {
     "codigo": "TVE-02",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Verificación de Requisitos de Seguridad",
-    "descripcion": "Proceso de Evaluaciones de Seguridad del Sistema (SSA) inadecuado, incluida la falta de, o verificación incorrecta de, los efectos de fallos mediante pruebas de rendimiento ante fallos.",
-    "peligros_asociados": []
+    "descripcion": "Proceso de Evaluaciones de Seguridad del Sistema (SSA) inadecuado, incluida la falta de, o verificación incorrecta de, los efectos de fallos mediante pruebas de rendimiento ante fallos."
   },
   {
     "codigo": "TVE-03",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Verificación de Requisitos de Seguridad",
-    "descripcion": "Verificación inadecuada del software y del hardware complejo.",
-    "peligros_asociados": []
+    "descripcion": "Verificación inadecuada del software y del hardware complejo."
   },
   {
     "codigo": "TAI-10",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Integración de Aeronave",
-    "descripcion": "Trazabilidad de requisitos inadecuada.",
-    "peligros_asociados": []
+    "descripcion": "Trazabilidad de requisitos inadecuada."
   },
   {
     "codigo": "TAI-11",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Integración de Aeronave",
-    "descripcion": "Control de los requisitos de diseño inadecuado.",
-    "peligros_asociados": []
+    "descripcion": "Control de los requisitos de diseño inadecuado."
   },
   {
     "codigo": "TAI-12",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Integración de Aeronave",
-    "descripcion": "Verificación inadecuada de las funciones no intencionadas sistema/sistema y sistema/estructura e interferencias físicas, como falta de pruebas en banco/simulador/aeronave e inspecciones zonales inadecuadas.",
-    "peligros_asociados": []
+    "descripcion": "Verificación inadecuada de las funciones no intencionadas sistema/sistema y sistema/estructura e interferencias físicas, como falta de pruebas en banco/simulador/aeronave e inspecciones zonales inadecuadas."
   },
   {
     "codigo": "TCS-01",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Seguridad Operacional Continua",
-    "descripcion": "Métodos de monitorización en servicio ineficaces, como falta de reporte y seguimiento de fallos.",
-    "peligros_asociados": []
+    "descripcion": "Métodos de monitorización en servicio ineficaces, como falta de reporte y seguimiento de fallos."
   },
   {
     "codigo": "TCS-02",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Seguridad Operacional Continua",
-    "descripcion": "Análisis de causa raíz, análisis de riesgos, desarrollo de acciones correctivas, validación de acciones correctivas e incorporación de acciones correctivas y lecciones aprendidas en el Proceso de Diseño inadecuados o nulos.",
-    "peligros_asociados": []
+    "descripcion": "Análisis de causa raíz, análisis de riesgos, desarrollo de acciones correctivas, validación de acciones correctivas e incorporación de acciones correctivas y lecciones aprendidas en el Proceso de Diseño inadecuados o nulos."
   },
   {
     "codigo": "TDC-01",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Control de Diseño",
-    "descripcion": "Falta de métodos para aprobar, controlar y documentar diseños iniciales y cambios de diseño.",
-    "peligros_asociados": []
+    "descripcion": "Falta de métodos para aprobar, controlar y documentar diseños iniciales y cambios de diseño."
   },
   {
     "codigo": "TDC-02",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Control de Diseño",
-    "descripcion": "Planificación e integración inadecuadas de los procedimientos de la instalación para mantener continuamente la integridad de los datos de diseño, planos, listas de partes y especificaciones necesarias para definir la configuración y las características de diseño del producto.",
-    "peligros_asociados": []
+    "descripcion": "Planificación e integración inadecuadas de los procedimientos de la instalación para mantener continuamente la integridad de los datos de diseño, planos, listas de partes y especificaciones necesarias para definir la configuración y las características de diseño del producto."
   },
   {
     "codigo": "TMP-01",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Procesos de Fabricación",
-    "descripcion": "Falta de procesos para el control de materiales, partes o conjuntos, cómo se aceptan, trabajan o fabrican, prueban, inspeccionan, almacenan y preparan para el envío.",
-    "peligros_asociados": []
+    "descripcion": "Falta de procesos para el control de materiales, partes o conjuntos, cómo se aceptan, trabajan o fabrican, prueban, inspeccionan, almacenan y preparan para el envío."
   },
   {
     "codigo": "TMP-02",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Procesos de Fabricación",
-    "descripcion": "Problemas con procesos de fabricación especiales y funciones y operaciones específicas necesarias para la fabricación e inspección de partes y conjuntos (algunos ejemplos son mecanizado, remachado y ensamblaje).",
-    "peligros_asociados": []
+    "descripcion": "Problemas con procesos de fabricación especiales y funciones y operaciones específicas necesarias para la fabricación e inspección de partes y conjuntos (algunos ejemplos son mecanizado, remachado y ensamblaje)."
   },
   {
     "codigo": "TMP-03",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Procesos de Fabricación",
-    "descripcion": "Procedimientos ineficaces o falta de ellos para asegurar que los materiales, partes o conjuntos se trabajen o fabriquen mediante una serie de pasos precisamente controlados, y que sufran una transformación física, química o metalúrgica (algunos ejemplos son tratamiento térmico, soldadura fuerte, soldadura y procesamiento de materiales compuestos).",
-    "peligros_asociados": []
+    "descripcion": "Procedimientos ineficaces o falta de ellos para asegurar que los materiales, partes o conjuntos se trabajen o fabriquen mediante una serie de pasos precisamente controlados, y que sufran una transformación física, química o metalúrgica (algunos ejemplos son tratamiento térmico, soldadura fuerte, soldadura y procesamiento de materiales compuestos)."
   },
   {
     "codigo": "TMP-04",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Procesos de Fabricación",
-    "descripcion": "Métodos inadecuados utilizados para aceptar y proteger materias primas, partes, subconjuntos, conjuntos y productos terminados durante la recepción, fabricación, inspección, prueba, almacenamiento y preparación para el envío.",
-    "peligros_asociados": []
+    "descripcion": "Métodos inadecuados utilizados para aceptar y proteger materias primas, partes, subconjuntos, conjuntos y productos terminados durante la recepción, fabricación, inspección, prueba, almacenamiento y preparación para el envío."
   },
   {
     "codigo": "TMP-05",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Procesos de Fabricación",
-    "descripcion": "Determinación de Aeronavegabilidad inadecuada, que es la función que proporciona la evaluación de productos/partes de productos terminados, y la documentación relacionada, para determinar la conformidad con los datos de diseño aprobados y su condición para una operación segura.",
-    "peligros_asociados": []
+    "descripcion": "Determinación de Aeronavegabilidad inadecuada, que es la función que proporciona la evaluación de productos/partes de productos terminados, y la documentación relacionada, para determinar la conformidad con los datos de diseño aprobados y su condición para una operación segura."
   },
   {
     "codigo": "TMC-01",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Controles de Fabricación",
-    "descripcion": "Métodos ineficaces que son utilizados por el Titular de la Aprobación de Producción para controlar la calidad del producto mediante métodos estadísticos, y que pueden utilizarse para la mejora continua y/o la aceptación del producto. El Control Estadístico de Calidad incluye técnicas como el muestreo estadístico, PRE-control y el control estadístico de procesos.",
-    "peligros_asociados": []
+    "descripcion": "Métodos ineficaces que son utilizados por el Titular de la Aprobación de Producción para controlar la calidad del producto mediante métodos estadísticos, y que pueden utilizarse para la mejora continua y/o la aceptación del producto. El Control Estadístico de Calidad incluye técnicas como el muestreo estadístico, PRE-control y el control estadístico de procesos."
   },
   {
     "codigo": "TMC-02",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Controles de Fabricación",
-    "descripcion": "Control ineficaz de los dispositivos de medición de precisión (por ejemplo, herramientas, balanzas, calibres, accesorios, instrumentos y máquinas de medición automatizadas) utilizados en la fabricación, procesamiento especial, inspección, prueba de partes detalladas, conjuntos y productos terminados para determinar la conformidad con el diseño aprobado.",
-    "peligros_asociados": []
+    "descripcion": "Control ineficaz de los dispositivos de medición de precisión (por ejemplo, herramientas, balanzas, calibres, accesorios, instrumentos y máquinas de medición automatizadas) utilizados en la fabricación, procesamiento especial, inspección, prueba de partes detalladas, conjuntos y productos terminados para determinar la conformidad con el diseño aprobado."
   },
   {
     "codigo": "TMC-03",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Controles de Fabricación",
-    "descripcion": "Falta de funciones que proporcionen pruebas estáticas, destructivas y funcionales de productos/partes de productos de producción para asegurar la conformidad con el diseño aprobado.",
-    "peligros_asociados": []
+    "descripcion": "Falta de funciones que proporcionen pruebas estáticas, destructivas y funcionales de productos/partes de productos de producción para asegurar la conformidad con el diseño aprobado."
   },
   {
     "codigo": "TMC-04",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Controles de Fabricación",
-    "descripcion": "Métodos ineficaces de control, evaluación y disposición de cualquier producto/parte del mismo que no se conforme con el diseño aprobado.",
-    "peligros_asociados": []
+    "descripcion": "Métodos ineficaces de control, evaluación y disposición de cualquier producto/parte del mismo que no se conforme con el diseño aprobado."
   },
   {
     "codigo": "TSC-01",
     "categoria": "Peligros Técnicos – Diseño y Fabricación (TECH)",
     "abrev": "Técnico (Diseño y Fab.)",
     "sub_cat": "Control de Proveedores",
-    "descripcion": "Métodos ineficaces mediante los cuales la instalación de producción asegura que los materiales, partes y servicios del proveedor se ajustan al diseño aprobado. El término \"proveedor\" incluye a los distribuidores.",
-    "peligros_asociados": []
+    "descripcion": "Métodos ineficaces mediante los cuales la instalación de producción asegura que los materiales, partes y servicios del proveedor se ajustan al diseño aprobado. El término \"proveedor\" incluye a los distribuidores."
   },
   {
     "codigo": "TMF-09",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Fallas Técnicas Recurrentes",
-    "descripcion": "Fallas recurrentes no resueltas en sistemas de aeronaves (vibraciones, fugas, componentes defectuosos)",
-    "peligros_asociados": [
-      "MDA - Mantenimiento deficiente de aeronaves"
-    ]
+    "descripcion": "Fallas recurrentes no resueltas en sistemas de aeronaves (vibraciones, fugas, componentes defectuosos)"
   },
   {
     "codigo": "TMF-10",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Instalación de Componentes/Accesorios/Equipo Emergencia",
-    "descripcion": "Instalación incorrecta o configuración errónea de componentes y sistemas",
-    "peligros_asociados": [
-      "MDA - Mantenimiento deficiente de aeronaves",
-      "GAR - Requerimientos de garantía por servicios deficientes"
-    ]
+    "descripcion": "Instalación incorrecta o configuración errónea de componentes y sistemas"
   },
   {
     "codigo": "TMF-11",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Trabajos Incompletos",
-    "descripcion": "Trabajos de mantenimiento parcialmente ejecutados o no culminados adecuadamente",
-    "peligros_asociados": [
-      "MDA - Mantenimiento deficiente de aeronaves"
-    ]
+    "descripcion": "Trabajos de mantenimiento parcialmente ejecutados o no culminados adecuadamente"
   },
   {
     "codigo": "OEP-01",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Equipos de Protección Personal",
-    "descripcion": "Falta de uso o disponibilidad de EPP en áreas operativas y de mantenimiento",
-    "peligros_asociados": [
-      "HAN - Problemas con las instalaciones del hangar, taller o base auxiliar de mantenimiento",
-      "GH - Operaciones inadecuadas en tierra"
-    ]
+    "descripcion": "Falta de uso o disponibilidad de EPP en áreas operativas y de mantenimiento"
   },
   {
     "codigo": "OPR-02",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Procedimientos RII",
-    "descripcion": "Incumplimiento de procedimientos para Ítems de Inspección Requerida (RII)",
-    "peligros_asociados": [
-      "GH - Operaciones inadecuadas en tierra",
-      "PRO - Procedimientos de mantenimiento incorrectos"
-    ]
+    "descripcion": "Incumplimiento de procedimientos para Ítems de Inspección Requerida (RII)"
   },
   {
     "codigo": "OCS-03",
     "categoria": "Peligros Organizacionales (ORG)",
     "abrev": "Organizacional",
     "sub_cat": "Configuración de Sistemas",
-    "descripcion": "Configuraciones incorrectas o inadecuadas de sistemas de aeronaves",
-    "peligros_asociados": [
-      "GH - Operaciones inadecuadas en tierra",
-      "PRO - Procedimientos de mantenimiento incorrectos"
-    ]
+    "descripcion": "Configuraciones incorrectas o inadecuadas de sistemas de aeronaves"
   },
   {
     "codigo": "HCS-01",
     "categoria": "Peligros Humanos (HUM)",
     "abrev": "Humano",
     "sub_cat": "Conciencia Situacional",
-    "descripcion": "Falta de atención al entorno y consecuencias de las acciones durante mantenimiento",
-    "peligros_asociados": [
-      "FH - Factores humanos como; aspectos psicosociales e incapacidad evidente del personal técnico",
-      "GH - Operaciones inadecuadas en tierra",
-      "PRO - Procedimientos de mantenimiento incorrectos",
-      "ALM - Almacenamiento inadecuado de componentes",
-      "DGA - Daños graves causados a una aeronave durante las actividades de mantenimiento"
-    ]
+    "descripcion": "Falta de atención al entorno y consecuencias de las acciones durante mantenimiento"
   },
   {
     "codigo": "TOE-01",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones Externas",
-    "descripcion": "Operaciones de aeronaves o vehículos externos que afectan la seguridad operacional",
-    "peligros_asociados": [
-      "GH - Operaciones inadecuadas en tierra"
-    ]
-  },
-  {
-    "codigo": "N/A",
-    "categoria": "N/A",
-    "abrev": "N/A",
-    "sub_cat": "N/A",
-    "descripcion": "N/A",
-    "peligros_asociados": []
+    "descripcion": "Operaciones de aeronaves o vehículos externos que afectan la seguridad operacional"
   },
   {
     "codigo": "HCS-02",
     "categoria": "Peligros Humanos (HUM)",
     "abrev": "Humano",
     "sub_cat": "Conciencia Situacional",
-    "descripcion": "Incorrecta, ineficaz o falta de conocimiento en la,  manipulacion de los equipos dispuestos en la cabina del piloto",
-    "peligros_asociados": []
+    "descripcion": "Incorrecta, ineficaz o falta de conocimiento en la,  manipulacion de los equipos dispuestos en la cabina del piloto"
   },
   {
     "codigo": "TMF-12",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Mant.)",
     "sub_cat": "Instalación de Componentes/Accesorios/Equipo Emergencia",
-    "descripcion": "Novedades con control de vencimientos de Componentes/Accesorios/Equipo Emergencia. ",
-    "peligros_asociados": [
-      "ALM - Almacenamiento inadecuado de componentes"
-    ]
+    "descripcion": "Novedades con control de vencimientos de Componentes/Accesorios/Equipo Emergencia."
   },
   {
     "codigo": "TAO-10",
     "categoria": "Peligros Técnicos – Aeródromos (TECH)",
     "abrev": "Técnico (Aeród.)",
     "sub_cat": "Operaciones en Plataforma",
-    "descripcion": "Prueba de motores sin asegurar el área.\n",
-    "peligros_asociados": [
-      "GH - Operaciones inadecuadas en tierra"
-    ]
+    "descripcion": "Prueba de motores sin asegurar el área."
   },
   {
     "codigo": "TPP-08",
     "categoria": "Peligros Técnicos – Operación Aérea y Mantenimiento (TECH)",
     "abrev": "Técnico (Op. Aérea)",
     "sub_cat": "Preparación Prevuelo",
-    "descripcion": "Falta de ajuste a las compuertas externas (bahía sistema HyD, DC, AC, etc.)\n",
-    "peligros_asociados": [
-      "GH - Operaciones inadecuadas en tierra"
-    ]
+    "descripcion": "Falta de ajuste a las compuertas externas (bahía sistema HyD, DC, AC, etc.)"
   }
 ]
